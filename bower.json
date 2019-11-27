@@ -1,0 +1,22 @@
+{
+  "name": "industry",
+  "homepage": "https://github.com/yigithsyn/9000-antenio",
+  "authors": [
+    "Hüseyin YİĞİT <yigit.hsyn@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "webix": "^5.2.0",
+    "bootstrap": "3.3.0",
+    "jquery": "1.11.1"
+  }
+}

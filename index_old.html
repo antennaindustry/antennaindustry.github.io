@@ -1,0 +1,485 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="utf-8">
+  <meta name="robots" content="noindex, nofollow">
+
+  <link rel="shortcut icon" type="image/png" href="/img/favicon.png" />
+
+  <title>Anten IO : Portfolios : Industry</title>
+
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link href="bower_components/bootstrap/dist/css/bootstrap.css" rel="stylesheet" id="bootstrap-css">
+  <!-- <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" rel="stylesheet"> -->
+  <link href="/lib/webix/webix.css" rel="stylesheet">
+  <style type="text/css">
+    .gallery-title {
+      font-size: 36px;
+      color: #42B32F;
+      text-align: center;
+      font-weight: 500;
+      margin-bottom: 70px;
+    }
+
+    .gallery-title:after {
+      content: "";
+      position: absolute;
+      width: 7.5%;
+      left: 46.5%;
+      height: 45px;
+      border-bottom: 1px solid #5e5e5e;
+    }
+
+    .filter-button {
+      font-size: 18px;
+      border: 1px solid #42B32F;
+      border-radius: 5px;
+      text-align: center;
+      color: #42B32F;
+      margin-bottom: 30px;
+
+    }
+
+    .filter-button:hover {
+      font-size: 18px;
+      border: 1px solid #42B32F;
+      border-radius: 5px;
+      text-align: center;
+      color: #ffffff;
+      background-color: #42B32F;
+
+    }
+
+    .btn-default:active .filter-button:active {
+      background-color: #42B32F;
+      color: white;
+    }
+
+    .port-image {
+      width: 100%;
+    }
+
+    .gallery_product {
+      margin-bottom: 30px;
+    }
+
+    /* navbar text color */
+
+    .navbar-default .navbar-brand {
+      color: #fed136
+    }
+
+    @media (min-width: 768px) {
+
+      .navbar>.container .navbar-brand,
+      .navbar>.container-fluid .navbar-brand {
+        color: rgba(255, 255, 255, 0.7)
+      }
+    }
+
+    .highlight_portfolio {
+      background-color: #ccc;
+    }
+
+    .highlight_portfolio_industry {
+      background-color: #3c763d;
+      content: "\2713";
+    }
+
+    /* navbar */
+    .navbar-brand {
+      font-size: 16px;
+    }
+
+    @media (min-width: 768px) {
+      .navbar-brand {
+        font-size: 18px;
+      }
+    }
+
+    /* navlink */
+    .nav-link {
+      font-size: 14px;
+    }
+
+    @media (min-width: 768px) {
+      .nav-link {
+        font-size: 16px;
+      }
+    }
+
+    /* portfolio columns */
+    .card-columns {
+      column-count: 2;
+    }
+
+    @media (min-width: 768px) {
+      .card-columns {
+        column-count: 3;
+      }
+    }
+
+    .card {
+      margin: 40px 5px;
+      border-top: 1px solid #ddd;
+      border-left: 1px solid #ddd;
+      border-right: 1px solid #ddd;
+      border-radius: 4px;
+      padding: 4px;
+      padding-top: 10px;
+      margin-bottom: 20px;
+      line-height: 1.42857143;
+      background-color: #fff;
+      break-inside: avoid;
+    }
+
+    @media (min-width: 768px) {
+      .card {
+        margin: 40px 20px;
+      }
+    }
+
+    img {
+      display: block;
+      max-width: 100%;
+      height: auto;
+      margin-left: auto;
+      margin-right: auto;
+    }
+
+    /* footer */
+    footer {
+      margin-top: 40px;
+    }
+  </style>
+  <script async src="https://www.googletagmanager.com/gtag/js?id=UA-126752612-1"></script>
+
+  <script src="bower_components/jquery/dist/jquery.min.js"></script>
+  <script src="bower_components/bootstrap/dist/js/bootstrap.js"></script>
+  <!-- <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js"></script> -->
+  <script src="/lib/webix/webix.js"></script>
+
+  <script src="/lib/custom/analytics.js"></script>
+  <script src="/lib/custom/authorize.js"></script>
+  <script src="/lib/custom/analytics.js"></script>
+  <script src="/lib/custom/prototypes.js"></script>
+
+
+</head>
+
+<body>
+
+  <!-- Fixed navbar -->
+  <nav class="navbar navbar-default navbar-fixed-top" style="background: #212529;">
+    <div class="container">
+      <div class="navbar-header">
+        <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar"
+          aria-expanded="false" style="background-color: #fed136;" aria-controls="navbar">
+          <span class="sr-only">Toggle navigation</span>
+          <span class="icon-bar"></span>
+          <span class="icon-bar"></span>
+          <span class="icon-bar"></span>
+        </button>
+        <a class="navbar-brand" href="/">Anten IO : Portfolios : Industry</a>
+      </div>
+      <div id="navbar" class="navbar-collapse collapse">
+        <ul class="nav navbar-nav navbar-right">
+          <li class="active">
+            <a id="suggest" class="nav-link js-scroll-trigger" onclick="openSuggestWin()" style="background: #212529; color: rgba(255, 255, 255, 1.0)">Suggest
+            </a>
+          </li>
+          <li id="addItem" class="active" style="display: none;">
+            <a class="nav-link js-scroll-trigger" onclick="openaddItemWin()" style="background: #212529; color: rgba(255, 255, 255, 1.0)">Add
+            </a>
+          </li>
+        </ul>
+      </div>
+    </div>
+  </nav>
+  <div class="container">
+    <div id="portfolio" class="row" style="padding-top: 70px;">
+      <div align="center">
+        <button class="btn btn-default filter-button" data-filter="all">All</button>
+        <button class="btn btn-default filter-button" data-filter="antenna">Antenna</button>
+        <button class="btn btn-default filter-button" data-filter="rf">RF Module</button>
+        <button class="btn btn-default filter-button" data-filter="microwave">Microwave</button>
+        <button class="btn btn-default filter-button" data-filter="mm-wave">MM-Wave</button>
+        <button class="btn btn-default filter-button" data-filter="measurement">Test &amp; Measurement</button>
+        <button class="btn btn-default filter-button" data-filter="cable-connector">Cable &amp; Connector</button>
+        <button class="btn btn-default filter-button" data-filter="pcb">PCB</button>
+        <button class="btn btn-default filter-button" data-filter="absorber">Absorber</button>
+        <button class="btn btn-default filter-button" data-filter="radome">Radome</button>
+      </div>
+      <br />
+
+      <div id="items"></div>
+
+      <div id="cards" class="card-columns">
+      </div>
+
+    </div>
+  </div>
+
+  <!-- Footer -->
+  <footer>
+    <div class="container">
+      <div class="row">
+        <div class="col-md-4">
+          <span class="copyright">Copyright &copy; Anten IO 2018</span>
+        </div>
+        <div class="col-md-4">
+          <ul class="list-inline social-buttons">
+            <li class="list-inline-item">
+              <a href="#">
+                <i class="fa fa-twitter"></i>
+              </a>
+            </li>
+            <li class="list-inline-item">
+              <a href="#">
+                <i class="fa fa-facebook"></i>
+              </a>
+            </li>
+            <li class="list-inline-item">
+              <a href="#">
+                <i class="fa fa-linkedin"></i>
+              </a>
+            </li>
+          </ul>
+        </div>
+        <div class="col-md-4">
+          <ul class="list-inline quicklinks">
+            <li class="list-inline-item">
+              <a href="#">Privacy Policy</a>
+            </li>
+            <li class="list-inline-item">
+              <a href="#">Terms of Use</a>
+            </li>
+          </ul>
+        </div>
+      </div>
+    </div>
+  </footer>
+
+  <script type="text/javascript">
+
+    // add item menu
+    function mark_portfolio(obj) {
+      if (obj.portfolio) {
+        if (obj.portfolio == "industry") return "<span style='color:#3c763d; font-weight:bold'>&#10003;</span>"
+      }
+      return ""
+    }
+
+    // linkclick
+    function linkClick() {
+      var item = $$("links").getSelectedItem()
+      open(item.url)
+    }
+
+    $(document).ready(function () {
+      setTimeout(() => {
+        if (user.username == "hsyn") {
+          var element = document.getElementById("addItem")
+          element.setAttribute("style", element.getAttribute("style") + "display: block;")
+        }
+      }, 1000)
+
+      // filter
+      $(".filter-button").click(function () {
+        var value = $(this).attr('data-filter');
+
+        if (value == "all") {
+          $('.filter').show('1000');
+        }
+        else {
+          $(".filter").not('.' + value).hide('3000');
+          $('.filter').filter('.' + value).show('3000');
+
+        }
+      });
+
+      if ($(".filter-button").removeClass("active")) {
+        $(this).removeClass("active");
+      }
+      $(this).addClass("active");
+
+      // load portfolio companies
+      var el = document.getElementById("cards");
+      while (el.firstChild) {
+        el.removeChild(el.firstChild);
+      }
+
+      webix.ajax().get("/mongodb/api/favorites/links?portfolio=industry", function (t, d, x) {
+        var companies = d.json()
+        companies.shuffle()
+        for (var i = 0; i < companies.length; i++) {
+
+          var el_div0 = document.createElement("div")
+          var el_div0_a0 = document.createElement("a")
+          var el_div0_a0_img0 = document.createElement("img")
+          var el_div0_a0_div0 = document.createElement("div")
+          var el_div0_a0_div0_h50 = document.createElement("h5")
+
+          el_div0_a0_div0_h50.className = "card-title"
+          el_div0_a0_div0.className = "card-body"
+          el_div0_a0_img0.className = "card-img-top"
+          el_div0.className = "card filter " + companies[i].category.replaceAll(",", "")
+
+          el_div0_a0_img0.setAttribute("src", "/filesystem/api/files/" + companies[i].logo)
+          el_div0_a0_img0.setAttribute("alt", companies[i].title)
+          el_div0_a0.setAttribute("href", companies[i].url)
+          el_div0_a0.setAttribute("target", "_blank")
+          el_div0_a0.setAttribute("rel", "noopener noreferrer")
+
+          el_div0_a0_div0_h50.innerHTML = companies[i].title
+
+          el_div0_a0_div0.appendChild(el_div0_a0_div0_h50)
+          el_div0_a0.appendChild(el_div0_a0_img0)
+          el_div0_a0.appendChild(el_div0_a0_div0)
+          el_div0.appendChild(el_div0_a0)
+          el.appendChild(el_div0)
+        }
+      })
+
+      webix.ready(function () {
+        webix.ui({
+          view: "window",
+          id: "addItemWin",
+          height: window.innerHeight * 0.75,
+          width: window.innerWidth * 0.75,
+          modal: true,
+          position: "center",
+          headHeight: 0,
+          on: {
+            "onShow": function () {
+              document.getElementsByClassName("webix_hidden_upload")[0].style.display = "none";
+            }
+          },
+          body:
+          {
+            rows: [
+              {
+                id: "links",
+                url: "/mongodb/api/favorites/links?class=Industry",
+                view: "datatable", select: "row",
+                columns: [
+                  { id: "portfolio", header: "", template: mark_portfolio, fillspace: 1 },
+                  { id: "category", header: ["Category", { content: "textFilter", contentId: "categoryHead"/*, options: categoryOptions*/ }], editor: "text", fillspace: 4 },
+                  // { id: "title", header: ["Title", { content: "textFilter", contentId: "titleHead" }], editor: "text", fillspace: 11 },
+                  { id: "url", header: ["URL", { content: "textFilter", contentId: "urlHead" }], template: "<a href='javascript:linkClick()'>#url#</a>", editor: "text", fillspace: 11 },
+                ],
+                on: {
+                  "onAfterLoad": function () {
+                    setTimeout(function () { $$("links").sort("category", "asc") }, 2000)
+                  },
+                  "onAfterSelect": function (id) {
+                    $$("companyName").setValue(this.getItem(id).title)
+                  },
+                },
+                scroll: false,
+              },
+              { id: "companyName", view: "text", label: "Name" },
+              {
+                cols: [
+                  { id: "companyLogoUrl", view: "text", label: "Logo", placeholder: "Enter url or browse file..." },
+                  {
+                    view: "uploader",
+                    id: "companyLogoBrowse",
+                    name: "file",
+                    value: "Browse",
+                    upload: "/filesystem/api/files",
+                    formData: { users: ["guest"], folder: "portfolio/industry" },
+                    multiple: false, autosend: false,
+                    width: 70,
+                    on: {
+                      "onAfterFileAdd": function (file) {
+                        $$("companyLogoUrl").setValue(file.name)
+                      }
+                    }
+                  },
+                ]
+              },
+              {
+                cols: [
+                  { id: "closeAddItemWin", view: "button", type: "danger", label: "Close", click: function () { $$("addItemWin").hide() } },
+                  {
+                    id: "addItem", view: "button", label: "Add", click: function () {
+                      $$("companyLogoBrowse").send(function (response) {
+                        if (response.n) {
+                          var item = $$("links").getSelectedItem()
+                          if (item) {
+                            var users = item.users
+                            if (users.indexOf("guest") === -1) users.push("guest")
+                            var update = { users: users, portfolio: "industry", logo: response.insertedId, title: $$("companyName").getValue() }
+                            webix.ajax().header({ "Content-type": "application/json" }).put("/mongodb/api/favorites/links/" + item._id, update, function (t, d, x) {
+                              if (d.json().nModified) {
+                                $$("links").updateItem(item.id, Object.assign(item, update));
+                              }
+                              else {
+                                $$("links").updateItem(item.id, Object.assign(item, {}));
+                              }
+                            })
+                          }
+                          else webix.message("Please select a company.")
+                        }
+                      })
+                    }
+                  },
+                ]
+              },
+            ],
+          }
+        })
+      });
+    });
+    function openaddItemWin() {
+      $$("addItemWin").show()
+    }
+
+    // Suggest window
+    webix.ready(function () {
+      webix.ui({
+        view: "window",
+        id: "suggestWin",
+        height: window.innerHeight * 0.5,
+        width: window.innerWidth * 0.5,
+        modal: true,
+        position: "center",
+        headHeight: 0,
+        on: {
+          "onShow": function () {
+            // document.getElementsByClassName("webix_hidden_upload")[0].style.display = "none";
+          }
+        },
+        body:
+        {
+          rows: [
+            { id: "suggestMessage", view: "textarea", label: "Message", labelPosition: "top", placeholder: "Suggest any idea, url, company name etc..." },
+            {
+              cols: [
+                { id: "closeSuggestWin", view: "button", type: "danger", label: "Close", click: function () { $$("suggestWin").hide() } },
+                {
+                  id: "suggestItem", view: "button", label: "Send", click: function () {
+                    webix.ajax().header({ "Content-type": "application/json" }).post("/mongodb/api/favorites/suggest", { "message": $$("suggestMessage").getValue() }, function (t, d, x) {
+                      console.log(d.json())
+                      $$("suggestWin").close()
+                    })
+                  }
+                },
+              ]
+            },
+          ],
+        }
+      })
+    });
+    function openSuggestWin() {
+      $$("suggestWin").show()
+    }
+  </script>
+
+
+
+</body>
+
+</html>

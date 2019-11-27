@@ -1,0 +1,16 @@
+{
+  "name": "industry",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "jquery.waitforimages": "^2.4.0",
+    "semantic-ui-dimmer": "^2.4.0",
+    "semantic-ui-loader": "^2.3.1"
+  }
+}
