@@ -9,6 +9,7 @@ ready(function () {
       // console.log(json); // this will show the info it in firebug console
       // console.log(json2); // this will show the info it in firebug console
       var companies = json.filter(item => item.portfolio == "industry")
+      console.log(companies.length)
       companies.shuffle()
       for (var i = 0; i < companies.length; i++) {
 
