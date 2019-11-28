@@ -4,8 +4,8 @@ ready(function () {
     el.removeChild(el.firstChild);
   }
 
-  $.getJSON("json/links.json", function (json) {
-    $.getJSON("json/files.json", function (json2) {
+  $.getJSON("json/links3.json", function (json) {
+    $.getJSON("json/files3.json", function (json2) {
       // console.log(json); // this will show the info it in firebug console
       // console.log(json2); // this will show the info it in firebug console
       var companies = json.filter(item => item.portfolio == "industry")

@@ -1,0 +1,3492 @@
+{
+  "_id": {
+    "$oid": "5afe72580e7da51164ed8709"
+  },
+  "category": "pcb",
+  "url": "http://www.hofmannlp.de/index.php",
+  "period": "180",
+  "title": "Hofmann Leiterplatten  |  Leiterplatten, Frontplatten und Bestückung",
+  "favicon": "http://www.hofmannlp.de/fileadmin/template/favicon.ico",
+  "lastvisit": "2019-05-21",
+  "username": "hsyn",
+  "id": "5afe72580e7da51164ed8709",
+  "owners": [
+    "hsyn"
+  ],
+  "users": [
+    "hsyn",
+    "guest"
+  ],
+  "meta": "Hofmann Leiterplatten GmbH Regensburg",
+  "class": "Industry",
+  "logo": "5bb46066b2354e766289147c",
+  "portfolio": "industry",
+  "local": false
+}
+{
+  "_id": {
+    "$oid": "5afe72590e7da51164ed870b"
+  },
+  "category": "pcb",
+  "url": "http://www.rfpcbs.com/products-and-services/",
+  "period": "180",
+  "title": "Printech Circuit Laboratories Products & Manufacturing Services | Printech Circuit Laboratories",
+  "lastvisit": "2019-05-20",
+  "username": "hsyn",
+  "id": "5afe72590e7da51164ed870b",
+  "owners": [
+    "hsyn"
+  ],
+  "users": [
+    "hsyn",
+    "guest"
+  ],
+  "meta": "Printech Circuit Laboratories offer many products & manufacturing services. For PCB information or international enquiries get in touch.",
+  "class": "Industry",
+  "logo": "5bb46042b2354e766289147b",
+  "portfolio": "industry",
+  "local": false
+}
+{
+  "_id": {
+    "$oid": "5afe72590e7da51164ed870c"
+  },
+  "category": "pcb",
+  "url": "http://www.elatesa.com/",
+  "period": "240",
+  "title": "Somos una empresa joven y dinámica, fundada en 1991 por un grupo de profesionales de la industria electrónica.",
+  "lastvisit": "2019-05-20",
+  "username": "hsyn",
+  "id": "5afe72590e7da51164ed870c",
+  "owners": [
+    "hsyn"
+  ],
+  "users": [
+    "hsyn",
+    "guest"
+  ],
+  "class": "Industry",
+  "logo": "5bb45f94b2354e766289147a",
+  "portfolio": "industry",
+  "local": false
+}
+{
+  "_id": {
+    "$oid": "5afed4b20e7da51164ed871a"
+  },
+  "class": "Industry",
+  "category": "rf, microwave, antenna, mm-wave",
+  "head": "",
+  "url": "https://quinstar.com/",
+  "period": "180",
+  "lastvisit": "2019-05-20",
+  "username": "hsyn",
+  "id": "5afed4b20e7da51164ed871a",
+  "owners": [
+    "hsyn"
+  ],
+  "users": [
+    "hsyn",
+    "guest"
+  ],
+  "title": "Millimeter-Wave Innovation | QuinStar Technology, Inc.",
+  "meta": "Capitalizing on our past engineering achievements, QuinStar leads the way into the future. We are millimeter-wave innovation.",
+  "logo": "5b958cd2e76b1311d4539f22",
+  "portfolio": "industry",
+  "local": false
+}
+{
+  "_id": {
+    "$oid": "5afed5c00e7da51164ed871b"
+  },
+  "class": "Industry",
+  "category": "mm-wave, RF, antenna",
+  "head": "",
+  "url": "http://www.miwv.com/",
+  "period": "120",
+  "lastvisit": "2019-04-16",
+  "username": "hsyn",
+  "id": "5afed5c00e7da51164ed871b",
+  "owners": [
+    "hsyn"
+  ],
+  "users": [
+    "hsyn",
+    "guest"
+  ],
+  "title": "Millimeter Wave Products | Components | MM Wave systems",
+  "meta": "Millimeter Wave Products Inc. is a global leader of advanced research, design & manufacturing of millimeter wave products in the 5GHz to 325GHz spectrum.",
+  "logo": "5b958da3e76b1311d4539f24",
+  "portfolio": "industry",
+  "local": false
+}
+{
+  "_id": {
+    "$oid": "5b027fd10e7da51164ed872c"
+  },
+  "class": "Industry",
+  "category": "antenna",
+  "head": "",
+  "url": "https://www.ethertronics.com/",
+  "period": "120",
+  "lastvisit": "2019-04-16",
+  "username": "hsyn",
+  "id": "5b027fd10e7da51164ed872c",
+  "owners": [
+    "hsyn"
+  ],
+  "users": [
+    "hsyn",
+    "guest"
+  ],
+  "title": "Ethertronics",
+  "meta": "",
+  "logo": "5ba1db99acc81b04814deb20",
+  "portfolio": "industry",
+  "local": false
+}
+{
+  "_id": {
+    "$oid": "5b0cf8b791382b0dac9d64ac"
+  },
+  "class": "Industry",
+  "category": "pcb",
+  "url": "http://www.andus.de/index.en.php",
+  "period": "360",
+  "lastvisit": "2019-06-19",
+  "username": "hsyn",
+  "owners": [
+    "hsyn"
+  ],
+  "users": [
+    "hsyn",
+    "guest"
+  ],
+  "id": "5b0cf8b791382b0dac9d64ac",
+  "title": "EXPRESS Printed Circuit Boards of ANDUS ELECTRONIC from Berlin",
+  "meta": "",
+  "logo": "5bb31341b2354e7662891472",
+  "portfolio": "industry",
+  "local": false
+}
+{
+  "_id": {
+    "$oid": "5b0cfd1591382b0dac9d64b7"
+  },
+  "class": "Industry",
+  "category": "rf, semiconductor",
+  "url": "http://www.vishay.com/",
+  "period": "120",
+  "lastvisit": "2019-07-31",
+  "username": "hsyn",
+  "owners": [
+    "hsyn"
+  ],
+  "users": [
+    "hsyn",
+    "guest"
+  ],
+  "id": "5b0cfd1591382b0dac9d64b7",
+  "title": "Vishay - manufacturer of discrete semiconductors and passive components",
+  "meta": "Vishay",
+  "logo": "5cc00a4142e7d10968e7fa5d",
+  "portfolio": "industry"
+}
+{
+  "_id": {
+    "$oid": "5b0cfd3e91382b0dac9d64b8"
+  },
+  "class": "Industry",
+  "category": "absorber, paint",
+  "url": "http://www.kimetsan.com/",
+  "period": "180",
+  "lastvisit": "2019-01-07",
+  "username": "hsyn",
+  "owners": [
+    "hsyn"
+  ],
+  "users": [
+    "hsyn",
+    "guest"
+  ],
+  "id": "5b0cfd3e91382b0dac9d64b8",
+  "title": "Kimetsan",
+  "meta": "",
+  "logo": "5bb71440b2354e766289147f",
+  "portfolio": "industry",
+  "local": false
+}
+{
+  "_id": {
+    "$oid": "5b0cfd6991382b0dac9d64b9"
+  },
+  "class": "Industry",
+  "category": "radome, composite",
+  "url": " http://www.volo.com.tr/",
+  "period": "360",
+  "lastvisit": "2019-06-19",
+  "username": "hsyn",
+  "owners": [
+    "hsyn"
+  ],
+  "users": [
+    "hsyn",
+    "guest"
+  ],
+  "id": "5b0cfd6991382b0dac9d64b9",
+  "title": "Ana Sayfa - Volo Savunma",
+  "meta": "",
+  "logo": "5bfc4f1faf89ba5ee49e7260",
+  "portfolio": "industry",
+  "local": false
+}
+{
+  "_id": {
+    "$oid": "5b0cfdc391382b0dac9d64ba"
+  },
+  "class": "Industry",
+  "category": "rf, cable-connector",
+  "url": "https://www.amphenolrf.com/",
+  "period": "180",
+  "lastvisit": "2019-01-14",
+  "username": "hsyn",
+  "id": "5b0cfdc391382b0dac9d64ba",
+  "owners": [
+    "hsyn"
+  ],
+  "users": [
+    "hsyn",
+    "guest"
+  ],
+  "title": "RF Coaxial Connectors, Adapters and Cable Assemblies | Amphenol RF",
+  "meta": "Amphenol RF is the world’s largest manufacturer of coaxial connectors for use in radio frequency, microwave, and data transmission system applications. Headquartered in Danbury, Connecticut, USA, Amphenol RF has global sales, marketing and manufacturing locations in North America, Asia and Europe.",
+  "logo": "5ba8a37a174f1304cf9fee77",
+  "portfolio": "industry",
+  "local": false
+}
+{
+  "_id": {
+    "$oid": "5b2c93891b7dc613d0c05771"
+  },
+  "class": "Industry",
+  "category": "antenna, hf",
+  "url": "http://antennaproducts.com/",
+  "period": "180",
+  "lastvisit": "2019-03-21",
+  "username": "hsyn",
+  "id": "5b2c93891b7dc613d0c05771",
+  "owners": [
+    "hsyn"
+  ],
+  "users": [
+    "hsyn",
+    "guest"
+  ],
+  "title": "Antenna Products Manufacturer | HF Antennas UHV/VHF ISM ILS RFID & DAS Antennas",
+  "meta": "Antenna Products Manufacturer of HF Antennas UHF VHF Small Cell/DAS ILS RFID Antennas. Specializing in Military Antennas & Outdoor DAS Antennas in 3G 4G Systems",
+  "logo": "5b8cf22021172710c86a42f0",
+  "portfolio": "industry",
+  "local": false
+}
+{
+  "_id": {
+    "$oid": "5b3089bff9b3eb136061f347"
+  },
+  "class": "Industry",
+  "category": "microwave, rf",
+  "url": "https://www.xmicrowave.com/",
+  "period": "90",
+  "lastvisit": "2019-04-08",
+  "username": "hsyn",
+  "owners": [
+    "hsyn"
+  ],
+  "users": [
+    "hsyn",
+    "guest"
+  ],
+  "id": "5b3089bff9b3eb136061f347",
+  "logo": "5ba1e981acc81b04814deb21",
+  "portfolio": "industry",
+  "title": "X-Microwave",
+  "local": false
+}
+{
+  "_id": {
+    "$oid": "5b308acaf9b3eb136061f348"
+  },
+  "class": "Industry",
+  "category": "antenna, radiolink",
+  "url": "http://www.anokiwave.com/",
+  "period": "180",
+  "lastvisit": "2019-03-15",
+  "username": "hsyn",
+  "owners": [
+    "hsyn"
+  ],
+  "users": [
+    "hsyn",
+    "guest"
+  ],
+  "id": "5b308acaf9b3eb136061f348",
+  "title": "Anokiwave | mmW Solutions. Enabling a new world.",
+  "meta": "Pioneering the mmW revolution, we are a fabless semiconductor company providing highly integrated silicon core chips and silicon front ends for mmW markets.  Our core chip solutions enable next generation radio, radar and AESA applications.  This is the main page for our site - information for products, press and career information is contained within the site on the sub-pages",
+  "logo": "5b958a5ce76b1311d4539f1a",
+  "portfolio": "industry",
+  "local": false
+}
+{
+  "_id": {
+    "$oid": "5b308af1f9b3eb136061f349"
+  },
+  "class": "Industry",
+  "category": "rf, microwave, antenna",
+  "url": "http://www.rflambda.com/",
+  "period": "120",
+  "lastvisit": "2019-07-08",
+  "username": "hsyn",
+  "owners": [
+    "hsyn"
+  ],
+  "users": [
+    "hsyn",
+    "guest"
+  ],
+  "id": "5b308af1f9b3eb136061f349",
+  "title": "RF-Lambda",
+  "meta": "",
+  "logo": "5ba1e9c5acc81b04814deb23",
+  "portfolio": "industry",
+  "local": false
+}
+{
+  "_id": {
+    "$oid": "5b322124a9f25a175014d94a"
+  },
+  "class": "Industry",
+  "category": "antenna, microwave, rf",
+  "url": "http://www.tecom-ind.com/index.php",
+  "period": "90",
+  "lastvisit": "2019-07-25",
+  "username": "hsyn",
+  "owners": [
+    "hsyn"
+  ],
+  "users": [
+    "hsyn",
+    "guest"
+  ],
+  "id": "5b322124a9f25a175014d94a",
+  "title": "Tecom industries",
+  "meta": "",
+  "logo": "5c0e3908af89ba5ee49e7263",
+  "portfolio": "industry",
+  "local": false
+}
+{
+  "_id": {
+    "$oid": "5b32217fa9f25a175014d94b"
+  },
+  "class": "Industry",
+  "category": "antenna",
+  "url": "https://www.amphenol.com/",
+  "period": "150",
+  "lastvisit": "2019-04-16",
+  "username": "hsyn",
+  "id": "5b32217fa9f25a175014d94b",
+  "owners": [
+    "hsyn"
+  ],
+  "users": [
+    "hsyn",
+    "guest"
+  ],
+  "title": "Enabling The Electronics Revolution | Amphenol",
+  "meta": "",
+  "logo": "5b8aece29efffc21085a7030",
+  "portfolio": "industry",
+  "local": false
+}
+{
+  "_id": {
+    "$oid": "5b3221a5a9f25a175014d94c"
+  },
+  "class": "Industry",
+  "category": "antenna, antenna measurement",
+  "url": "http://www.microwavespecialty.com",
+  "period": "120",
+  "lastvisit": "2019-04-16",
+  "username": "hsyn",
+  "id": "5b3221a5a9f25a175014d94c",
+  "owners": [
+    "hsyn"
+  ],
+  "users": [
+    "hsyn",
+    "guest"
+  ],
+  "title": "Home - Microwave Specialty",
+  "meta": "",
+  "logo": "5b8ced6f21172710c86a42ec",
+  "portfolio": "industry",
+  "local": false
+}
+{
+  "_id": {
+    "$oid": "5b3221f2a9f25a175014d94d"
+  },
+  "class": "Industry",
+  "category": "antenna, waveguide, cable, connector",
+  "url": "https://www.commscope.com",
+  "period": "90",
+  "lastvisit": "2019-05-13",
+  "username": "hsyn",
+  "owners": [
+    "hsyn"
+  ],
+  "users": [
+    "hsyn",
+    "guest"
+  ],
+  "id": "5b3221f2a9f25a175014d94d",
+  "title": "CommScope",
+  "meta": "",
+  "logo": "5b958ba5e76b1311d4539f1e",
+  "portfolio": "industry",
+  "local": false
+}
+{
+  "_id": {
+    "$oid": "5b322283a9f25a175014d94f"
+  },
+  "class": "Industry",
+  "category": "microwave, rf, waveguide",
+  "url": "http://www.cobham.com/communications-and-connectivity/electrical-and-electronic-equipment/microwave-components-and-systems/",
+  "period": "120",
+  "lastvisit": "2019-04-16",
+  "username": "hsyn",
+  "id": "5b322283a9f25a175014d94f",
+  "owners": [
+    "hsyn"
+  ],
+  "users": [
+    "hsyn",
+    "guest"
+  ],
+  "title": "Cobham plc, Electrical and Electronic Equipment, Microwave Components and Systems",
+  "meta": "",
+  "logo": "5b9563afe76b1311d4539f15",
+  "portfolio": "industry",
+  "local": false
+}
+{
+  "_id": {
+    "$oid": "5b3222b4a9f25a175014d950"
+  },
+  "class": "Industry",
+  "category": "antenna, microwave, rf, mm-wave, waveguide",
+  "url": "http://www.millitech.com/",
+  "period": "120",
+  "lastvisit": "2019-04-16",
+  "username": "hsyn",
+  "owners": [
+    "hsyn"
+  ],
+  "users": [
+    "hsyn",
+    "guest"
+  ],
+  "id": "5b3222b4a9f25a175014d950",
+  "title": "Millitech - The Leader in Millimeter-wave Technology and Solutions",
+  "meta": "Millitech specializes in the design, engineering and manufacturing of millimeter wave (mmw) components, waveguide components, assemblies, subsystems and fully integrated systems for applications in satellite communications (SATCOM), radiometry, radar and remote sensing.",
+  "logo": "5ba89f2f174f1304cf9fee71",
+  "portfolio": "industry",
+  "local": false
+}
+{
+  "_id": {
+    "$oid": "5b3222cea9f25a175014d951"
+  },
+  "class": "Industry",
+  "category": "antenna, waveguide, measurement",
+  "url": "https://www.steatite-antennas.co.uk",
+  "period": "120",
+  "lastvisit": "2019-04-16",
+  "username": "hsyn",
+  "owners": [
+    "hsyn"
+  ],
+  "users": [
+    "hsyn",
+    "guest"
+  ],
+  "id": "5b3222cea9f25a175014d951",
+  "title": "Steatite Microwave Antennas, Subsystems and Consultancy | Also known as QPAR",
+  "meta": "Steatite designs and manufactures long life, industrial microwave antennas and subsystems for use in harsh environments. Call 01527 512400",
+  "logo": "5b958b55e76b1311d4539f1d",
+  "portfolio": "industry",
+  "local": false
+}
+{
+  "_id": {
+    "$oid": "5b3222fda9f25a175014d952"
+  },
+  "class": "Industry",
+  "category": "antenna, microwave, waveguide",
+  "url": "http://www.probecom.com/category/microwave-components/",
+  "period": "120",
+  "lastvisit": "2019-07-08",
+  "username": "hsyn",
+  "owners": [
+    "hsyn"
+  ],
+  "users": [
+    "hsyn",
+    "guest"
+  ],
+  "id": "5b3222fda9f25a175014d952",
+  "title": "Probecom-Professional antenna supplier",
+  "meta": "外贸象(www.waimaoxiang.com)提醒您：请去后台设置网站描述",
+  "logo": "5ba8a20b174f1304cf9fee73",
+  "portfolio": "industry",
+  "local": false
+}
+{
+  "_id": {
+    "$oid": "5b3223d3a9f25a175014d953"
+  },
+  "class": "Industry",
+  "category": "antenna, cable, connector, microwave",
+  "url": "http://www.panorama-antennas.com/site/index.php?route=common/home",
+  "period": "120",
+  "lastvisit": "2019-05-09",
+  "username": "hsyn",
+  "owners": [
+    "hsyn"
+  ],
+  "users": [
+    "hsyn",
+    "guest"
+  ],
+  "id": "5b3223d3a9f25a175014d953",
+  "title": "Panorama Antennas",
+  "meta": "Panorama Antennas Ltd | 2G/3G/4G Antennas | LTE Antennas | M2M & IOT Antennas | UHF | VHF | Inbuilding Antennas | DAS Antennas",
+  "logo": "5b8cedaf21172710c86a42ed",
+  "portfolio": "industry",
+  "local": false
+}
+{
+  "_id": {
+    "$oid": "5b322437a9f25a175014d956"
+  },
+  "class": "Industry",
+  "category": "antenna, rfid",
+  "url": "http://www.kathreinusa.com/",
+  "period": "150",
+  "lastvisit": "2019-07-08",
+  "username": "hsyn",
+  "owners": [
+    "hsyn"
+  ],
+  "users": [
+    "hsyn",
+    "guest"
+  ],
+  "id": "5b322437a9f25a175014d956",
+  "title": "Kathrein USA",
+  "meta": "",
+  "logo": "5b958a9ee76b1311d4539f1c",
+  "portfolio": "industry",
+  "local": false
+}
+{
+  "_id": {
+    "$oid": "5b32244fa9f25a175014d957"
+  },
+  "class": "Industry",
+  "category": "antenna",
+  "url": "http://www.kenbotong.com/",
+  "period": "180",
+  "lastvisit": "2019-01-24",
+  "username": "hsyn",
+  "owners": [
+    "hsyn"
+  ],
+  "users": [
+    "hsyn",
+    "guest"
+  ],
+  "id": "5b32244fa9f25a175014d957",
+  "title": "Antenna Manufacturer |WiFi Antenna | LTE Antenna | VHF UHF Antenna -Kenbotong Technology Co., Ltd.(KBT)",
+  "meta": "Established in 1995, Kenbotong Technology(NEEQ Stock Code:831958) is an ISO 9001:2008 certified antenna manufacturing enterprise.We have broad and deep product offerings in LTE, GSM, Cellular, ISM, Wimax and Wireless LAN frequency bands. ",
+  "logo": "5b8cecf421172710c86a42ea",
+  "portfolio": "industry",
+  "local": false
+}
+{
+  "_id": {
+    "$oid": "5b3230dea9f25a175014d95b"
+  },
+  "class": "Industry",
+  "category": "antenna measurement",
+  "url": "https://www.nsi-mi.com/",
+  "period": "150",
+  "lastvisit": "2019-07-04",
+  "username": "hsyn",
+  "id": "5b3230dea9f25a175014d95b",
+  "owners": [
+    "hsyn"
+  ],
+  "users": [
+    "hsyn",
+    "guest"
+  ],
+  "title": "NSI-MI Technologies",
+  "meta": "With over 1000 systems sold worldwide, NSI-MI Technologies offers a comprehensive range of industry leading microwave test systems. ",
+  "logo": "5ba800176be717045c4ba789",
+  "portfolio": "industry",
+  "local": false
+}
+{
+  "_id": {
+    "$oid": "5b323201a9f25a175014d95d"
+  },
+  "class": "Industry",
+  "category": "measurement, anechoic chamber, absorber, microwave",
+  "url": "https://www.jvmicronics.com/",
+  "period": "120",
+  "lastvisit": "2019-04-16",
+  "username": "hsyn",
+  "id": "5b323201a9f25a175014d95d",
+  "owners": [
+    "hsyn"
+  ],
+  "users": [
+    "hsyn",
+    "guest"
+  ],
+  "title": "Home",
+  "meta": "",
+  "logo": "5ba8002d6be717045c4ba78a",
+  "portfolio": "industry",
+  "local": false
+}
+{
+  "_id": {
+    "$oid": "5b347794af0cc7180cd06688"
+  },
+  "class": "Industry",
+  "category": "composite, radome",
+  "url": "http://www.bariselektrik.com.tr/en/",
+  "period": "90",
+  "lastvisit": "2019-04-11",
+  "username": "hsyn",
+  "owners": [
+    "hsyn"
+  ],
+  "users": [
+    "hsyn",
+    "guest"
+  ],
+  "logo": "5bb3125cb2354e7662891470",
+  "portfolio": "industry",
+  "title": "Home - Barış Elektrik",
+  "local": false
+}
+{
+  "_id": {
+    "$oid": "5b34789fc398181684637fd4"
+  },
+  "class": "Industry",
+  "category": "cable-connector",
+  "url": "http://www.highspeedint.com/",
+  "period": "180",
+  "lastvisit": "2019-09-12",
+  "username": "hsyn",
+  "owners": [
+    "hsyn"
+  ],
+  "users": [
+    "hsyn",
+    "guest"
+  ],
+  "id": "5b34789fc398181684637fd4",
+  "title": "Coaxial Cable Assemblies | Low Capacitance Low Loss High Performance Phase Stability",
+  "meta": "Get exceptional performance with HSI�s coax and micro coax cable assemblies. Featuring coax cable assemblies with highly phase stable, highly flexible, lower loss with longer lengths and low capacitance.",
+  "logo": "5bd76d53b2354e766289148c",
+  "portfolio": "industry",
+  "local": false
+}
+{
+  "_id": {
+    "$oid": "5b3a2903c398181684637fda"
+  },
+  "class": "Industry",
+  "category": "composite, radome",
+  "url": "http://www.rohacell.com/product/rohacell/en/Pages/default.aspx",
+  "period": "120",
+  "lastvisit": "2019-06-17",
+  "username": "hsyn",
+  "owners": [
+    "hsyn"
+  ],
+  "users": [
+    "hsyn",
+    "guest"
+  ],
+  "id": "5b3a2903c398181684637fda",
+  "title": "ROHACELL® - High-performance structural foam cores",
+  "meta": "",
+  "logo": "5bb3122fb2354e766289146f",
+  "portfolio": "industry",
+  "local": false
+}
+{
+  "_id": {
+    "$oid": "5b3a2922c398181684637fdb"
+  },
+  "class": "Industry",
+  "category": "rf, microwave",
+  "url": "https://ww2.minicircuits.com/homepage/homepage.html",
+  "period": "90",
+  "lastvisit": "2019-04-10",
+  "username": "hsyn",
+  "owners": [
+    "hsyn"
+  ],
+  "users": [
+    "hsyn",
+    "guest"
+  ],
+  "id": "5b3a2922c398181684637fdb",
+  "title": "Mini Circuits - Global Leader of RF and Microwave Components",
+  "meta": "Mini-Circuits is a global leader in the design and manufacturing of RF, IF, and microwave components from DC to 40GHz.",
+  "logo": "5ba8a2b5174f1304cf9fee75",
+  "portfolio": "industry",
+  "local": false
+}
+{
+  "_id": {
+    "$oid": "5b3b0687c398181684637fdc"
+  },
+  "class": "Industry",
+  "category": "rf, microwave, high power",
+  "url": "http://www.werlatone.com/",
+  "period": "120",
+  "lastvisit": "2019-06-17",
+  "username": "hsyn",
+  "owners": [
+    "hsyn"
+  ],
+  "users": [
+    "hsyn",
+    "guest"
+  ],
+  "id": "5b3b0687c398181684637fdc",
+  "title": "High Power RF Devices | Werlatone.com",
+  "meta": "For new products that are decades ahead of the industry, choose Werlatone.com. Shop directional couplers, RF combiners, and low pass filters today. ",
+  "logo": "5bb35e4fb2354e7662891478",
+  "portfolio": "industry",
+  "local": false
+}
+{
+  "_id": {
+    "$oid": "5b3da6cfc398181684637fe0"
+  },
+  "class": "Industry",
+  "category": "pcb",
+  "url": "http://www.simpro.com.tr/",
+  "period": "180",
+  "lastvisit": "2019-01-07",
+  "username": "hsyn",
+  "owners": [
+    "hsyn"
+  ],
+  "users": [
+    "hsyn",
+    "guest"
+  ],
+  "id": "5b3da6cfc398181684637fe0",
+  "title": "SimPro",
+  "meta": " ",
+  "logo": "5bb31356b2354e7662891473",
+  "portfolio": "industry",
+  "local": false
+}
+{
+  "_id": {
+    "$oid": "5b3da7ebc398181684637fe2"
+  },
+  "class": "Industry",
+  "category": "rf, microwave, mm-wave, antenna, composite",
+  "url": "https://www.ducommun.com/",
+  "period": "150",
+  "lastvisit": "2019-04-29",
+  "username": "hsyn",
+  "owners": [
+    "hsyn"
+  ],
+  "users": [
+    "hsyn",
+    "guest"
+  ],
+  "id": "5b3da7ebc398181684637fe2",
+  "title": "Ducommun Incorporated",
+  "meta": "Ducommun serves the aerospace, defense, industrial, natural resources and medical industries as a Tier II supplier of electronics manufacturing services and aerostructures through its two core business areas - Electronic Solutions and Structural Solutions.",
+  "logo": "5b958d18e76b1311d4539f23",
+  "portfolio": "industry",
+  "local": false
+}
+{
+  "_id": {
+    "$oid": "5b3da88bc398181684637fe5"
+  },
+  "class": "Industry",
+  "category": "rf, microwave",
+  "url": "https://nardamiteq.com/",
+  "period": "120",
+  "lastvisit": "2019-04-24",
+  "username": "hsyn",
+  "owners": [
+    "hsyn"
+  ],
+  "users": [
+    "hsyn",
+    "guest"
+  ],
+  "id": "5b3da88bc398181684637fe5",
+  "title": "Home: Microwave/RF components, subsystems, and SATCOM - L3 Narda-MITEQ",
+  "meta": "Low Noise Amplifiers, Active Components, Passive Components, SATCOM Products, Spaceborne products, Integrated Microwave Assemblies, Fiber Optic Products",
+  "logo": "5ba89f68174f1304cf9fee72",
+  "portfolio": "industry",
+  "local": false
+}
+{
+  "_id": {
+    "$oid": "5b3ddd81807a2c1f8489378a"
+  },
+  "class": "Industry",
+  "category": "antenna, microwave, waveguide, hf, cable-connector",
+  "url": "http://products.rfsworld.com/home,1,1.html",
+  "period": "120",
+  "lastvisit": "2019-06-17",
+  "username": "hsyn",
+  "owners": [
+    "hsyn"
+  ],
+  "users": [
+    "hsyn",
+    "guest"
+  ],
+  "id": "5b3ddd81807a2c1f8489378a",
+  "title": "RFS -  Radio Frequency Systems - Your Global RF Partner",
+  "meta": "RFS (Radio Frequency Systems) is a global designer and manufacturer of cable and antenna systems plus active and passive RF conditioning modules, providing complete RF solutions for wireless infrastructure",
+  "logo": "5b958a17e76b1311d4539f19",
+  "portfolio": "industry",
+  "local": false
+}
+{
+  "_id": {
+    "$oid": "5b443714c18ea417a4e81448"
+  },
+  "class": "Industry",
+  "category": "antenna, microwave, cable-connector",
+  "url": "https://www.hubersuhner.com/en",
+  "period": "120",
+  "lastvisit": "2019-04-17",
+  "username": "hsyn",
+  "owners": [
+    "hsyn"
+  ],
+  "users": [
+    "hsyn",
+    "guest"
+  ],
+  "id": "5b443714c18ea417a4e81448",
+  "title": "HUBER+SUHNER - HomePage",
+  "meta": "",
+  "logo": "5bbc67c1b2354e7662891480",
+  "portfolio": "industry",
+  "local": false
+}
+{
+  "_id": {
+    "$oid": "5b484de4afdd8f19f0820443"
+  },
+  "class": "Industry",
+  "category": "measurement",
+  "url": "http://www.allwavecorp.com/",
+  "period": "150",
+  "lastvisit": "2019-04-15",
+  "username": "hsyn",
+  "owners": [
+    "hsyn"
+  ],
+  "users": [
+    "hsyn",
+    "guest"
+  ],
+  "id": "5b484de4afdd8f19f0820443",
+  "title": "Antenna Test Equipment, Measurement Service : Allwavecorp.com",
+  "meta": "Allwave, Inc. develops, markets, and distributes award winning digital imaging and video solutions to companies around the globe. Produce: photo editing, video editing, slideshow creator, DVD software, Video Software, Burning software, Mobile Phone applications, Multimedia software, Calendar creator, Digital imaging, Digital video, Media manager, Panorama Stitching, HDTV software, WebCam Software, RAW support software, Codec Technologies, Embedded imaging, OEM software licensing, Red Eye Removal..",
+  "logo": "5ba8005f6be717045c4ba78c",
+  "portfolio": "industry",
+  "local": false
+}
+{
+  "_id": {
+    "$oid": "5b4c759c48b91c1468c4581d"
+  },
+  "class": "Industry",
+  "category": "microwave, antenna",
+  "url": "http://rn2.co.kr/?c=user&ln=us",
+  "period": "180",
+  "lastvisit": "2019-03-27",
+  "username": "hsyn",
+  "owners": [
+    "hsyn"
+  ],
+  "users": [
+    "hsyn",
+    "guest"
+  ],
+  "title": "RN2 Technologies Co.,Ltd",
+  "logo": "5b958c45e76b1311d4539f20",
+  "portfolio": "industry",
+  "local": false
+}
+{
+  "_id": {
+    "$oid": "5b4c764d48b91c1468c45820"
+  },
+  "class": "Industry",
+  "category": "rf, microwave",
+  "url": "http://www.rk-microwave.com/index.php",
+  "period": "120",
+  "lastvisit": "2019-04-03",
+  "username": "hsyn",
+  "owners": [
+    "hsyn"
+  ],
+  "users": [
+    "hsyn",
+    "guest"
+  ],
+  "id": "5b4c764d48b91c1468c45820",
+  "title": "R&K Company Limited (Development, Designing, and Manufacturing of RF/Microwave Power Amplifiers and Components)",
+  "meta": "R&K Company Limited is engaged in Development, Designing, and Manufacturing of RF/Microwave Power Amplifiers and Components.",
+  "logo": "5ba1ea2facc81b04814deb24",
+  "portfolio": "industry",
+  "local": false
+}
+{
+  "_id": {
+    "$oid": "5b4ecc3448b91c1468c45822"
+  },
+  "class": "Industry",
+  "category": "rf, measurement",
+  "url": "http://www.hyperlabsinc.com/index.aspx",
+  "period": "120",
+  "lastvisit": "2019-04-29",
+  "username": "hsyn",
+  "owners": [
+    "hsyn"
+  ],
+  "users": [
+    "hsyn",
+    "guest"
+  ],
+  "id": "5b4ecc3448b91c1468c45822",
+  "title": "Signal Path Analyzers, Broadband Baluns, and other innovative test solutions | HYPERLABS",
+  "meta": "HYPERLABS builds Signal Path Analyzers, broadband baluns, ultrafast samplers, controlled impedance analyzers, and other high-performance test and measurement products.",
+  "logo": "5badc00e6f91735f37d93a28",
+  "portfolio": "industry",
+  "local": false
+}
+{
+  "_id": {
+    "$oid": "5b4ecc7948b91c1468c45823"
+  },
+  "class": "Industry",
+  "category": "antenna, rf, cable, connector, lightning",
+  "url": "https://www.eriinc.com/",
+  "period": "180",
+  "lastvisit": "2019-09-16",
+  "username": "hsyn",
+  "owners": [
+    "hsyn"
+  ],
+  "users": [
+    "hsyn",
+    "guest"
+  ],
+  "id": "5b4ecc7948b91c1468c45823",
+  "title": "Electronics Research, Inc. - ERI serves the broadcast industry with products and services of the highest quality and dependability.",
+  "meta": "Our staff of engineers, designers, fabricators, PMs, and installers deliver products to meet all of your broadcast needs, both RF and structural.",
+  "logo": "5b8cedfb21172710c86a42ee",
+  "portfolio": "industry",
+  "local": false
+}
+{
+  "_id": {
+    "$oid": "5b4eccb748b91c1468c45824"
+  },
+  "class": "Industry",
+  "category": "rf, microwave, measurement, cable-connector",
+  "url": "https://www.shf-communication.com/",
+  "period": "120",
+  "lastvisit": "2019-04-19",
+  "username": "hsyn",
+  "owners": [
+    "hsyn"
+  ],
+  "users": [
+    "hsyn",
+    "guest"
+  ],
+  "id": "5b4eccb748b91c1468c45824",
+  "title": "SHF Communication Technologies AG - The bandwidth company",
+  "meta": "SHF Bit Pattern Generators (BPGs), Error Analyzers (EAs), Optical Transmitters, modulator drivers and DACs for > 100 Gbps systems.",
+  "logo": "5badbf956f91735f37d93a27",
+  "portfolio": "industry",
+  "local": false
+}
+{
+  "_id": {
+    "$oid": "5b4eccf648b91c1468c45825"
+  },
+  "class": "Industry",
+  "category": "antenna, rf, cable, connector, lightning",
+  "url": "http://www.rfacsolutions.com/",
+  "period": "90",
+  "lastvisit": "2019-09-12",
+  "username": "hsyn",
+  "owners": [
+    "hsyn"
+  ],
+  "users": [
+    "hsyn",
+    "guest"
+  ],
+  "id": "5b4eccf648b91c1468c45825",
+  "title": "!!! RF Connectors Cable Assembly Attenuator Filter Switch Amplifier - RFAC Solutions",
+  "meta": "RF Connectors Cable Assembly Attenuator Filter Switch Amplifier | RFAC Solutions, Adapter, Adaptor, rf connector, cable assembly, attenuator, filter, high power amplifier from RFAC Solutions.",
+  "logo": "5b958a82e76b1311d4539f1b",
+  "portfolio": "industry",
+  "local": false
+}
+{
+  "_id": {
+    "$oid": "5b5837bb7fa91f14b848359a"
+  },
+  "class": "Industry",
+  "category": "measurement, chamber, absorber",
+  "url": "http://www.ecanechoicchambers.com/index.html",
+  "period": "180",
+  "lastvisit": "2019-04-03",
+  "users": [
+    "hsyn",
+    "guest"
+  ],
+  "owners": [
+    "hsyn"
+  ],
+  "id": "5b5837bb7fa91f14b848359a",
+  "title": "E&C Anechoic Chambers",
+  "meta": "",
+  "logo": "5ba800456be717045c4ba78b",
+  "portfolio": "industry",
+  "local": false
+}
+{
+  "_id": {
+    "$oid": "5b5ea834ada581106407d53a"
+  },
+  "class": "Industry",
+  "category": "antenna, hf",
+  "url": "http://www.antenna.it/index.htm",
+  "period": "180",
+  "lastvisit": "2019-04-10",
+  "users": [
+    "hsyn",
+    "guest"
+  ],
+  "owners": [
+    "hsyn"
+  ],
+  "id": "5b5ea834ada581106407d53a",
+  "title": "Giovannini Elettromeccanica - Military and Commercial antenna systems for HF",
+  "meta": "SPECIALIST IN ANTENNAS,ROTATABLE ANTENNA, SUPPORTS AND MOVING OF MEDIUM LARGE SIZED RADIO ANTENNAS.Fiberglass mast - HF antennas - hf antenna - Yagi antenna - quad antenna - antenna - antennas - cubical quad antenna - log-periodic antenna - rotators and antenna rotator - broad-band antenna -broad-band antennas - broad band antenna - broadband antennas - towers for antennas - military antenna systems",
+  "logo": "5b8cee4d21172710c86a42ef",
+  "portfolio": "industry",
+  "local": false
+}
+{
+  "_id": {
+    "$oid": "5b5ea867ada581106407d53b"
+  },
+  "class": "Industry",
+  "category": "antenna, hf",
+  "url": "http://www.broadbandpropagation.com/",
+  "period": "150",
+  "lastvisit": "2019-05-13",
+  "users": [
+    "hsyn",
+    "guest"
+  ],
+  "owners": [
+    "hsyn"
+  ],
+  "id": "5b5ea867ada581106407d53b",
+  "title": "Broadband Propagation | Design & Manufacture of Antennas: for Communications and Scientific Research",
+  "meta": "South Australian supplier and manufacturer of Range of high quality commercial and military broadband and wideband antennas for telecommunications and research.\nHF, VHF, UHF and microwave antennas. Base station, vehicle, mobile, marine, backpack, manpack, tactical, masts, towers, cabling and accessories.",
+  "logo": "5b956645e76b1311d4539f18",
+  "portfolio": "industry",
+  "local": false
+}
+{
+  "_id": {
+    "$oid": "5b5ea908ada581106407d541"
+  },
+  "class": "Industry",
+  "category": "antenna",
+  "url": "https://www.cpii.com/division.cfm/14",
+  "period": "120",
+  "lastvisit": "2019-04-15",
+  "users": [
+    "hsyn",
+    "guest"
+  ],
+  "owners": [
+    "hsyn"
+  ],
+  "id": "5b5ea908ada581106407d541",
+  "title": "Antenna Systems Division, Communications & Power Industries (CPI)",
+  "meta": "",
+  "logo": "5b8aede09efffc21085a7031",
+  "portfolio": "industry",
+  "local": false
+}
+{
+  "_id": {
+    "$oid": "5b62f52cf06fdf0f403b8975"
+  },
+  "class": "Industry",
+  "category": "lightning, antenna, electrostatic",
+  "url": "http://daytongranger.com/",
+  "period": "150",
+  "lastvisit": "2019-04-24",
+  "users": [
+    "hsyn",
+    "admin",
+    "guest"
+  ],
+  "owners": [
+    "hsyn",
+    "admin"
+  ],
+  "logo": "5b958bfde76b1311d4539f1f",
+  "portfolio": "industry",
+  "title": "Home - Dayton Granger",
+  "local": false
+}
+{
+  "_id": {
+    "$oid": "5b8e54c2ecba440eec1cdc34"
+  },
+  "id": 1536053925934,
+  "class": "Industry",
+  "category": "rf, microwave, antenna measurement",
+  "url": "https://www.megiq.com/",
+  "period": "120",
+  "lastvisit": "2019-04-15",
+  "users": [
+    "hsyn",
+    "admin",
+    "guest"
+  ],
+  "owners": [
+    "hsyn",
+    "admin"
+  ],
+  "meta": "MegiQ has created a powerful toolset that provides everything needed to implement and verify wireless communication and IOT devices, especially the implementation of the antenna. For measuring antennas, attenuators, amplifiers etc. Compact and easy to use. Megiq offers affordable professional products and great support. Test it now!",
+  "title": "Vector Network Analyzers & Antenna Radiation Measurement tools - MegiQ - RF Development tools",
+  "logo": "5ba8007c6be717045c4ba78d",
+  "portfolio": "industry",
+  "local": false
+}
+{
+  "_id": {
+    "$oid": "5b90fefa737d7f136801bdd2"
+  },
+  "id": 1536228574336,
+  "class": "Industry",
+  "category": "microwave, cable-connector",
+  "url": "https://www.spinner-group.com/en/",
+  "period": "120",
+  "lastvisit": "2019-04-16",
+  "users": [
+    "hsyn",
+    "admin",
+    "guest"
+  ],
+  "owners": [
+    "hsyn",
+    "admin"
+  ],
+  "meta": "SPINNER - your partner in rf technology: Components for wireless communication, Broadcast, Radar- and Satellite Systems, Medical industry, High Power",
+  "title": "SPINNER Group - Home",
+  "logo": "5ba8a31c174f1304cf9fee76",
+  "portfolio": "industry",
+  "local": false
+}
+{
+  "_id": {
+    "$oid": "5ba399cc0bf238045bcb4916"
+  },
+  "id": 1537447837483,
+  "class": "Industry",
+  "category": "measurement",
+  "url": "https://www.teraprobes.com/wp/",
+  "period": "360",
+  "lastvisit": "2018-09-20",
+  "users": [
+    "hsyn",
+    "admin",
+    "guest"
+  ],
+  "owners": [
+    "hsyn",
+    "admin"
+  ],
+  "title": "TeraProbes Inc",
+  "logo": "5bdfe37f77527503d463b0d6",
+  "portfolio": "industry",
+  "local": false
+}
+{
+  "_id": {
+    "$oid": "5ba7fd510bf238045bcb491f"
+  },
+  "id": 1537736020197,
+  "class": "Industry",
+  "category": "antenna, microwave",
+  "url": "http://www.ainfoinc.com/en/",
+  "period": "120",
+  "lastvisit": "2019-04-29",
+  "users": [
+    "hsyn",
+    "admin",
+    "guest"
+  ],
+  "owners": [
+    "hsyn",
+    "admin"
+  ],
+  "title": "AINFO Inc. - Antenna, Microwave/RF Components, Test Equipments",
+  "logo": "5ba7fd8e6be717045c4ba787",
+  "portfolio": "industry",
+  "local": false
+}
+{
+  "_id": {
+    "$oid": "5ba7fe120bf238045bcb4920"
+  },
+  "id": 1537736214156,
+  "class": "Industry",
+  "category": "antenna",
+  "url": "https://www.cobham.com/communications-and-connectivity/aerospace-connectivity/microwave-antennas/",
+  "period": "120",
+  "lastvisit": "2019-04-29",
+  "users": [
+    "hsyn",
+    "admin",
+    "guest"
+  ],
+  "owners": [
+    "hsyn",
+    "admin"
+  ],
+  "title": "Cobham plc, Aerospace Connectivity, Microwave Antennas",
+  "logo": "5ba7fe2e6be717045c4ba788",
+  "portfolio": "industry",
+  "local": false
+}
+{
+  "_id": {
+    "$oid": "5ba8016e0bf238045bcb4921"
+  },
+  "id": 1537737073323,
+  "class": "Industry",
+  "category": "measurement, antenna, rf, microwave",
+  "url": "https://www.rohde-schwarz.com",
+  "period": "90",
+  "lastvisit": "2019-04-10",
+  "users": [
+    "hsyn",
+    "admin",
+    "guest"
+  ],
+  "owners": [
+    "hsyn",
+    "admin"
+  ],
+  "title": "Group Home | Rohde & Schwarz",
+  "logo": "5ba801946be717045c4ba78e",
+  "portfolio": "industry",
+  "local": false
+}
+{
+  "_id": {
+    "$oid": "5ba801df0bf238045bcb4922"
+  },
+  "id": 1537737186789,
+  "class": "Industry",
+  "category": "measurement, rf",
+  "url": "https://www.keysight.com/us/en/home.html",
+  "period": "90",
+  "lastvisit": "2019-06-21",
+  "users": [
+    "hsyn",
+    "admin",
+    "guest"
+  ],
+  "owners": [
+    "hsyn",
+    "admin"
+  ],
+  "meta": "The leader in Electronic Test and Measurement Equipment innovation for 75 years. Learn more about our Test and Measurement Hardware & Software Solutions.",
+  "title": "Home | Keysight",
+  "logo": "5ba802516be717045c4ba790",
+  "portfolio": "industry",
+  "local": false
+}
+{
+  "_id": {
+    "$oid": "5ba802050bf238045bcb4923"
+  },
+  "id": 1537737224796,
+  "class": "Industry",
+  "category": "measurement, cable-connector",
+  "url": "https://www.anritsu.com/en-GB/",
+  "period": "90",
+  "lastvisit": "2019-06-21",
+  "users": [
+    "hsyn",
+    "admin",
+    "guest"
+  ],
+  "owners": [
+    "hsyn",
+    "admin"
+  ],
+  "meta": "Anritsu, as a cutting-edge company in the ICT services industry, is operating its test and measurement business globally to support the building of the next generation of networks. Providing quality-assurance inspection equipment for food and pharmaceutical products, we effectively meet the desire for promoting health. We also support the creation of a safe, secure and prosperous society in various fields by supplying remote monitoring systems and control systems, bandwidth controllers and ultrafast electron devices.",
+  "title": "Anritsu Home- Anritsu Europe",
+  "logo": "5ba802476be717045c4ba78f",
+  "portfolio": "industry",
+  "local": false
+}
+{
+  "_id": {
+    "$oid": "5ba802e10bf238045bcb4924"
+  },
+  "id": 1537737444986,
+  "class": "Industry",
+  "category": "antenna, measurement",
+  "url": "http://www.asysol.com/en",
+  "period": "150",
+  "lastvisit": "2019-06-21",
+  "users": [
+    "hsyn",
+    "admin",
+    "guest"
+  ],
+  "owners": [
+    "hsyn",
+    "admin"
+  ],
+  "meta": "Home",
+  "title": "Home - Antenna Systems Solutions - Antenna Measurement Systems",
+  "logo": "5bb31154b2354e766289146c",
+  "portfolio": "industry",
+  "local": false
+}
+{
+  "_id": {
+    "$oid": "5ba803220bf238045bcb4925"
+  },
+  "id": 1537737509679,
+  "class": "Industry",
+  "category": "measurement",
+  "url": "http://www.albatross-projects.de/",
+  "period": "90",
+  "lastvisit": "2019-04-10",
+  "users": [
+    "hsyn",
+    "admin",
+    "guest"
+  ],
+  "owners": [
+    "hsyn",
+    "admin"
+  ],
+  "title": "Albatross Projects - Website",
+  "logo": "5ba8046d174f1304cf9fee6d",
+  "portfolio": "industry",
+  "local": false
+}
+{
+  "_id": {
+    "$oid": "5ba8039c0bf238045bcb4926"
+  },
+  "id": 1537737631903,
+  "class": "Industry",
+  "category": "antenna, rf",
+  "url": "https://www.taoglas.com/",
+  "period": "90",
+  "lastvisit": "2019-04-10",
+  "users": [
+    "hsyn",
+    "admin",
+    "guest"
+  ],
+  "owners": [
+    "hsyn",
+    "admin"
+  ],
+  "meta": "Provider of finished and custom embedded and external antenna solutions for ISM, cellular, 3G, 4G, 5G and GNSS.",
+  "title": "Taoglas - Antenna Solutions - 2G, 3G, 4G, 5G, LTE, GNSS, WiFi Antennas",
+  "logo": "5ba804d1174f1304cf9fee70",
+  "portfolio": "industry",
+  "local": false
+}
+{
+  "_id": {
+    "$oid": "5ba8a1f84c7b770464c9f64c"
+  },
+  "id": 1537777605997,
+  "class": "Industry",
+  "category": "antenna, cable-connector, rf",
+  "url": "http://www.ahsystems.com/index.php",
+  "period": "120",
+  "lastvisit": "2019-06-21",
+  "users": [
+    "hsyn",
+    "admin",
+    "guest"
+  ],
+  "owners": [
+    "hsyn",
+    "admin"
+  ],
+  "title": "A.H. Systems - EMI and EMC Antennas and Accessories",
+  "logo": "5ba8a275174f1304cf9fee74",
+  "portfolio": "industry",
+  "local": false
+}
+{
+  "_id": {
+    "$oid": "5ba8b7434e519e2f8d7e6dd4"
+  },
+  "id": 1537783056351,
+  "class": "Industry",
+  "category": "material, pcb",
+  "url": "https://www.rogerscorp.com/index.aspx",
+  "period": "120",
+  "lastvisit": "2019-04-08",
+  "users": [
+    "hsyn",
+    "admin",
+    "guest"
+  ],
+  "owners": [
+    "hsyn",
+    "admin"
+  ],
+  "meta": "Advanced materials from Rogers Corp support innovations in printed circuit boards, power electronics, impact protection",
+  "title": "Advanced Materials for PCBs, Power Distribution, Impact Protection - Rogers Corp",
+  "logo": "5bb3136bb2354e7662891474",
+  "portfolio": "industry",
+  "local": false
+}
+{
+  "_id": {
+    "$oid": "5bb118b81e428d03e6491ab2"
+  },
+  "id": 1538332863068,
+  "class": "Industry",
+  "category": "measurement, absorber",
+  "url": "https://www.siepel.com/",
+  "period": "120",
+  "lastvisit": "2019-05-07",
+  "users": [
+    "hsyn",
+    "admin",
+    "guest"
+  ],
+  "owners": [
+    "hsyn",
+    "admin"
+  ],
+  "meta": "SIEPEL, an independent French manufacturer of absorbing materials and shielded enclosures, provides high quality products for demanding users in Electromagnetic Compatibility, antenna measurement and cyber-security. Our ISO 17025 accreditation also offers our customers to take benefit of our measurement expertise.",
+  "title": "Home - Siepel",
+  "logo": "5bb311e3b2354e766289146e",
+  "portfolio": "industry",
+  "local": false
+}
+{
+  "_id": {
+    "$oid": "5bb119091e428d03e6491ab3"
+  },
+  "id": 1538332944119,
+  "class": "Industry",
+  "category": "measurement, antenna, absorber",
+  "url": "https://www.mvg-world.com/en",
+  "period": "120",
+  "lastvisit": "2019-05-07",
+  "users": [
+    "hsyn",
+    "admin",
+    "guest"
+  ],
+  "owners": [
+    "hsyn",
+    "admin"
+  ],
+  "title": "MVG | The Broadest Choice of EMC and Antenna Test & Measurement Solutions",
+  "logo": "5bbc8c8bb2354e7662891484",
+  "portfolio": "industry",
+  "local": false
+}
+{
+  "_id": {
+    "$oid": "5bb119461e428d03e6491ab4"
+  },
+  "id": 1538333005054,
+  "class": "Industry",
+  "category": "measurement, absorber, antenna",
+  "url": "http://www.ets-lindgren.com/",
+  "period": "120",
+  "lastvisit": "2019-04-12",
+  "users": [
+    "hsyn",
+    "admin",
+    "guest"
+  ],
+  "owners": [
+    "hsyn",
+    "admin"
+  ],
+  "title": "ETS-Lindgren Public Website                                    Home",
+  "logo": "5bb311c1b2354e766289146d",
+  "portfolio": "industry",
+  "local": false
+}
+{
+  "_id": {
+    "$oid": "5bb119931e428d03e6491ab5"
+  },
+  "id": 1538333082287,
+  "class": "Industry",
+  "category": "measurement",
+  "url": "http://www.emcelectronic.com/",
+  "period": "180",
+  "lastvisit": "2019-04-10",
+  "users": [
+    "hsyn",
+    "admin",
+    "guest"
+  ],
+  "owners": [
+    "hsyn",
+    "admin"
+  ],
+  "title": "EMC Ltd. / EMC ve RF Mikrodalga Test, ölçüm ve ekranlama",
+  "logo": "5bb3331db2354e7662891476",
+  "portfolio": "industry",
+  "local": false
+}
+{
+  "_id": {
+    "$oid": "5bb312bebc4cbb7db1b1525d"
+  },
+  "id": 1538461825520,
+  "class": "Industry",
+  "category": "pcb",
+  "url": "http://www.eos.co.kr/eng/index.php",
+  "period": "120",
+  "lastvisit": "2019-04-12",
+  "users": [
+    "hsyn",
+    "admin",
+    "guest"
+  ],
+  "owners": [
+    "hsyn",
+    "admin"
+  ],
+  "title": "EOS CORPORATION",
+  "logo": "5bb31318b2354e7662891471",
+  "portfolio": "industry",
+  "local": false
+}
+{
+  "_id": {
+    "$oid": "5bb332bbbc4cbb7db1b15261"
+  },
+  "id": 1538470013770,
+  "class": "Industry",
+  "category": "measurement",
+  "url": "https://measureindia.com/",
+  "period": "180",
+  "lastvisit": "2019-02-05",
+  "users": [
+    "hsyn",
+    "admin",
+    "guest"
+  ],
+  "owners": [
+    "hsyn",
+    "admin"
+  ],
+  "title": "Measurement Solutions Pvt. Ltd.",
+  "logo": "5bb332f8b2354e7662891475",
+  "portfolio": "industry",
+  "local": false
+}
+{
+  "_id": {
+    "$oid": "5bb33902bc4cbb7db1b15264"
+  },
+  "id": 1538471621252,
+  "class": "Industry",
+  "category": "measurement",
+  "url": "https://coppermountaintech.com/",
+  "period": "120",
+  "lastvisit": "2019-05-08",
+  "users": [
+    "hsyn",
+    "admin",
+    "guest"
+  ],
+  "owners": [
+    "hsyn",
+    "admin"
+  ],
+  "logo": "5bb5b724b2354e766289147d",
+  "portfolio": "industry",
+  "title": "Copper Mountain Technologies",
+  "local": false
+}
+{
+  "_id": {
+    "$oid": "5bb33c88bc4cbb7db1b15265"
+  },
+  "id": 1538472523366,
+  "class": "Industry",
+  "category": "radome, material",
+  "url": "https://www.hexcel.com/",
+  "period": "120",
+  "lastvisit": "2019-04-15",
+  "users": [
+    "hsyn",
+    "admin",
+    "guest"
+  ],
+  "owners": [
+    "hsyn",
+    "admin"
+  ],
+  "meta": "Hexcel is a global leader in advanced composites technology.",
+  "title": "Hexcel | Composite Materials and Structures",
+  "logo": "5bb33ca6b2354e7662891477",
+  "portfolio": "industry",
+  "local": false
+}
+{
+  "_id": {
+    "$oid": "5bb35ebcbc4cbb7db1b15266"
+  },
+  "id": 1538481278961,
+  "class": "Industry",
+  "category": "radome, kompozite",
+  "url": "http://www.ces.com.tr/",
+  "period": "360",
+  "lastvisit": "2018-10-02",
+  "users": [
+    "hsyn",
+    "admin",
+    "guest"
+  ],
+  "owners": [
+    "hsyn",
+    "admin"
+  ],
+  "meta": "CES Advanced Composite Products",
+  "title": "C.E.S. Advanced Composite Products – C.E.S. Advanced Composite Products",
+  "logo": "5bb35efdb2354e7662891479",
+  "portfolio": "industry",
+  "local": false
+}
+{
+  "_id": {
+    "$oid": "5bb67174bc4cbb7db1b1526d"
+  },
+  "id": 1538683261012,
+  "class": "Industry",
+  "category": "antenna",
+  "url": "http://www.profen.com/",
+  "period": "90",
+  "lastvisit": "2019-07-18",
+  "users": [
+    "hsyn",
+    "admin",
+    "guest"
+  ],
+  "owners": [
+    "hsyn",
+    "admin"
+  ],
+  "meta": "desc",
+  "title": "Profen Group",
+  "logo": "5bb71350b2354e766289147e",
+  "portfolio": "industry",
+  "local": false
+}
+{
+  "_id": {
+    "$oid": "5bbaf60fbc4cbb7db1b15274"
+  },
+  "id": 1538978763093,
+  "class": "Industry",
+  "category": "pcb",
+  "url": "http://cif.fr/fr/",
+  "period": "180",
+  "lastvisit": "2019-01-08",
+  "users": [
+    "hsyn",
+    "admin",
+    "guest"
+  ],
+  "owners": [
+    "hsyn",
+    "admin"
+  ],
+  "meta": "CIF numéro un en Europe du laboratoire électronique",
+  "title": "CIF numéro un en Europe du laboratoire électronique - CIF",
+  "logo": "5be4253e77527503d463b0d8",
+  "portfolio": "industry",
+  "local": false
+}
+{
+  "_id": {
+    "$oid": "5bbc68b2bc4cbb7db1b15281"
+  },
+  "id": 1539073645766,
+  "class": "Industry",
+  "category": "measurement, absorber",
+  "url": "http://www.comtest.eu/",
+  "period": "120",
+  "lastvisit": "2019-04-17",
+  "users": [
+    "hsyn",
+    "admin",
+    "guest"
+  ],
+  "owners": [
+    "hsyn",
+    "admin"
+  ],
+  "title": "Comtest engineering",
+  "logo": "5bbc68dbb2354e7662891481",
+  "portfolio": "industry",
+  "local": false
+}
+{
+  "_id": {
+    "$oid": "5bbc6f31bc4cbb7db1b15286"
+  },
+  "id": 1539075308412,
+  "class": "Industry",
+  "category": "measurement, mm-wave, antenna, rf, microwave",
+  "url": "http://www.keycom.co.jp/index-e.htm",
+  "period": "180",
+  "lastvisit": "2019-01-08",
+  "users": [
+    "hsyn",
+    "admin",
+    "guest"
+  ],
+  "owners": [
+    "hsyn",
+    "admin"
+  ],
+  "title": "KEYCOM Characteristic Technologies",
+  "logo": "5bbc8c9bb2354e7662891485",
+  "portfolio": "industry",
+  "local": false
+}
+{
+  "_id": {
+    "$oid": "5bbc6f84bc4cbb7db1b15287"
+  },
+  "id": 1539075391011,
+  "class": "Industry",
+  "category": "rf, microwave, mm-wave, antenna",
+  "url": "https://www.cernex.com/index.html",
+  "period": "180",
+  "lastvisit": "2019-03-18",
+  "users": [
+    "hsyn",
+    "admin",
+    "guest"
+  ],
+  "owners": [
+    "hsyn",
+    "admin"
+  ],
+  "title": "Cernex | RF, MICROWAVE, MILLIMETER-WAVE COMPONENTS AND SUB-SYSTEMS",
+  "logo": "5bbc8cccb2354e7662891486",
+  "portfolio": "industry",
+  "local": false
+}
+{
+  "_id": {
+    "$oid": "5bbc6fe2bc4cbb7db1b15288"
+  },
+  "id": 1539075485852,
+  "class": "Industry",
+  "category": "absorber",
+  "url": "http://www.hcabsorber.com/",
+  "period": "150",
+  "lastvisit": "2019-04-16",
+  "users": [
+    "hsyn",
+    "admin",
+    "guest"
+  ],
+  "owners": [
+    "hsyn",
+    "admin"
+  ],
+  "meta": "Radio frequency microwave absorber manufacturer – for EMC / EMI / EMS electromagnetic compatibility certifying anechoic chamber.",
+  "title": "HCA Corporation – RF/Microwave absorber for EMC anechoic chamber",
+  "logo": "5bbc8ddcb2354e7662891488",
+  "portfolio": "industry",
+  "local": false
+}
+{
+  "_id": {
+    "$oid": "5bbc74e6bc4cbb7db1b15289"
+  },
+  "id": 1539076769924,
+  "class": "Industry",
+  "category": "measurement, mm-wave",
+  "url": "http://www.farran.com/",
+  "period": "180",
+  "lastvisit": "2019-03-18",
+  "users": [
+    "hsyn",
+    "admin",
+    "guest"
+  ],
+  "owners": [
+    "hsyn",
+    "admin"
+  ],
+  "title": "Farran Technology, Ltd. - Millimeter Wave Components",
+  "logo": "5bbc8d3cb2354e7662891487",
+  "portfolio": "industry",
+  "local": false
+}
+{
+  "_id": {
+    "$oid": "5bbc7520bc4cbb7db1b1528a"
+  },
+  "id": 1539076826981,
+  "class": "Industry",
+  "category": "antenna, microwave, mm-wave",
+  "url": "https://flann.com/",
+  "period": "90",
+  "lastvisit": "2019-04-18",
+  "users": [
+    "hsyn",
+    "admin",
+    "guest"
+  ],
+  "owners": [
+    "hsyn",
+    "admin"
+  ],
+  "title": "Homepage flann - Flann Microwave",
+  "logo": "5bbc8c53b2354e7662891483",
+  "portfolio": "industry",
+  "local": false
+}
+{
+  "_id": {
+    "$oid": "5bbc757dbc4cbb7db1b1528b"
+  },
+  "id": 1539076920191,
+  "class": "Industry",
+  "category": "antenna, mast, rf",
+  "url": "http://www.schwarzbeck.com/en/",
+  "period": "120",
+  "lastvisit": "2019-04-17",
+  "users": [
+    "hsyn",
+    "admin",
+    "guest"
+  ],
+  "owners": [
+    "hsyn",
+    "admin"
+  ],
+  "meta": "Schwarzbeck Mess-Elektronik produce and developed EMC Antennas, LISN/AMT, EMI Receiver, Pulse Generators, Helmholtz Coils, Dummy Lamps, Absorbing Clamps, Striplines, TEM-Cells, CDN, Preamplifiers and other RF equipment.",
+  "title": "Schwarzbeck - Mess-Elektronik",
+  "logo": "5bbc8c3cb2354e7662891482",
+  "portfolio": "industry",
+  "local": false
+}
+{
+  "_id": {
+    "$oid": "5bbc75f8bc4cbb7db1b1528d"
+  },
+  "id": 1539077043359,
+  "class": "Industry",
+  "category": "cable-connector",
+  "url": "https://www.junkosha-mwx.com/",
+  "period": "120",
+  "lastvisit": "2019-04-17",
+  "users": [
+    "hsyn",
+    "admin",
+    "guest"
+  ],
+  "owners": [
+    "hsyn",
+    "admin"
+  ],
+  "meta": "JUNFLON® MWX products are flexible transmission line suitable for wide frequency band up to 110 GHz, based on remarkable properties of fluoropolymer. Junkosha offers highly reliable cable assemblies for microwave and millimeter waves.",
+  "title": "Junflon MWX | Microwave Coaxial Cable Assemblies | Junkosha",
+  "logo": "5bd76cfbb2354e7662891489",
+  "portfolio": "industry",
+  "local": false
+}
+{
+  "_id": {
+    "$oid": "5bbc7613bc4cbb7db1b1528e"
+  },
+  "id": 1539077070455,
+  "class": "Industry",
+  "category": "measurement",
+  "url": "https://bluetest.se/",
+  "period": "150",
+  "lastvisit": "2019-05-20",
+  "users": [
+    "hsyn",
+    "admin",
+    "guest"
+  ],
+  "owners": [
+    "hsyn",
+    "admin"
+  ],
+  "title": "Reverberation chambers for MIMO OTA testing | BLUETEST.se",
+  "logo": "5be426dd77527503d463b0d9",
+  "portfolio": "industry",
+  "local": false
+}
+{
+  "_id": {
+    "$oid": "5bbded93bc4cbb7db1b15297"
+  },
+  "id": 1539173196766,
+  "class": "Industry",
+  "category": "rf",
+  "url": "http://www.ti.com/rf-microwave/overview.html",
+  "period": "90",
+  "lastvisit": "2019-04-18",
+  "users": [
+    "hsyn",
+    "admin",
+    "guest"
+  ],
+  "owners": [
+    "hsyn",
+    "admin"
+  ],
+  "meta": "IoT-ready solutions:  microcontrollers, processors, wireless connectivity, analog signal chain and power management.",
+  "title": "RF & Microwave ICs | Overview | TI.com",
+  "logo": "5cc0096142e7d10968e7fa5a",
+  "portfolio": "industry"
+}
+{
+  "_id": {
+    "$oid": "5bc464e5bc4cbb7db1b1529a"
+  },
+  "id": 1539596953827,
+  "class": "Industry",
+  "category": "rf, communications",
+  "url": "https://www.broadcom.com/",
+  "period": "150",
+  "lastvisit": "2019-04-16",
+  "users": [
+    "hsyn",
+    "admin",
+    "guest"
+  ],
+  "owners": [
+    "hsyn",
+    "admin"
+  ],
+  "meta": "Broadcom Inc. is a diversified global semiconductor leader built on 50 years of innovation, collaboration and engineering excellence.",
+  "title": "Broadcom Inc. | Connecting Everything",
+  "logo": "5bfc4f8caf89ba5ee49e7262",
+  "portfolio": "industry",
+  "local": false
+}
+{
+  "_id": {
+    "$oid": "5bc470a6bc4cbb7db1b152a1"
+  },
+  "id": 1539599962155,
+  "class": "Industry",
+  "category": "mm-wave, microwave, rf",
+  "url": "https://quantummicrowave.com/",
+  "period": "90",
+  "lastvisit": "2019-04-19",
+  "users": [
+    "hsyn",
+    "admin",
+    "guest"
+  ],
+  "owners": [
+    "hsyn",
+    "admin"
+  ],
+  "title": "Quantum Microwave - Millimeter & Microwave Low Noise Amplifiers",
+  "logo": "5be4251177527503d463b0d7",
+  "portfolio": "industry",
+  "local": false
+}
+{
+  "_id": {
+    "$oid": "5bc6d4eebc4cbb7db1b152a3"
+  },
+  "id": 1539756702871,
+  "class": "Industry",
+  "category": "cable-connector",
+  "url": "https://www.gore.com/products/categories/cables-cable-assemblies",
+  "period": "90",
+  "lastvisit": "2019-05-21",
+  "users": [
+    "hsyn",
+    "admin",
+    "guest"
+  ],
+  "owners": [
+    "hsyn",
+    "admin"
+  ],
+  "meta": "Designed to withstand the harsh environments of aerospace, land, automation and energy applications, Gore cables and cable assemblies have provided failure-free performance for more than 55 years. ",
+  "title": "Cable & Cable Assemblies | High Data Rate, Power/Signal, Microwave/RF Coaxial | Gore",
+  "logo": "5bd76d1db2354e766289148a",
+  "portfolio": "industry",
+  "local": false
+}
+{
+  "_id": {
+    "$oid": "5bc82335bc4cbb7db1b152a6"
+  },
+  "id": 1539842277644,
+  "class": "Industry",
+  "category": "cable-connector",
+  "url": "https://www.carlisleit.com/",
+  "period": "90",
+  "lastvisit": "2019-09-10",
+  "users": [
+    "hsyn",
+    "admin",
+    "guest"
+  ],
+  "owners": [
+    "hsyn",
+    "admin"
+  ],
+  "meta": "CarlisleIT manufactures high performance wire & cable, assemblies, contacts, connectors, & more. We also design, build, test, & certify custom built products.",
+  "title": "CarlisleIT | High Performance Wire, Cables, Connectors, & Assemblies",
+  "logo": "5bd76d3ab2354e766289148b",
+  "portfolio": "industry",
+  "local": false
+}
+{
+  "_id": {
+    "$oid": "5bcda8f6bc4cbb7db1b152a8"
+  },
+  "id": 1540204193529,
+  "class": "Industry",
+  "category": "antenna, microwave",
+  "url": "http://www.rfspin.cz/en",
+  "period": "120",
+  "lastvisit": "2019-04-04",
+  "users": [
+    "hsyn",
+    "admin",
+    "guest"
+  ],
+  "owners": [
+    "hsyn",
+    "admin"
+  ],
+  "meta": "Profesionální služby v oblasti rádiových frekvencí – RFspin s.r.o.",
+  "title": "Professional services in radio frequency - RFspin",
+  "logo": "5bdfe31f77527503d463b0d5",
+  "portfolio": "industry",
+  "local": false
+}
+{
+  "_id": {
+    "$oid": "5bd9988ebc4cbb7db1b152c3"
+  },
+  "id": 1540986414249,
+  "class": "Industry",
+  "category": "microwave, waveguide, cable-connector",
+  "url": "https://www.atmmicrowave.com/",
+  "period": "120",
+  "lastvisit": "2019-07-08",
+  "users": [
+    "hsyn",
+    "admin",
+    "guest"
+  ],
+  "owners": [
+    "hsyn",
+    "admin"
+  ],
+  "title": "L3 Narda-ATM – Microwave RF Components Manufacturer",
+  "logo": "5bd998dcb2354e766289148d",
+  "portfolio": "industry",
+  "local": false
+}
+{
+  "_id": {
+    "$oid": "5bdae415bc4cbb7db1b152d3"
+  },
+  "id": 1541071283870,
+  "class": "Industry",
+  "category": "antenna, cable-connector",
+  "url": "https://pulselarsenantennas.com/",
+  "period": "120",
+  "lastvisit": "2019-05-13",
+  "users": [
+    "hsyn",
+    "admin",
+    "guest"
+  ],
+  "owners": [
+    "hsyn",
+    "admin"
+  ],
+  "meta": "PulseLarsen Antennas covers all the bases. Not sure which antenna you need? We can help. We offer antennas for 2G, 3G, 4G, 5G, LTE, GNSS, WiFi, Glonass and GPS Antennas for application in IOT, or Internet Of Things, DAS Antenna Products, Public Safety/LMR, Navigation GPS Products, Smallcell Antennas, WLAN Antenna Products, LTE Antenna Products, NFC Antenna Products and even Utility/Smart Grid antennas.",
+  "title": "PulseLarsen Antennas | 2G, 3G, 4G, 5G, LTE, GNSS, WiFi Antennas for applications in IOT, or Internet Of Things, DAS Antenna Products, Public Safety/LMR, Navigation GPS Products, Smallcell Antennas, WLAN Antenna Products, LTE Antenna Products, NFC Antenna Products and even Utility/Smart Grid antennas",
+  "logo": "5bdfe2f477527503d463b0d4",
+  "portfolio": "industry",
+  "local": false
+}
+{
+  "_id": {
+    "$oid": "5bdae493bc4cbb7db1b152d4"
+  },
+  "id": 1541071409847,
+  "class": "Industry",
+  "category": "rf module",
+  "url": "https://www.pulseelectronics.com/products/rf__wireless/",
+  "period": "120",
+  "lastvisit": "2019-05-13",
+  "users": [
+    "hsyn",
+    "admin",
+    "guest"
+  ],
+  "owners": [
+    "hsyn",
+    "admin"
+  ],
+  "logo": "5bfc4ec5af89ba5ee49e725f",
+  "portfolio": "industry",
+  "title": "RF & Wireless – Pulse Electronics",
+  "local": false
+}
+{
+  "_id": {
+    "$oid": "5be53620a4cca703cb9f6be4"
+  },
+  "id": 1541747638183,
+  "class": "Industry",
+  "category": "absorber, antenna, wireless",
+  "url": "https://www.lairdtech.com/",
+  "period": "150",
+  "lastvisit": "2019-07-23",
+  "users": [
+    "hsyn",
+    "admin",
+    "guest"
+  ],
+  "owners": [
+    "hsyn",
+    "admin"
+  ],
+  "meta": "Laird provides systems, components and solutions that protect electronics from electromagnetic interference and heat, and that enable connectivity in mission critical systems through wireless applications and antenna systems",
+  "title": "LairdTech | We Make Technology Work",
+  "logo": "5be5377777527503d463b0dc",
+  "portfolio": "industry",
+  "local": false
+}
+{
+  "_id": {
+    "$oid": "5be53662a4cca703cb9f6be5"
+  },
+  "id": 1541747704013,
+  "class": "Industry",
+  "category": "absorber, shielding",
+  "url": "https://www.solianiemc.com/en/",
+  "period": "120",
+  "lastvisit": "2019-05-17",
+  "users": [
+    "hsyn",
+    "admin",
+    "guest"
+  ],
+  "owners": [
+    "hsyn",
+    "admin"
+  ],
+  "meta": "The SOLIANI EMC shielding products, offer a high degree of protection from electromagnetic interference.",
+  "title": "Shielding products, shielding gaskets, conductive adhesives and sealants, shielded Rooms",
+  "logo": "5be536ff77527503d463b0db",
+  "portfolio": "industry",
+  "local": false
+}
+{
+  "_id": {
+    "$oid": "5be538f0a4cca703cb9f6be6"
+  },
+  "id": 1541748357667,
+  "class": "Industry",
+  "category": "cable-connector, lightning",
+  "url": "http://www.timesmicrowave.com/",
+  "period": "120",
+  "lastvisit": "2019-07-23",
+  "users": [
+    "hsyn",
+    "admin",
+    "guest"
+  ],
+  "owners": [
+    "hsyn",
+    "admin"
+  ],
+  "meta": "Times Microwave Systems manufactures high performance Low Loss Coaxial Cable, Connectors, and Cable Assemblies for Commercial Wireless and high reliability Military/Defense applications.",
+  "title": "Welcome to Times Microwave",
+  "logo": "5be539ab77527503d463b0dd",
+  "portfolio": "industry",
+  "local": false
+}
+{
+  "_id": {
+    "$oid": "5bf259f2f624305f3df1c2d1"
+  },
+  "id": 1542608763291,
+  "class": "Industry",
+  "category": "pcb",
+  "url": "www.bichengpcb.com",
+  "period": "180",
+  "lastvisit": "2019-02-20",
+  "users": [
+    "hsyn",
+    "admin",
+    "guest"
+  ],
+  "owners": [
+    "hsyn",
+    "admin"
+  ],
+  "title": "Printed Circuit Board Solution Provider | Bicheng PCB",
+  "logo": "5c4ffed57f961e578de6df90",
+  "portfolio": "industry"
+}
+{
+  "_id": {
+    "$oid": "5bf25a28f624305f3df1c2d2"
+  },
+  "id": 1542608816370,
+  "class": "Industry",
+  "category": "software",
+  "url": "https://www.cst.com/",
+  "period": "180",
+  "lastvisit": "2019-06-19",
+  "users": [
+    "hsyn",
+    "admin",
+    "guest"
+  ],
+  "owners": [
+    "hsyn",
+    "admin"
+  ],
+  "meta": "CST simulation software provides accurate 3D electromagnetic EDA solutions for the numerical solution to Maxwell's Equations, from statics up to highest frequencies.",
+  "title": "CST - Computer Simulation Technology",
+  "logo": "5bf93a76af89ba5ee49e7259",
+  "portfolio": "industry",
+  "local": false
+}
+{
+  "_id": {
+    "$oid": "5bf25a7bf624305f3df1c2d3"
+  },
+  "id": 1542608900331,
+  "class": "Industry",
+  "category": "software",
+  "url": "https://altairhyperworks.com/product/FEKO",
+  "period": "180",
+  "lastvisit": "2019-01-18",
+  "users": [
+    "hsyn",
+    "admin",
+    "guest"
+  ],
+  "owners": [
+    "hsyn",
+    "admin"
+  ],
+  "meta": "FEKO is a leading electromagnetic software used in multiple industries including aerospace, defense, automotive, communications and consumer electronics",
+  "title": "Electromagnetic Simulation Software | Altair FEKO",
+  "logo": "5bf93a22af89ba5ee49e7258",
+  "portfolio": "industry",
+  "local": false
+}
+{
+  "_id": {
+    "$oid": "5bf25accf624305f3df1c2d4"
+  },
+  "id": 1542608981506,
+  "class": "Industry",
+  "category": "software",
+  "url": "https://www.ansys.com/products/electronics/ansys-hfss",
+  "period": "90",
+  "lastvisit": "2019-04-24",
+  "users": [
+    "hsyn",
+    "admin",
+    "guest"
+  ],
+  "owners": [
+    "hsyn",
+    "admin"
+  ],
+  "meta": "ANSYS HFSS simulates 3D full-wave electromagnetic fields for accurate and rapid design of high-frequency and high-speed electronic components.",
+  "title": "ANSYS HFSS: High Frequency Electromagnetic Field Simulation Software",
+  "logo": "5bf93abbaf89ba5ee49e725a",
+  "portfolio": "industry",
+  "local": false
+}
+{
+  "_id": {
+    "$oid": "5bf25b8af624305f3df1c2d5"
+  },
+  "id": 1542609171458,
+  "class": "Industry",
+  "category": "software",
+  "url": "https://www.comsol.com/products",
+  "period": "150",
+  "lastvisit": "2019-04-24",
+  "users": [
+    "hsyn",
+    "admin",
+    "guest"
+  ],
+  "owners": [
+    "hsyn",
+    "admin"
+  ],
+  "meta": "Mix and match from the COMSOL Multiphysics® product suite to model physics-based designs and processes with numerical simulation. Explore all products here.",
+  "title": "The COMSOL® Software Product Suite",
+  "logo": "5bf93ae5af89ba5ee49e725b",
+  "portfolio": "industry",
+  "local": false
+}
+{
+  "_id": {
+    "$oid": "5bf26848f624305f3df1c2d6"
+  },
+  "id": 1542612433496,
+  "class": "Industry",
+  "category": "software",
+  "url": "https://www.keysight.com/en/pc-1297143/empro-3d-em-simulation-software",
+  "period": "120",
+  "lastvisit": "2019-06-18",
+  "users": [
+    "hsyn",
+    "admin",
+    "guest"
+  ],
+  "owners": [
+    "hsyn",
+    "admin"
+  ],
+  "meta": "Overview: EMPro is the first 3D Electromagnetic EM simulation software platform that completely integrates 3D EM simulation and the ADS circuit simulation software.",
+  "title": "EMPro 3D EM Simulation Software | Keysight (formerly Agilent’s Electronic Measurement)",
+  "logo": "5bf93b15af89ba5ee49e725c",
+  "portfolio": "industry",
+  "local": false
+}
+{
+  "_id": {
+    "$oid": "5bf268baf624305f3df1c2d7"
+  },
+  "id": 1542612547255,
+  "class": "Industry",
+  "category": "software",
+  "url": "https://www.awrcorp.com/products/ni-awr-design-environment/microwave-office-software",
+  "period": "180",
+  "lastvisit": "2019-05-28",
+  "users": [
+    "hsyn",
+    "admin",
+    "guest"
+  ],
+  "owners": [
+    "hsyn",
+    "admin"
+  ],
+  "meta": "Microwave Office provides all the powerful, innovative tools essential for high-frequency IC, PCB, and module design.",
+  "title": "Microwave Office Software - RF/Microwave Circuit Design | NI AWR Design Environment",
+  "logo": "5bf93b3eaf89ba5ee49e725d",
+  "portfolio": "industry",
+  "local": false
+}
+{
+  "_id": {
+    "$oid": "5bf26ac3f624305f3df1c2d8"
+  },
+  "id": 1542613068647,
+  "class": "Industry",
+  "category": "rf module",
+  "url": "https://www.analog.com/en/products/rf-microwave.html",
+  "period": "120",
+  "lastvisit": "2019-04-24",
+  "users": [
+    "hsyn",
+    "admin",
+    "guest"
+  ],
+  "owners": [
+    "hsyn",
+    "admin"
+  ],
+  "meta": "Our RF, microwave and millimeter wave products cover the entire signal chain from DC to 100GHz. With ADI, RF designers can be assured to find the right part to meet their needs.",
+  "title": "RF & Microwave | Analog Devices",
+  "logo": "5bf93985af89ba5ee49e7256",
+  "portfolio": "industry",
+  "local": false
+}
+{
+  "_id": {
+    "$oid": "5bf26b8ff624305f3df1c2d9"
+  },
+  "id": 1542613272527,
+  "class": "Industry",
+  "category": "software",
+  "url": "http://www.antennamagus.com/",
+  "period": "180",
+  "lastvisit": "2019-05-28",
+  "users": [
+    "hsyn",
+    "admin",
+    "guest"
+  ],
+  "owners": [
+    "hsyn",
+    "admin"
+  ],
+  "meta": "ANTENNA MAGUS: ANTENNA DESIGN SOFTWARE | THE LEADING ANTENNA DESIGN TOOL | ANTENNA DESIGN. SIMPLIFIED | HUGE DATABASE OF ANTENNAS | FIND | DESIGN | EXPORT ANTENNA MODELS TO FEKO OR CST MICROWAVE STUDIO",
+  "title": "ANTENNA MAGUS | The leading Antenna Design Software tool. | Antenna Design. Simplified",
+  "logo": "5bf93b63af89ba5ee49e725e",
+  "portfolio": "industry",
+  "local": false
+}
+{
+  "_id": {
+    "$oid": "5bf3a48411a73d5f3e98204f"
+  },
+  "id": 1542693389022,
+  "class": "Industry",
+  "category": "cable-connector",
+  "url": "http://www.rfconnector.com/",
+  "period": "90",
+  "lastvisit": "2019-06-18",
+  "users": [
+    "hsyn",
+    "admin",
+    "guest"
+  ],
+  "owners": [
+    "hsyn",
+    "admin"
+  ],
+  "meta": "",
+  "title": "RF Connector Manufacturer",
+  "logo": "5bfc4f5caf89ba5ee49e7261",
+  "portfolio": "industry",
+  "local": false
+}
+{
+  "_id": {
+    "$oid": "5bfe2c2111a73d5f3e982056"
+  },
+  "id": 1543383456481,
+  "class": "Industry",
+  "category": "measurement",
+  "url": "http://www.holzworth.com/",
+  "period": "90",
+  "lastvisit": "2019-07-05",
+  "users": [
+    "hsyn",
+    "admin",
+    "guest"
+  ],
+  "owners": [
+    "hsyn",
+    "admin"
+  ],
+  "title": "Holzworth Instrumentation",
+  "logo": "5c13a271748eb003d3100db5",
+  "portfolio": "industry"
+}
+{
+  "_id": {
+    "$oid": "5c00ed9c11a73d5f3e982057"
+  },
+  "id": 1543564056992,
+  "class": "Industry",
+  "category": "cable-connector, antenna, microwave",
+  "url": "https://www.radiall.com/",
+  "period": "90",
+  "lastvisit": "2019-04-10",
+  "users": [
+    "hsyn",
+    "admin",
+    "guest"
+  ],
+  "owners": [
+    "hsyn",
+    "admin"
+  ],
+  "meta": "Find the interconnect components you need from a leader in the industry. Radiall proived a wide range of products - from Custom Connectors and Adapters to Cable Assemblies. ",
+  "title": "Radiall - Innovator of Interconnect Components & More",
+  "logo": "5c3c62dd6edc733b57dd569b",
+  "portfolio": "industry"
+}
+{
+  "_id": {
+    "$oid": "5c134772342def03ca41b446"
+  },
+  "id": 1544766686296,
+  "class": "Industry",
+  "category": "microwave",
+  "url": "https://www.exceedmicrowave.com/",
+  "period": "120",
+  "lastvisit": "2019-06-17",
+  "users": [
+    "hsyn",
+    "admin",
+    "guest"
+  ],
+  "owners": [
+    "hsyn",
+    "admin"
+  ],
+  "title": "Exceed Microwave",
+  "logo": "5c13a2a5748eb003d3100db6",
+  "portfolio": "industry"
+}
+{
+  "_id": {
+    "$oid": "5c25d94e342def03ca41b44d"
+  },
+  "id": 1545983659179,
+  "class": "Industry",
+  "category": "microwave, waveguide",
+  "url": "http://www.mwdevices.com/",
+  "period": "90",
+  "lastvisit": "2019-05-06",
+  "users": [
+    "hsyn",
+    "admin",
+    "guest"
+  ],
+  "owners": [
+    "hsyn",
+    "admin"
+  ],
+  "meta": "Leading Manufacturer of RF & Microwave Passive Components, DC-60GHz; .5 to 80000 Watts",
+  "title": "MICROWAVE DEVICES Products",
+  "logo": "5c2c5d87e8dd3118d30ea397",
+  "portfolio": "industry"
+}
+{
+  "_id": {
+    "$oid": "5c25d984342def03ca41b44e"
+  },
+  "id": 1545983713115,
+  "class": "Industry",
+  "category": "microwave, hf",
+  "url": "https://www.uiy.com/",
+  "period": "90",
+  "lastvisit": "2019-05-06",
+  "users": [
+    "hsyn",
+    "admin",
+    "guest"
+  ],
+  "owners": [
+    "hsyn",
+    "admin"
+  ],
+  "meta": "UIY（www.uiy.com） is one of  RF/Microwave components supplier. The main products are Isolator,Circulator,Amplifier,Termination,Attenuator,Filter,Combiner. Cover frequency range from 0.1MHz to 110GHz.",
+  "title": "UIY | RF Circulator/Isolator,Microwave,VHF,UHF,Coaxial,Drop in,Dual Junction,Broadband | UIY",
+  "logo": "5c2c5d3ae8dd3118d30ea396",
+  "portfolio": "industry"
+}
+{
+  "_id": {
+    "$oid": "5c330d0100b9263ce4f41d7f"
+  },
+  "id": 1546848852198,
+  "class": "Industry",
+  "category": "antenna",
+  "url": "https://radiowaves.com/en",
+  "period": "120",
+  "lastvisit": "2019-07-23",
+  "users": [
+    "hsyn",
+    "admin",
+    "guest"
+  ],
+  "owners": [
+    "hsyn",
+    "admin"
+  ],
+  "meta": "U.S, manufacturer of microwave antennas including parabolic, sector, flat panel, and Omni.,  7 year warranty on all antennas.",
+  "title": "High Performance Parabolics, Sectors, Flat Panels, Omnis - RadioWaves Homepage",
+  "logo": "5c3c625c6edc733b57dd5699",
+  "portfolio": "industry"
+}
+{
+  "_id": {
+    "$oid": "5c374cea00b9263ce4f41d82"
+  },
+  "id": 1547127352750,
+  "class": "Industry",
+  "category": "cable-connector",
+  "url": "http://mpd.southwestmicrowave.com/",
+  "period": "60",
+  "lastvisit": "2019-05-28",
+  "users": [
+    "hsyn",
+    "admin",
+    "guest"
+  ],
+  "owners": [
+    "hsyn",
+    "admin"
+  ],
+  "meta": "High performance interconnect products for millimeter wave and high-power RF applications",
+  "title": "Microwave Products Division | Southwest Microwave",
+  "logo": "5c3c62c16edc733b57dd569a",
+  "portfolio": "industry"
+}
+{
+  "_id": {
+    "$oid": "5c385b3a00b9263ce4f41d83"
+  },
+  "id": 1547196551173,
+  "class": "Industry",
+  "category": "microwave, waveguide",
+  "url": "http://www.a1microwave.com/index.asp",
+  "period": "120",
+  "lastvisit": "2019-07-31",
+  "users": [
+    "hsyn",
+    "admin",
+    "guest"
+  ],
+  "owners": [
+    "hsyn",
+    "admin"
+  ],
+  "title": "A1 Microwave",
+  "logo": "5c3c630c6edc733b57dd569c",
+  "portfolio": "industry"
+}
+{
+  "_id": {
+    "$oid": "5c4822f800b9263ce4f41d88"
+  },
+  "id": 1548230713160,
+  "class": "Industry",
+  "category": "antenna",
+  "url": "https://www.antennaexperts.in/",
+  "period": "120",
+  "lastvisit": "2019-04-08",
+  "users": [
+    "hsyn",
+    "admin",
+    "guest"
+  ],
+  "owners": [
+    "hsyn",
+    "admin"
+  ],
+  "title": "Antenna Experts",
+  "logo": "5c6551cb2c812a457721374d",
+  "portfolio": "industry"
+}
+{
+  "_id": {
+    "$oid": "5c48387d00b9263ce4f41d8a"
+  },
+  "id": 1548236221987,
+  "class": "Industry",
+  "category": "pcb",
+  "url": "http://www.4taconic.com/index.php",
+  "period": "90",
+  "lastvisit": "2019-06-27",
+  "users": [
+    "hsyn",
+    "admin",
+    "guest"
+  ],
+  "owners": [
+    "hsyn",
+    "admin"
+  ],
+  "meta": "For over five decades, Taconic has been dedicated to finding a better way to meet the needs of the global industrial marketplace with high performance PTFE fabrics, tapes, belts and laminate materials.",
+  "title": "Taconic :: Welcome to Taconic",
+  "logo": "5c4ffe8c7f961e578de6df8f",
+  "portfolio": "industry"
+}
+{
+  "_id": {
+    "$oid": "5c4ef2e500b9263ce4f41d92"
+  },
+  "id": 1548677152047,
+  "class": "Industry",
+  "category": "measurement, rf module",
+  "url": "https://www.arworld.us/",
+  "period": "90",
+  "lastvisit": "2019-07-04",
+  "users": [
+    "hsyn",
+    "admin",
+    "guest"
+  ],
+  "owners": [
+    "hsyn",
+    "admin"
+  ],
+  "meta": "How to use the CSS background-size property to make an image fully span the entire viewport.",
+  "title": "AR RF/Microwave Insturmentation - AR Modular RF - Sunar RF Motion - AR Europe",
+  "logo": "5c4ffe4c7f961e578de6df8e",
+  "portfolio": "industry"
+}
+{
+  "_id": {
+    "$oid": "5c5961dfda88d030da54fee9"
+  },
+  "id": 1549361741454,
+  "class": "Industry",
+  "category": "microwave, waveguide",
+  "url": "http://mic-root.com/",
+  "period": "120",
+  "lastvisit": "2019-04-12",
+  "users": [
+    "hsyn",
+    "admin",
+    "guest"
+  ],
+  "owners": [
+    "hsyn",
+    "admin"
+  ],
+  "title": "RF Microwave components Designer and manufacturer in china - Powered by CmsEasy",
+  "logo": "5c6552772c812a457721374e",
+  "portfolio": "industry"
+}
+{
+  "_id": {
+    "$oid": "5c5d16d4da88d030da54feef"
+  },
+  "id": 1549604675043,
+  "class": "Industry",
+  "category": "cable-connector, antenna, microwave",
+  "url": "https://www.pasternack.com/",
+  "period": "120",
+  "lastvisit": "2019-04-16",
+  "users": [
+    "hsyn",
+    "admin",
+    "guest"
+  ],
+  "owners": [
+    "hsyn",
+    "admin"
+  ],
+  "title": "Cables, Coaxial Cable, Cable Connectors, Adapters, Attenuators, Microwave Parts",
+  "logo": "5ca5bbbf1b9c8813a0e5adb3",
+  "portfolio": "industry"
+}
+{
+  "_id": {
+    "$oid": "5c5d174cda88d030da54fef0"
+  },
+  "id": 1549604793907,
+  "class": "Industry",
+  "category": "antenna",
+  "url": "https://www.kpperformance.com/",
+  "period": "180",
+  "lastvisit": "2019-02-08",
+  "users": [
+    "hsyn",
+    "admin",
+    "guest"
+  ],
+  "owners": [
+    "hsyn",
+    "admin"
+  ],
+  "title": "KP Performance Antennas",
+  "logo": "5c6551a02c812a457721374c",
+  "portfolio": "industry"
+}
+{
+  "_id": {
+    "$oid": "5c64139b344cce60ec7f50e5"
+  },
+  "id": 1550062595841,
+  "class": "Industry",
+  "category": "antenna",
+  "url": "https://www.fractusantennas.com/",
+  "period": "120",
+  "lastvisit": "2019-06-18",
+  "users": [
+    "hsyn",
+    "admin",
+    "guest"
+  ],
+  "owners": [
+    "hsyn",
+    "admin"
+  ],
+  "title": "Fractus Antennas - miniature antennas for smartphones, wireless and IoT Newserver",
+  "logo": "5c6550612c812a457721374b",
+  "portfolio": "industry"
+}
+{
+  "_id": {
+    "$oid": "5c6bfd9b344cce60ec7f50ea"
+  },
+  "id": 1550581245686,
+  "class": "Industry",
+  "category": "software",
+  "url": "https://www.ticra.com/",
+  "period": "120",
+  "lastvisit": "2019-06-17",
+  "users": [
+    "hsyn",
+    "admin",
+    "guest"
+  ],
+  "owners": [
+    "hsyn",
+    "admin"
+  ],
+  "meta": "TICRA is the world's leading supplier of reflector antenna and EM modeling software for antenna industries, including spacecraft manufacturers and space agencies, earth-station antenna suppliers, defence industries and research institutions. Aditionally, TICRA offers software designed for satellite coverage planning.",
+  "title": "Home - TICRA - Reflector antenna and EM modeling software",
+  "logo": "5c6bfe5b2c812a457721374f",
+  "portfolio": "industry"
+}
+{
+  "_id": {
+    "$oid": "5c9cb3db10243503fc0a4bd3"
+  },
+  "id": 1553773588773,
+  "class": "Industry",
+  "category": "software",
+  "url": "https://www.emcos.com/",
+  "period": "120",
+  "lastvisit": "2019-06-27",
+  "users": [
+    "hsyn",
+    "admin",
+    "guest"
+  ],
+  "owners": [
+    "hsyn",
+    "admin"
+  ],
+  "title": "EMCoS",
+  "logo": "5caee30e1b9c8813a0e5adb8",
+  "portfolio": "industry"
+}
+{
+  "_id": {
+    "$oid": "5c9cb43a10243503fc0a4bd4"
+  },
+  "id": 1553773683518,
+  "class": "Industry",
+  "category": "software",
+  "url": "https://wipl-d.com/",
+  "period": "120",
+  "lastvisit": "2019-06-27",
+  "users": [
+    "hsyn",
+    "admin",
+    "guest"
+  ],
+  "owners": [
+    "hsyn",
+    "admin"
+  ],
+  "meta": "WIPL-D provides EM software widely used for electromagnetic simulation and EM modeling. Powerful tools for Antenna Design, Antenna Placement, EMC, Microwave Circuits, RCS ... Get free demo!",
+  "title": "Electromagnetic Simulation and EM Modeling Software | WIPL-D",
+  "logo": "5caee3351b9c8813a0e5adb9",
+  "portfolio": "industry"
+}
+{
+  "_id": {
+    "$oid": "5ca5e12d4f488f138fe1ca94"
+  },
+  "id": 1554375007300,
+  "class": "Industry",
+  "category": "measurement",
+  "url": "http://www.emite-ing.com/en/",
+  "period": "90",
+  "lastvisit": "2019-09-16",
+  "users": [
+    "hsyn",
+    "admin",
+    "guest"
+  ],
+  "owners": [
+    "hsyn",
+    "admin"
+  ],
+  "meta": "EMITE Ingeniería SL",
+  "title": "EMITE",
+  "logo": "5caee2dc1b9c8813a0e5adb7",
+  "portfolio": "industry"
+}
+{
+  "_id": {
+    "$oid": "5ca6f58f4f488f138fe1ca95"
+  },
+  "id": 1554445760998,
+  "class": "Industry",
+  "category": "antenna",
+  "url": "https://www.maxtena.com/",
+  "period": "120",
+  "lastvisit": "2019-07-04",
+  "users": [
+    "hsyn",
+    "admin",
+    "guest"
+  ],
+  "owners": [
+    "hsyn",
+    "admin"
+  ],
+  "meta": "Maxtena designs and manufactures advanced antenna solutions based on our patented technology - GNSS, Iridium, Telephone, M2M, IoT, Cellular, UAV",
+  "title": "Maxtena Inc. - Wireless Innovations Company",
+  "logo": "5caee26c1b9c8813a0e5adb5",
+  "portfolio": "industry"
+}
+{
+  "_id": {
+    "$oid": "5caaefae4f488f138fe1ca99"
+  },
+  "id": 1554706396017,
+  "class": "Industry",
+  "category": "measurement",
+  "url": "https://www.idscorporation.com/",
+  "period": "120",
+  "lastvisit": "2019-07-17",
+  "users": [
+    "hsyn",
+    "admin",
+    "guest"
+  ],
+  "owners": [
+    "hsyn",
+    "admin"
+  ],
+  "meta": "We offer scalable and interoperable integrated solutions and services in air traffic management and electromagnetic engineering, design and manufacture of aerial and ground unmanned vehicles, development of radar-based safety systems | IDS Ingegneria dei Sistemi",
+  "title": "High tech integrated solutions and services | IDS Ingegneria dei Sistemi",
+  "logo": "5caee2b31b9c8813a0e5adb6",
+  "portfolio": "industry"
+}
+{
+  "_id": {
+    "$oid": "5caaffc34f488f138fe1ca9a"
+  },
+  "id": 1554710513624,
+  "class": "Industry",
+  "category": "antenna",
+  "url": "http://www.antenit.com/",
+  "period": "120",
+  "lastvisit": "2019-07-17",
+  "users": [
+    "hsyn",
+    "admin",
+    "guest"
+  ],
+  "owners": [
+    "hsyn",
+    "admin"
+  ],
+  "title": "Anten'it – Game Changing Antenna Technology",
+  "logo": "5caee2561b9c8813a0e5adb4",
+  "portfolio": "industry"
+}
+{
+  "_id": {
+    "$oid": "5cb092f44f488f138fe1ca9e"
+  },
+  "id": 1555075869031,
+  "class": "Industry",
+  "category": "measurement",
+  "url": "https://allwave.site/",
+  "period": "90",
+  "lastvisit": "2019-04-12",
+  "users": [
+    "hsyn",
+    "admin",
+    "guest"
+  ],
+  "owners": [
+    "hsyn",
+    "admin"
+  ],
+  "title": "Allwave",
+  "logo": "5cc008d242e7d10968e7fa56",
+  "portfolio": "industry"
+}
+{
+  "_id": {
+    "$oid": "5cb095e04f488f138fe1ca9f"
+  },
+  "id": 1555076616791,
+  "class": "Industry",
+  "category": "rf",
+  "url": "https://rftr.com.tr/en",
+  "period": "120",
+  "lastvisit": "2019-04-12",
+  "users": [
+    "hsyn",
+    "admin",
+    "guest"
+  ],
+  "owners": [
+    "hsyn",
+    "admin"
+  ],
+  "meta": "RFTR Electronics Inc. Official Web Site",
+  "title": "RFTR Electronics",
+  "logo": "5cc0099042e7d10968e7fa5b",
+  "portfolio": "industry"
+}
+{
+  "_id": {
+    "$oid": "5cb702892238db17d83df257"
+  },
+  "id": 1555497645251,
+  "class": "Industry",
+  "category": "rf module",
+  "url": "https://www.superapexco.com/",
+  "period": "120",
+  "lastvisit": "2019-07-23",
+  "users": [
+    "hsyn",
+    "admin",
+    "guest"
+  ],
+  "owners": [
+    "hsyn",
+    "admin"
+  ],
+  "title": "superapexco – Just another WordPress site",
+  "logo": "5cc009aa42e7d10968e7fa5c",
+  "portfolio": "industry"
+}
+{
+  "_id": {
+    "$oid": "5cb706dd2238db17d83df258"
+  },
+  "id": 1555498753282,
+  "class": "Industry",
+  "category": "measurement, absorber",
+  "url": "http://frankonia-solutions.com",
+  "period": "150",
+  "lastvisit": "2019-07-23",
+  "users": [
+    "hsyn",
+    "admin",
+    "guest"
+  ],
+  "owners": [
+    "hsyn",
+    "admin"
+  ],
+  "title": "Frankonia Group – www.frankoniagroup.com",
+  "logo": "5cc0093242e7d10968e7fa59",
+  "portfolio": "industry"
+}
+{
+  "_id": {
+    "$oid": "5cb707842238db17d83df259"
+  },
+  "id": 1555498920209,
+  "class": "Industry",
+  "category": "software, measurement",
+  "url": "http://www.qwed.com.pl/",
+  "period": "120",
+  "lastvisit": "2019-04-17",
+  "users": [
+    "hsyn",
+    "admin",
+    "guest"
+  ],
+  "owners": [
+    "hsyn",
+    "admin"
+  ],
+  "meta": "QWED company specialising in QuickWave FDTD software for electromagnetic design and simulations including microwave heating.",
+  "title": "QWED - Software for Electromagnetic Design",
+  "logo": "5cc00a5c42e7d10968e7fa5e",
+  "portfolio": "industry"
+}
+{
+  "_id": {
+    "$oid": "5cbd56192238db17d83df25f"
+  },
+  "id": 1555912247347,
+  "class": "Industry",
+  "category": "antenna",
+  "url": "https://www.jampro.com/",
+  "period": "90",
+  "lastvisit": "2019-06-18",
+  "users": [
+    "hsyn",
+    "admin",
+    "guest"
+  ],
+  "owners": [
+    "hsyn",
+    "admin"
+  ],
+  "meta": "When You Want More Than Just an Antenna",
+  "title": "Home - Jampro Antennas Inc.",
+  "logo": "5cc008f642e7d10968e7fa58",
+  "portfolio": "industry"
+}
+{
+  "_id": {
+    "$oid": "5cc008622238db17d83df260"
+  },
+  "id": 1556088959239,
+  "class": "Industry",
+  "category": "measurement",
+  "url": "https://www.thinkrf.com/",
+  "period": "120",
+  "lastvisit": "2019-08-28",
+  "users": [
+    "hsyn",
+    "admin",
+    "guest"
+  ],
+  "owners": [
+    "hsyn",
+    "admin"
+  ],
+  "meta": "ThinkRF is the leader in real-time spectrum analysis platforms that that monitor, detect and analyze complex waveforms in today’s rapidly evolving wireless landscape. ThinkRF and its application ecosystem helps RF Application Developers, RF Engineers and Monitoring Program Managers see the full picture for development, deployment and monitoring. Learn more.",
+  "title": "The Leader in Software Defined Spectrum Analysis - ThinkRF",
+  "logo": "5cc008dc42e7d10968e7fa57",
+  "portfolio": "industry"
+}
+{
+  "_id": {
+    "$oid": "5cc0bdf82238db17d83df263"
+  },
+  "id": 1556135417236,
+  "class": "Industry",
+  "category": "measurement, antenna, cable-connector",
+  "url": "https://www.transcomwireless.com/",
+  "period": "120",
+  "lastvisit": "2019-08-28",
+  "users": [
+    "hsyn",
+    "admin",
+    "guest"
+  ],
+  "owners": [
+    "hsyn",
+    "admin"
+  ],
+  "meta": "Transcom instruments is a leading manufacturer and provider of RF and wireless communication testing instrument. We have an experienced & dedicated research team in mobile communication, rf & microwave and network optimization testing instrument.",
+  "title": "Transcom Instruments And Solutions - Transcom Instruments",
+  "logo": "5d30173c33a23f041724fe45",
+  "portfolio": "industry"
+}
+{
+  "_id": {
+    "$oid": "5cd2b4f290c1d111950cc932"
+  },
+  "id": 1557312767712,
+  "class": "Industry",
+  "category": "antenna",
+  "url": "https://www.2j-antennae.com/",
+  "period": "90",
+  "lastvisit": "2019-05-08",
+  "users": [
+    "hsyn",
+    "admin",
+    "guest"
+  ],
+  "owners": [
+    "hsyn",
+    "admin"
+  ],
+  "meta": "2j antenna is european antenna manufacturer of high quality aerials such as external antennas as GSM, Marine, DVB-t, GPS, TETRA / EBTS 806 - 870 MHz, Wifi,Marine, embedded antennas, combined antennas, cable assembly,RF connectors and custom solutions.",
+  "title": "2j antennae producer",
+  "logo": "5d3015df33a23f041724fe41",
+  "portfolio": "industry"
+}
+{
+  "_id": {
+    "$oid": "5cd2b57d90c1d111950cc933"
+  },
+  "id": 1557312906008,
+  "class": "Industry",
+  "category": "cable-connector",
+  "url": "http://www.sz-signal.com/",
+  "period": "60",
+  "lastvisit": "2019-05-08",
+  "users": [
+    "hsyn",
+    "admin",
+    "guest"
+  ],
+  "owners": [
+    "hsyn",
+    "admin"
+  ],
+  "title": "Signal Electronics: Industrial Waterproof Cable connector manufacturer & supplier ::Shenzhen Signal Electronics Co.,Ltd",
+  "logo": "5d30168633a23f041724fe43",
+  "portfolio": "industry"
+}
+{
+  "_id": {
+    "$oid": "5cd3b6b590c1d111950cc934"
+  },
+  "id": 1557378753247,
+  "class": "Industry",
+  "category": "measurement, antenna",
+  "url": "https://www.aaronia.com/",
+  "period": "60",
+  "lastvisit": "2019-05-09",
+  "users": [
+    "hsyn",
+    "admin",
+    "guest"
+  ],
+  "owners": [
+    "hsyn",
+    "admin"
+  ],
+  "title": "Aaronia Spectrum Analyzers, Antennas & Generators",
+  "logo": "5d3016f833a23f041724fe44",
+  "portfolio": "industry"
+}
+{
+  "_id": {
+    "$oid": "5cda81a290c1d111950cc940"
+  },
+  "id": 1557823912813,
+  "class": "Industry",
+  "category": "antenna, cable-connector, rf module",
+  "url": "https://linxtechnologies.com/wp/",
+  "period": "90",
+  "lastvisit": "2019-05-14",
+  "users": [
+    "hsyn",
+    "admin",
+    "guest"
+  ],
+  "owners": [
+    "hsyn",
+    "admin"
+  ],
+  "meta": "Linx Technologies makes wireless simple by developing and manufacturing wireless products that are easy for engineers of all skill levels to use.",
+  "title": "Linx Technologies - Wireless Made Simple™ for Every EngineerLinkedInRSSTwitter",
+  "logo": "5d30162033a23f041724fe42",
+  "portfolio": "industry"
+}
+{
+  "_id": {
+    "$oid": "5cdd55ef90c1d111950cc949"
+  },
+  "id": 1558009330498,
+  "class": "Industry",
+  "category": "radome",
+  "url": "http://www.afcsat.com/",
+  "period": "90",
+  "lastvisit": "2019-05-16",
+  "users": [
+    "hsyn",
+    "admin",
+    "guest"
+  ],
+  "owners": [
+    "hsyn",
+    "admin"
+  ],
+  "meta": "AFC manufactures radomes and radome products, satellite dish antennas, Tallguide ultra low loss waveguide, antenna feeds, microwave and waveguide components. See the Boss's Corner for midi songs.",
+  "title": "Antennas for Communications (AFC) Manufactures Radomes and Radome Products, Antennas, Waveguide, Tallguide and Shelters",
+  "logo": "5d30179133a23f041724fe47",
+  "portfolio": "industry"
+}
+{
+  "_id": {
+    "$oid": "5ce3e66f3e25250414fd6689"
+  },
+  "id": 1558439532614,
+  "class": "Industry",
+  "category": "antenna",
+  "url": "https://poynting.tech/",
+  "period": "120",
+  "lastvisit": "2019-07-31",
+  "users": [
+    "hsyn",
+    "admin",
+    "guest"
+  ],
+  "owners": [
+    "hsyn",
+    "admin"
+  ],
+  "meta": "Wireless Solutions For Voice & Data",
+  "title": "Poynting - Wireless Solutions For Voice & Data",
+  "logo": "5d30154e33a23f041724fe3f",
+  "portfolio": "industry"
+}
+{
+  "_id": {
+    "$oid": "5d08a0412050ff2809c02c97"
+  },
+  "id": 1560846366431,
+  "class": "Industry",
+  "category": "microwave, measurement",
+  "url": "https://vaunix.com/",
+  "period": "60",
+  "lastvisit": "2019-06-18",
+  "users": [
+    "hsyn",
+    "admin",
+    "guest"
+  ],
+  "owners": [
+    "hsyn",
+    "admin"
+  ],
+  "meta": "Compact, portable and programmable USB-powered Digital Attenuators and Signal Generators bench approved for RF and microwave test equipment and communications products.",
+  "title": "Rock Solid Easily Programmable Digital Attenuators Signal Generators",
+  "logo": "5d30176933a23f041724fe46",
+  "portfolio": "industry"
+}
+{
+  "_id": {
+    "$oid": "5d300571fdb5550419b471d1"
+  },
+  "id": 1563428138429,
+  "class": "Industry",
+  "category": "rf module, microwave, antenna",
+  "url": "http://micro.apitech.com/default.aspx",
+  "period": "30",
+  "lastvisit": "2019-07-18",
+  "users": [
+    "hsyn",
+    "admin",
+    "guest"
+  ],
+  "owners": [
+    "hsyn",
+    "admin"
+  ],
+  "meta": "API Technologies is a market leader in the world of RF, Microwave & Microelectronics, components and systems. API draws upon an extensive design library and a talented staff of experienced microwave engineers with backgrounds in amplifiers, filters, rf components, frequency sources, repairs and systems.",
+  "title": "RF, Microwave & Microelectronics | API Technologies",
+  "logo": "5d30185533a23f041724fe48",
+  "portfolio": "industry"
+}
+{
+  "_id": {
+    "$oid": "0001"
+  },
+  "id": 1001,
+  "class": "Industry",
+  "category": "pcb",
+  "url": "https://www.swisspcb.ch",
+  "meta": "",
+  "title": "GS Swiss PCB: GS Swiss PCB",
+  "logo": "001",
+  "portfolio": "industry"
+}
+{
+  "_id": {
+    "$oid": "0002"
+  },
+  "id": 1002,
+  "class": "Industry",
+  "category": "measurement",
+  "url": "https://verkotan.com/",
+  "meta": "",
+  "title": "SAR and OTA testing - Verkotan",
+  "logo": "002",
+  "portfolio": "industry"
+}
+{
+  "_id": {
+    "$oid": "0003"
+  },
+  "id": 1003,
+  "class": "Industry",
+  "category": "rf",
+  "url": "https://www.macom.com/",
+  "meta": "",
+  "title": "MACOM - Partners from RF to Light",
+  "logo": "003",
+  "portfolio": "industry"
+}
+{
+  "_id": {
+    "$oid": "0004"
+  },
+  "id": 1004,
+  "class": "Industry",
+  "category": "measurement",
+  "url": "https://smitek-robotics.com/en/",
+  "meta": "",
+  "title": "Smitek English - Tailor-made antenna measurement systems",
+  "logo": "004",
+  "portfolio": "industry"
+}

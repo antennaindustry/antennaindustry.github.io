@@ -1,0 +1,3387 @@
+{
+  "_id": {
+    "$oid": "5b8aece29efffc21085a7030"
+  },
+  "owners": [
+    "hsyn",
+    "admin"
+  ],
+  "users": [
+    "guest",
+    "hsyn",
+    "admin"
+  ],
+  "basename": "logo.svg",
+  "name": "1535831266424-logo.svg",
+  "folder": "portfolio/industry",
+  "mate": null,
+  "date": "2018.09.01 22:47:46",
+  "size": 2563,
+  "sizeStr": "2.5 KB"
+}
+{
+  "_id": {
+    "$oid": "5b8aede09efffc21085a7031"
+  },
+  "owners": [
+    "hsyn",
+    "admin"
+  ],
+  "users": [
+    "guest",
+    "hsyn",
+    "admin"
+  ],
+  "basename": "Ekran Alıntısı.PNG",
+  "name": "1535831520699-Ekran Alıntısı.PNG",
+  "folder": "portfolio/industry",
+  "mate": null,
+  "date": "2018.09.01 22:52:00",
+  "size": 17923,
+  "sizeStr": "17.5 KB"
+}
+{
+  "_id": {
+    "$oid": "5b8cec3421172710c86a42e9"
+  },
+  "owners": [
+    "hsyn",
+    "admin"
+  ],
+  "users": [
+    "guest",
+    "hsyn",
+    "admin"
+  ],
+  "basename": "bpl.jpg",
+  "name": "1535962164607-bpl.jpg",
+  "folder": "portfolio/industry",
+  "mate": null,
+  "date": "2018.09.03 11:09:24",
+  "size": 5631,
+  "sizeStr": "5.5 KB"
+}
+{
+  "_id": {
+    "$oid": "5b8cecf421172710c86a42ea"
+  },
+  "owners": [
+    "hsyn",
+    "admin"
+  ],
+  "users": [
+    "guest",
+    "hsyn",
+    "admin"
+  ],
+  "basename": "logo.png",
+  "name": "1535962356739-logo.png",
+  "folder": "portfolio/industry",
+  "mate": null,
+  "date": "2018.09.03 11:12:36",
+  "size": 23759,
+  "sizeStr": "23.2 KB"
+}
+{
+  "_id": {
+    "$oid": "5b8ced2221172710c86a42eb"
+  },
+  "owners": [
+    "hsyn",
+    "admin"
+  ],
+  "users": [
+    "guest",
+    "hsyn",
+    "admin"
+  ],
+  "basename": "huzme-logo2-1.png",
+  "name": "1535962402356-huzme-logo2-1.png",
+  "folder": "portfolio/industry",
+  "mate": null,
+  "date": "2018.09.03 11:13:22",
+  "size": 4229,
+  "sizeStr": "4.13 KB"
+}
+{
+  "_id": {
+    "$oid": "5b8ced6f21172710c86a42ec"
+  },
+  "owners": [
+    "hsyn",
+    "admin"
+  ],
+  "users": [
+    "guest",
+    "hsyn",
+    "admin"
+  ],
+  "basename": "msc-header-logo.png",
+  "name": "1535962479341-msc-header-logo.png",
+  "folder": "portfolio/industry",
+  "mate": null,
+  "date": "2018.09.03 11:14:39",
+  "size": 10155,
+  "sizeStr": "9.92 KB"
+}
+{
+  "_id": {
+    "$oid": "5b8cedaf21172710c86a42ed"
+  },
+  "owners": [
+    "hsyn",
+    "admin"
+  ],
+  "users": [
+    "guest",
+    "hsyn",
+    "admin"
+  ],
+  "basename": "Panorama-Logo-JPG.jpg",
+  "name": "1535962543971-Panorama-Logo-JPG.jpg",
+  "folder": "portfolio/industry",
+  "mate": null,
+  "date": "2018.09.03 11:15:43",
+  "size": 28537,
+  "sizeStr": "27.87 KB"
+}
+{
+  "_id": {
+    "$oid": "5b8cedfb21172710c86a42ee"
+  },
+  "owners": [
+    "hsyn",
+    "admin"
+  ],
+  "users": [
+    "guest",
+    "hsyn",
+    "admin"
+  ],
+  "basename": "eri-logo.jpg",
+  "name": "1535962619100-eri-logo.jpg",
+  "folder": "portfolio/industry",
+  "mate": null,
+  "date": "2018.09.03 11:16:59",
+  "size": 12090,
+  "sizeStr": "11.81 KB"
+}
+{
+  "_id": {
+    "$oid": "5b8cee4d21172710c86a42ef"
+  },
+  "owners": [
+    "hsyn",
+    "admin"
+  ],
+  "users": [
+    "guest",
+    "hsyn",
+    "admin"
+  ],
+  "basename": "Ekran Alıntısı.PNG",
+  "name": "1535962701736-Ekran Alıntısı.PNG",
+  "folder": "portfolio/industry",
+  "mate": null,
+  "date": "2018.09.03 11:18:21",
+  "size": 8888,
+  "sizeStr": "8.68 KB"
+}
+{
+  "_id": {
+    "$oid": "5b8cf22021172710c86a42f0"
+  },
+  "owners": [
+    "hsyn",
+    "admin"
+  ],
+  "users": [
+    "guest",
+    "hsyn",
+    "admin"
+  ],
+  "basename": "APC-small-transparent2.png",
+  "name": "1535963680743-APC-small-transparent2.png",
+  "folder": "portfolio/industry",
+  "mate": null,
+  "date": "2018.09.03 11:34:40",
+  "size": 34987,
+  "sizeStr": "34.17 KB"
+}
+{
+  "_id": {
+    "$oid": "5b8cf26521172710c86a42f1"
+  },
+  "owners": [
+    "hsyn",
+    "admin"
+  ],
+  "users": [
+    "guest",
+    "hsyn",
+    "admin"
+  ],
+  "basename": "Smiths_Interconnect_Logo.png",
+  "name": "1535963749991-Smiths_Interconnect_Logo.png",
+  "folder": "portfolio/industry",
+  "mate": null,
+  "date": "2018.09.03 11:35:49",
+  "size": 38337,
+  "sizeStr": "37.44 KB"
+}
+{
+  "_id": {
+    "$oid": "5b8cf28d21172710c86a42f2"
+  },
+  "owners": [
+    "hsyn",
+    "admin"
+  ],
+  "users": [
+    "guest",
+    "hsyn",
+    "admin"
+  ],
+  "basename": "LogoBanner.png",
+  "name": "1535963789636-LogoBanner.png",
+  "folder": "portfolio/industry",
+  "mate": null,
+  "date": "2018.09.03 11:36:29",
+  "size": 27659,
+  "sizeStr": "27.01 KB"
+}
+{
+  "_id": {
+    "$oid": "5b9563afe76b1311d4539f15"
+  },
+  "owners": [
+    "hsyn",
+    "admin"
+  ],
+  "users": [
+    "guest",
+    "hsyn",
+    "admin"
+  ],
+  "basename": "cobham-logo.svg",
+  "name": "1536517039271-cobham-logo.svg",
+  "folder": "portfolio/industry",
+  "mate": null,
+  "date": "2018.09.09 21:17:19",
+  "size": 2963,
+  "sizeStr": "2.89 KB"
+}
+{
+  "_id": {
+    "$oid": "5b9563e7e76b1311d4539f16"
+  },
+  "owners": [
+    "hsyn",
+    "admin"
+  ],
+  "users": [
+    "guest",
+    "hsyn",
+    "admin"
+  ],
+  "basename": "logo.png",
+  "name": "1536517095234-logo.png",
+  "folder": "portfolio/industry",
+  "mate": null,
+  "date": "2018.09.09 21:18:15",
+  "size": 12421,
+  "sizeStr": "12.13 KB"
+}
+{
+  "_id": {
+    "$oid": "5b956440e76b1311d4539f17"
+  },
+  "owners": [
+    "hsyn",
+    "admin"
+  ],
+  "users": [
+    "guest",
+    "hsyn",
+    "admin"
+  ],
+  "basename": "logo.png",
+  "name": "1536517184942-logo.png",
+  "folder": "portfolio/industry",
+  "mate": null,
+  "date": "2018.09.09 21:19:44",
+  "size": 1774,
+  "sizeStr": "1.73 KB"
+}
+{
+  "_id": {
+    "$oid": "5b956645e76b1311d4539f18"
+  },
+  "owners": [
+    "hsyn",
+    "admin"
+  ],
+  "users": [
+    "guest",
+    "hsyn",
+    "admin"
+  ],
+  "basename": "logo.png",
+  "name": "1536517701633-logo.png",
+  "folder": "portfolio/industry",
+  "mate": null,
+  "date": "2018.09.09 21:28:21",
+  "size": 35857,
+  "sizeStr": "35.02 KB"
+}
+{
+  "_id": {
+    "$oid": "5b958a17e76b1311d4539f19"
+  },
+  "owners": [
+    "hsyn",
+    "admin"
+  ],
+  "users": [
+    "guest",
+    "hsyn",
+    "admin"
+  ],
+  "basename": "logo.png",
+  "name": "1536526871541-logo.png",
+  "folder": "portfolio/industry",
+  "mate": null,
+  "date": "2018.09.10 00:01:11",
+  "size": 2717,
+  "sizeStr": "2.65 KB"
+}
+{
+  "_id": {
+    "$oid": "5b958a5ce76b1311d4539f1a"
+  },
+  "owners": [
+    "hsyn",
+    "admin"
+  ],
+  "users": [
+    "guest",
+    "hsyn",
+    "admin"
+  ],
+  "basename": "logo.png",
+  "name": "1536526940845-logo.png",
+  "folder": "portfolio/industry",
+  "mate": null,
+  "date": "2018.09.10 00:02:20",
+  "size": 38963,
+  "sizeStr": "38.05 KB"
+}
+{
+  "_id": {
+    "$oid": "5b958a82e76b1311d4539f1b"
+  },
+  "owners": [
+    "hsyn",
+    "admin"
+  ],
+  "users": [
+    "guest",
+    "hsyn",
+    "admin"
+  ],
+  "basename": "logo.gif",
+  "name": "1536526978838-logo.gif",
+  "folder": "portfolio/industry",
+  "mate": null,
+  "date": "2018.09.10 00:02:58",
+  "size": 7800,
+  "sizeStr": "7.62 KB"
+}
+{
+  "_id": {
+    "$oid": "5b958a9ee76b1311d4539f1c"
+  },
+  "owners": [
+    "hsyn",
+    "admin"
+  ],
+  "users": [
+    "guest",
+    "hsyn",
+    "admin"
+  ],
+  "basename": "kathrein-logo1.png",
+  "name": "1536527006294-kathrein-logo1.png",
+  "folder": "portfolio/industry",
+  "mate": null,
+  "date": "2018.09.10 00:03:26",
+  "size": 548,
+  "sizeStr": "548 B"
+}
+{
+  "_id": {
+    "$oid": "5b958b55e76b1311d4539f1d"
+  },
+  "owners": [
+    "hsyn",
+    "admin"
+  ],
+  "users": [
+    "guest",
+    "hsyn",
+    "admin"
+  ],
+  "basename": "logo5.svg",
+  "name": "1536527189287-logo5.svg",
+  "folder": "portfolio/industry",
+  "mate": null,
+  "date": "2018.09.10 00:06:29",
+  "size": 10861,
+  "sizeStr": "10.61 KB"
+}
+{
+  "_id": {
+    "$oid": "5b958ba5e76b1311d4539f1e"
+  },
+  "owners": [
+    "hsyn",
+    "admin"
+  ],
+  "users": [
+    "guest",
+    "hsyn",
+    "admin"
+  ],
+  "basename": "logo_header.svg",
+  "name": "1536527268999-logo_header.svg",
+  "folder": "portfolio/industry",
+  "mate": null,
+  "date": "2018.09.10 00:07:48",
+  "size": 8008,
+  "sizeStr": "7.82 KB"
+}
+{
+  "_id": {
+    "$oid": "5b958bfde76b1311d4539f1f"
+  },
+  "owners": [
+    "hsyn",
+    "admin"
+  ],
+  "users": [
+    "guest",
+    "hsyn",
+    "admin"
+  ],
+  "basename": "logo (1).png",
+  "name": "1536527357969-logo (1).png",
+  "folder": "portfolio/industry",
+  "mate": null,
+  "date": "2018.09.10 00:09:17",
+  "size": 13898,
+  "sizeStr": "13.57 KB"
+}
+{
+  "_id": {
+    "$oid": "5b958c45e76b1311d4539f20"
+  },
+  "owners": [
+    "hsyn",
+    "admin"
+  ],
+  "users": [
+    "guest",
+    "hsyn",
+    "admin"
+  ],
+  "basename": "logo.jpg",
+  "name": "1536527429517-logo.jpg",
+  "folder": "portfolio/industry",
+  "mate": null,
+  "date": "2018.09.10 00:10:29",
+  "size": 5310,
+  "sizeStr": "5.19 KB"
+}
+{
+  "_id": {
+    "$oid": "5b958c5fe76b1311d4539f21"
+  },
+  "owners": [
+    "hsyn",
+    "admin"
+  ],
+  "users": [
+    "guest",
+    "hsyn",
+    "admin"
+  ],
+  "basename": "mmwave-sall.png",
+  "name": "1536527455476-mmwave-sall.png",
+  "folder": "portfolio/industry",
+  "mate": null,
+  "date": "2018.09.10 00:10:55",
+  "size": 4118,
+  "sizeStr": "4.02 KB"
+}
+{
+  "_id": {
+    "$oid": "5b958cd2e76b1311d4539f22"
+  },
+  "owners": [
+    "hsyn",
+    "admin"
+  ],
+  "users": [
+    "guest",
+    "hsyn",
+    "admin"
+  ],
+  "basename": "logo.png",
+  "name": "1536527569997-logo.png",
+  "folder": "portfolio/industry",
+  "mate": null,
+  "date": "2018.09.10 00:12:49",
+  "size": 10165,
+  "sizeStr": "9.93 KB"
+}
+{
+  "_id": {
+    "$oid": "5b958d18e76b1311d4539f23"
+  },
+  "owners": [
+    "hsyn",
+    "admin"
+  ],
+  "users": [
+    "guest",
+    "hsyn",
+    "admin"
+  ],
+  "basename": "logo.png",
+  "name": "1536527640605-logo.png",
+  "folder": "portfolio/industry",
+  "mate": null,
+  "date": "2018.09.10 00:14:00",
+  "size": 3897,
+  "sizeStr": "3.81 KB"
+}
+{
+  "_id": {
+    "$oid": "5b958da3e76b1311d4539f24"
+  },
+  "owners": [
+    "hsyn",
+    "admin"
+  ],
+  "users": [
+    "guest",
+    "hsyn",
+    "admin"
+  ],
+  "basename": "logo.png",
+  "name": "1536527779731-logo.png",
+  "folder": "portfolio/industry",
+  "mate": null,
+  "date": "2018.09.10 00:16:19",
+  "size": 4464,
+  "sizeStr": "4.36 KB"
+}
+{
+  "_id": {
+    "$oid": "5ba1db99acc81b04814deb20"
+  },
+  "owners": [
+    "hsyn",
+    "admin"
+  ],
+  "users": [
+    "guest",
+    "hsyn",
+    "admin"
+  ],
+  "basename": "logo.PNG",
+  "name": "1537334169051-logo.PNG",
+  "folder": "portfolio/industry",
+  "mate": null,
+  "date": "2018.09.19 05:16:09",
+  "size": 11950,
+  "sizeStr": "11.67 KB"
+}
+{
+  "_id": {
+    "$oid": "5ba1e981acc81b04814deb21"
+  },
+  "owners": [
+    "hsyn",
+    "admin"
+  ],
+  "users": [
+    "guest",
+    "hsyn",
+    "admin"
+  ],
+  "basename": "logo.png",
+  "name": "1537337729756-logo.png",
+  "folder": "portfolio/industry",
+  "mate": null,
+  "date": "2018.09.19 06:15:29",
+  "size": 2619,
+  "sizeStr": "2.56 KB"
+}
+{
+  "_id": {
+    "$oid": "5ba1e9a2acc81b04814deb22"
+  },
+  "owners": [
+    "hsyn",
+    "admin"
+  ],
+  "users": [
+    "guest",
+    "hsyn",
+    "admin"
+  ],
+  "basename": "NARDA-MITEQ.png",
+  "name": "1537337762092-NARDA-MITEQ.png",
+  "folder": "portfolio/industry",
+  "mate": null,
+  "date": "2018.09.19 06:16:02",
+  "size": 790,
+  "sizeStr": "790 B"
+}
+{
+  "_id": {
+    "$oid": "5ba1e9c5acc81b04814deb23"
+  },
+  "owners": [
+    "hsyn",
+    "admin"
+  ],
+  "users": [
+    "guest",
+    "hsyn",
+    "admin"
+  ],
+  "basename": "logo (1).png",
+  "name": "1537337797460-logo (1).png",
+  "folder": "portfolio/industry",
+  "mate": null,
+  "date": "2018.09.19 06:16:37",
+  "size": 65171,
+  "sizeStr": "63.64 KB"
+}
+{
+  "_id": {
+    "$oid": "5ba1ea2facc81b04814deb24"
+  },
+  "owners": [
+    "hsyn",
+    "admin"
+  ],
+  "users": [
+    "guest",
+    "hsyn",
+    "admin"
+  ],
+  "basename": "Ekran Alıntısı.PNG",
+  "name": "1537337903418-Ekran Alıntısı.PNG",
+  "folder": "portfolio/industry",
+  "mate": null,
+  "date": "2018.09.19 06:18:23",
+  "size": 41317,
+  "sizeStr": "40.35 KB"
+}
+{
+  "_id": {
+    "$oid": "5ba7fd8e6be717045c4ba787"
+  },
+  "owners": [
+    "hsyn",
+    "admin"
+  ],
+  "users": [
+    "guest",
+    "hsyn",
+    "admin"
+  ],
+  "basename": "ainfo_banner.gif",
+  "name": "1537736078724-ainfo_banner.gif",
+  "folder": "portfolio/industry",
+  "mate": null,
+  "date": "2018.09.23 20:54:38",
+  "size": 5332,
+  "sizeStr": "5.21 KB"
+}
+{
+  "_id": {
+    "$oid": "5ba7fe2e6be717045c4ba788"
+  },
+  "owners": [
+    "hsyn",
+    "admin"
+  ],
+  "users": [
+    "guest",
+    "hsyn",
+    "admin"
+  ],
+  "basename": "cobham-logo.svg",
+  "name": "1537736238221-cobham-logo.svg",
+  "folder": "portfolio/industry",
+  "mate": null,
+  "date": "2018.09.23 20:57:18",
+  "size": 2963,
+  "sizeStr": "2.89 KB"
+}
+{
+  "_id": {
+    "$oid": "5ba800176be717045c4ba789"
+  },
+  "owners": [
+    "hsyn",
+    "admin"
+  ],
+  "users": [
+    "guest",
+    "hsyn",
+    "admin"
+  ],
+  "basename": "NSI-MI-Logo-color.png",
+  "name": "1537736727703-NSI-MI-Logo-color.png",
+  "folder": "portfolio/industry",
+  "mate": null,
+  "date": "2018.09.23 21:05:27",
+  "size": 3004,
+  "sizeStr": "2.93 KB"
+}
+{
+  "_id": {
+    "$oid": "5ba8002d6be717045c4ba78a"
+  },
+  "owners": [
+    "hsyn",
+    "admin"
+  ],
+  "users": [
+    "guest",
+    "hsyn",
+    "admin"
+  ],
+  "basename": "bigimg.jpg",
+  "name": "1537736749185-bigimg.jpg",
+  "folder": "portfolio/industry",
+  "mate": null,
+  "date": "2018.09.23 21:05:49",
+  "size": 32975,
+  "sizeStr": "32.2 KB"
+}
+{
+  "_id": {
+    "$oid": "5ba800456be717045c4ba78b"
+  },
+  "owners": [
+    "hsyn",
+    "admin"
+  ],
+  "users": [
+    "guest",
+    "hsyn",
+    "admin"
+  ],
+  "basename": "logo_ps.jpg",
+  "name": "1537736773199-logo_ps.jpg",
+  "folder": "portfolio/industry",
+  "mate": null,
+  "date": "2018.09.23 21:06:13",
+  "size": 35874,
+  "sizeStr": "35.03 KB"
+}
+{
+  "_id": {
+    "$oid": "5ba8005f6be717045c4ba78c"
+  },
+  "owners": [
+    "hsyn",
+    "admin"
+  ],
+  "users": [
+    "guest",
+    "hsyn",
+    "admin"
+  ],
+  "basename": "AllwaveLogo.jpg",
+  "name": "1537736799933-AllwaveLogo.jpg",
+  "folder": "portfolio/industry",
+  "mate": null,
+  "date": "2018.09.23 21:06:39",
+  "size": 6540,
+  "sizeStr": "6.39 KB"
+}
+{
+  "_id": {
+    "$oid": "5ba8007c6be717045c4ba78d"
+  },
+  "owners": [
+    "hsyn",
+    "admin"
+  ],
+  "users": [
+    "guest",
+    "hsyn",
+    "admin"
+  ],
+  "basename": "logo-MegIQ-2.png",
+  "name": "1537736828755-logo-MegIQ-2.png",
+  "folder": "portfolio/industry",
+  "mate": null,
+  "date": "2018.09.23 21:07:08",
+  "size": 2069,
+  "sizeStr": "2.02 KB"
+}
+{
+  "_id": {
+    "$oid": "5ba801946be717045c4ba78e"
+  },
+  "owners": [
+    "hsyn",
+    "admin"
+  ],
+  "users": [
+    "guest",
+    "hsyn",
+    "admin"
+  ],
+  "basename": "rohde-schwarz.min.svg",
+  "name": "1537737108631-rohde-schwarz.min.svg",
+  "folder": "portfolio/industry",
+  "mate": null,
+  "date": "2018.09.23 21:11:48",
+  "size": 3066,
+  "sizeStr": "2.99 KB"
+}
+{
+  "_id": {
+    "$oid": "5ba802476be717045c4ba78f"
+  },
+  "owners": [
+    "hsyn",
+    "admin"
+  ],
+  "users": [
+    "guest",
+    "hsyn",
+    "admin"
+  ],
+  "basename": "logo.png",
+  "name": "1537737287182-logo.png",
+  "folder": "portfolio/industry",
+  "mate": null,
+  "date": "2018.09.23 21:14:47",
+  "size": 7983,
+  "sizeStr": "7.8 KB"
+}
+{
+  "_id": {
+    "$oid": "5ba802516be717045c4ba790"
+  },
+  "owners": [
+    "hsyn",
+    "admin"
+  ],
+  "users": [
+    "guest",
+    "hsyn",
+    "admin"
+  ],
+  "basename": "keysight-logo.svg",
+  "name": "1537737297292-keysight-logo.svg",
+  "folder": "portfolio/industry",
+  "mate": null,
+  "date": "2018.09.23 21:14:57",
+  "size": 5971,
+  "sizeStr": "5.83 KB"
+}
+{
+  "_id": {
+    "$oid": "5ba8046d174f1304cf9fee6d"
+  },
+  "owners": [
+    "hsyn",
+    "admin"
+  ],
+  "users": [
+    "guest",
+    "hsyn",
+    "admin"
+  ],
+  "basename": "Ekran Alıntısı.PNG",
+  "name": "1537737837127-Ekran Alıntısı.PNG",
+  "folder": "portfolio/industry",
+  "mate": null,
+  "date": "2018.09.23 21:23:57",
+  "size": 11443,
+  "sizeStr": "11.17 KB"
+}
+{
+  "_id": {
+    "$oid": "5ba80479174f1304cf9fee6e"
+  },
+  "owners": [
+    "hsyn",
+    "admin"
+  ],
+  "users": [
+    "guest",
+    "hsyn",
+    "admin"
+  ],
+  "basename": "logo_ASYSOL-CELESTIA-01-400.png",
+  "name": "1537737849688-logo_ASYSOL-CELESTIA-01-400.png",
+  "folder": "portfolio/industry",
+  "mate": null,
+  "date": "2018.09.23 21:24:09",
+  "size": 23489,
+  "sizeStr": "22.94 KB"
+}
+{
+  "_id": {
+    "$oid": "5ba8048b174f1304cf9fee6f"
+  },
+  "owners": [
+    "hsyn",
+    "admin"
+  ],
+  "users": [
+    "guest",
+    "hsyn",
+    "admin"
+  ],
+  "basename": "TAOGLAS_LOGO_RGB_White.svg",
+  "name": "1537737867553-TAOGLAS_LOGO_RGB_White.svg",
+  "folder": "portfolio/industry",
+  "mate": null,
+  "date": "2018.09.23 21:24:27",
+  "size": 13637,
+  "sizeStr": "13.32 KB"
+}
+{
+  "_id": {
+    "$oid": "5ba804d1174f1304cf9fee70"
+  },
+  "owners": [
+    "hsyn",
+    "admin"
+  ],
+  "users": [
+    "guest",
+    "hsyn",
+    "admin"
+  ],
+  "basename": "Ekran Alıntısı.PNG",
+  "name": "1537737937029-Ekran Alıntısı.PNG",
+  "folder": "portfolio/industry",
+  "mate": null,
+  "date": "2018.09.23 21:25:37",
+  "size": 3936,
+  "sizeStr": "3.84 KB"
+}
+{
+  "_id": {
+    "$oid": "5ba89f2f174f1304cf9fee71"
+  },
+  "owners": [
+    "hsyn",
+    "admin"
+  ],
+  "users": [
+    "guest",
+    "hsyn",
+    "admin"
+  ],
+  "basename": "Ekran Alıntısı.PNG",
+  "name": "1537777455133-Ekran Alıntısı.PNG",
+  "folder": "portfolio/industry",
+  "mate": null,
+  "date": "2018.09.24 08:24:15",
+  "size": 26930,
+  "sizeStr": "26.3 KB"
+}
+{
+  "_id": {
+    "$oid": "5ba89f68174f1304cf9fee72"
+  },
+  "owners": [
+    "hsyn",
+    "admin"
+  ],
+  "users": [
+    "guest",
+    "hsyn",
+    "admin"
+  ],
+  "basename": "Ekran Alıntısı.PNG",
+  "name": "1537777512190-Ekran Alıntısı.PNG",
+  "folder": "portfolio/industry",
+  "mate": null,
+  "date": "2018.09.24 08:25:12",
+  "size": 24097,
+  "sizeStr": "23.53 KB"
+}
+{
+  "_id": {
+    "$oid": "5ba8a20b174f1304cf9fee73"
+  },
+  "owners": [
+    "hsyn",
+    "admin"
+  ],
+  "users": [
+    "guest",
+    "hsyn",
+    "admin"
+  ],
+  "basename": "Ekran Alıntısı.PNG",
+  "name": "1537778187787-Ekran Alıntısı.PNG",
+  "folder": "portfolio/industry",
+  "mate": null,
+  "date": "2018.09.24 08:36:27",
+  "size": 12496,
+  "sizeStr": "12.2 KB"
+}
+{
+  "_id": {
+    "$oid": "5ba8a275174f1304cf9fee74"
+  },
+  "owners": [
+    "hsyn",
+    "admin"
+  ],
+  "users": [
+    "guest",
+    "hsyn",
+    "admin"
+  ],
+  "basename": "Ekran Alıntısı.PNG",
+  "name": "1537778293957-Ekran Alıntısı.PNG",
+  "folder": "portfolio/industry",
+  "mate": null,
+  "date": "2018.09.24 08:38:13",
+  "size": 76401,
+  "sizeStr": "74.61 KB"
+}
+{
+  "_id": {
+    "$oid": "5ba8a2b5174f1304cf9fee75"
+  },
+  "owners": [
+    "hsyn",
+    "admin"
+  ],
+  "users": [
+    "guest",
+    "hsyn",
+    "admin"
+  ],
+  "basename": "header_logo.png",
+  "name": "1537778357862-header_logo.png",
+  "folder": "portfolio/industry",
+  "mate": null,
+  "date": "2018.09.24 08:39:17",
+  "size": 25941,
+  "sizeStr": "25.33 KB"
+}
+{
+  "_id": {
+    "$oid": "5ba8a31c174f1304cf9fee76"
+  },
+  "owners": [
+    "hsyn",
+    "admin"
+  ],
+  "users": [
+    "guest",
+    "hsyn",
+    "admin"
+  ],
+  "basename": "Ekran Alıntısı.PNG",
+  "name": "1537778460840-Ekran Alıntısı.PNG",
+  "folder": "portfolio/industry",
+  "mate": null,
+  "date": "2018.09.24 08:41:00",
+  "size": 8965,
+  "sizeStr": "8.75 KB"
+}
+{
+  "_id": {
+    "$oid": "5ba8a37a174f1304cf9fee77"
+  },
+  "owners": [
+    "hsyn",
+    "admin"
+  ],
+  "users": [
+    "guest",
+    "hsyn",
+    "admin"
+  ],
+  "basename": "logo.png",
+  "name": "1537778554030-logo.png",
+  "folder": "portfolio/industry",
+  "mate": null,
+  "date": "2018.09.24 08:42:34",
+  "size": 13809,
+  "sizeStr": "13.49 KB"
+}
+{
+  "_id": {
+    "$oid": "5badbf956f91735f37d93a27"
+  },
+  "owners": [
+    "hsyn",
+    "admin"
+  ],
+  "users": [
+    "guest",
+    "hsyn",
+    "admin"
+  ],
+  "basename": "logo.png",
+  "name": "1538113429064-logo.png",
+  "folder": "portfolio/industry",
+  "mate": null,
+  "date": "2018.09.28 05:43:49",
+  "size": 2209,
+  "sizeStr": "2.16 KB"
+}
+{
+  "_id": {
+    "$oid": "5badc00e6f91735f37d93a28"
+  },
+  "owners": [
+    "hsyn",
+    "admin"
+  ],
+  "users": [
+    "guest",
+    "hsyn",
+    "admin"
+  ],
+  "basename": "site_logo.gif",
+  "name": "1538113550904-site_logo.gif",
+  "folder": "portfolio/industry",
+  "mate": null,
+  "date": "2018.09.28 05:45:50",
+  "size": 11344,
+  "sizeStr": "11.08 KB"
+}
+{
+  "_id": {
+    "$oid": "5bb30fdb3a64257d416b77e4"
+  },
+  "owners": [
+    "hsyn",
+    "admin"
+  ],
+  "users": [
+    "guest",
+    "hsyn",
+    "admin"
+  ],
+  "basename": "logo_ASYSOL-CELESTIA-01-400.png",
+  "name": "1538461659782-logo_ASYSOL-CELESTIA-01-400.png",
+  "folder": "portfolio/industry",
+  "mate": null,
+  "date": "2018.10.02 06:27:39",
+  "size": 23489,
+  "sizeStr": "22.94 KB"
+}
+{
+  "_id": {
+    "$oid": "5bb3101409aa217314c2c9a6"
+  },
+  "owners": [
+    "hsyn",
+    "admin"
+  ],
+  "users": [
+    "guest",
+    "hsyn",
+    "admin"
+  ],
+  "basename": "logo_ASYSOL-CELESTIA-01-400.png",
+  "name": "1538461716508-logo_ASYSOL-CELESTIA-01-400.png",
+  "folder": "portfolio/industry",
+  "mate": null,
+  "date": "2018.10.02 06:28:36",
+  "size": 23489,
+  "sizeStr": "22.94 KB"
+}
+{
+  "_id": {
+    "$oid": "5bb310ee911e79739250655c"
+  },
+  "owners": [
+    "hsyn",
+    "admin"
+  ],
+  "users": [
+    "guest",
+    "hsyn",
+    "admin"
+  ],
+  "basename": "logo_ASYSOL-CELESTIA-01-400.png",
+  "name": "1538461934130-logo_ASYSOL-CELESTIA-01-400.png",
+  "folder": "portfolio/industry",
+  "mate": null,
+  "date": "2018.10.02 06:32:14",
+  "size": 23489,
+  "sizeStr": "22.94 KB"
+}
+{
+  "_id": {
+    "$oid": "5bb31154b2354e766289146c"
+  },
+  "owners": [
+    "hsyn",
+    "admin"
+  ],
+  "users": [
+    "guest",
+    "hsyn",
+    "admin"
+  ],
+  "basename": "logo_ASYSOL-CELESTIA-01-400.png",
+  "name": "1538462036444-logo_ASYSOL-CELESTIA-01-400.png",
+  "folder": "portfolio/industry",
+  "mate": null,
+  "date": "2018.10.02 06:33:56",
+  "size": 23489,
+  "sizeStr": "22.94 KB"
+}
+{
+  "_id": {
+    "$oid": "5bb311c1b2354e766289146d"
+  },
+  "owners": [
+    "hsyn",
+    "admin"
+  ],
+  "users": [
+    "guest",
+    "hsyn",
+    "admin"
+  ],
+  "basename": "largelogo.png",
+  "name": "1538462145356-largelogo.png",
+  "folder": "portfolio/industry",
+  "mate": null,
+  "date": "2018.10.02 06:35:45",
+  "size": 51967,
+  "sizeStr": "50.75 KB"
+}
+{
+  "_id": {
+    "$oid": "5bb311e3b2354e766289146e"
+  },
+  "owners": [
+    "hsyn",
+    "admin"
+  ],
+  "users": [
+    "guest",
+    "hsyn",
+    "admin"
+  ],
+  "basename": "png-logo-seipel-classique.png",
+  "name": "1538462179125-png-logo-seipel-classique.png",
+  "folder": "portfolio/industry",
+  "mate": null,
+  "date": "2018.10.02 06:36:19",
+  "size": 8304,
+  "sizeStr": "8.11 KB"
+}
+{
+  "_id": {
+    "$oid": "5bb3122fb2354e766289146f"
+  },
+  "owners": [
+    "hsyn",
+    "admin"
+  ],
+  "users": [
+    "guest",
+    "hsyn",
+    "admin"
+  ],
+  "basename": "evonik2016-en.svg",
+  "name": "1538462255331-evonik2016-en.svg",
+  "folder": "portfolio/industry",
+  "mate": null,
+  "date": "2018.10.02 06:37:35",
+  "size": 6279,
+  "sizeStr": "6.13 KB"
+}
+{
+  "_id": {
+    "$oid": "5bb3125cb2354e7662891470"
+  },
+  "owners": [
+    "hsyn",
+    "admin"
+  ],
+  "users": [
+    "guest",
+    "hsyn",
+    "admin"
+  ],
+  "basename": "logo-baris.png",
+  "name": "1538462300873-logo-baris.png",
+  "folder": "portfolio/industry",
+  "mate": null,
+  "date": "2018.10.02 06:38:20",
+  "size": 9135,
+  "sizeStr": "8.92 KB"
+}
+{
+  "_id": {
+    "$oid": "5bb31318b2354e7662891471"
+  },
+  "owners": [
+    "hsyn",
+    "admin"
+  ],
+  "users": [
+    "guest",
+    "hsyn",
+    "admin"
+  ],
+  "basename": "logo.png",
+  "name": "1538462488397-logo.png",
+  "folder": "portfolio/industry",
+  "mate": null,
+  "date": "2018.10.02 06:41:28",
+  "size": 10136,
+  "sizeStr": "9.9 KB"
+}
+{
+  "_id": {
+    "$oid": "5bb31341b2354e7662891472"
+  },
+  "owners": [
+    "hsyn",
+    "admin"
+  ],
+  "users": [
+    "guest",
+    "hsyn",
+    "admin"
+  ],
+  "basename": "Ekran Alıntısı.PNG",
+  "name": "1538462529420-Ekran Alıntısı.PNG",
+  "folder": "portfolio/industry",
+  "mate": null,
+  "date": "2018.10.02 06:42:09",
+  "size": 43672,
+  "sizeStr": "42.65 KB"
+}
+{
+  "_id": {
+    "$oid": "5bb31356b2354e7662891473"
+  },
+  "owners": [
+    "hsyn",
+    "admin"
+  ],
+  "users": [
+    "guest",
+    "hsyn",
+    "admin"
+  ],
+  "basename": "SimPro_Logo_trans.png",
+  "name": "1538462550213-SimPro_Logo_trans.png",
+  "folder": "portfolio/industry",
+  "mate": null,
+  "date": "2018.10.02 06:42:30",
+  "size": 12667,
+  "sizeStr": "12.37 KB"
+}
+{
+  "_id": {
+    "$oid": "5bb3136bb2354e7662891474"
+  },
+  "owners": [
+    "hsyn",
+    "admin"
+  ],
+  "users": [
+    "guest",
+    "hsyn",
+    "admin"
+  ],
+  "basename": "logo-rogers.jpg",
+  "name": "1538462571116-logo-rogers.jpg",
+  "folder": "portfolio/industry",
+  "mate": null,
+  "date": "2018.10.02 06:42:51",
+  "size": 4306,
+  "sizeStr": "4.21 KB"
+}
+{
+  "_id": {
+    "$oid": "5bb332f8b2354e7662891475"
+  },
+  "owners": [
+    "hsyn",
+    "admin"
+  ],
+  "users": [
+    "guest",
+    "hsyn",
+    "admin"
+  ],
+  "basename": "LOGO-MSPL-Transferent--300x88.png",
+  "name": "1538470648963-LOGO-MSPL-Transferent--300x88.png",
+  "folder": "portfolio/industry",
+  "mate": null,
+  "date": "2018.10.02 08:57:28",
+  "size": 12105,
+  "sizeStr": "11.82 KB"
+}
+{
+  "_id": {
+    "$oid": "5bb3331db2354e7662891476"
+  },
+  "owners": [
+    "hsyn",
+    "admin"
+  ],
+  "users": [
+    "guest",
+    "hsyn",
+    "admin"
+  ],
+  "basename": "logo2.png",
+  "name": "1538470685831-logo2.png",
+  "folder": "portfolio/industry",
+  "mate": null,
+  "date": "2018.10.02 08:58:05",
+  "size": 4392,
+  "sizeStr": "4.29 KB"
+}
+{
+  "_id": {
+    "$oid": "5bb33ca6b2354e7662891477"
+  },
+  "owners": [
+    "hsyn",
+    "admin"
+  ],
+  "users": [
+    "guest",
+    "hsyn",
+    "admin"
+  ],
+  "basename": "logo.png",
+  "name": "1538473126348-logo.png",
+  "folder": "portfolio/industry",
+  "mate": null,
+  "date": "2018.10.02 09:38:46",
+  "size": 30095,
+  "sizeStr": "29.39 KB"
+}
+{
+  "_id": {
+    "$oid": "5bb35e4fb2354e7662891478"
+  },
+  "owners": [
+    "hsyn",
+    "admin"
+  ],
+  "users": [
+    "guest",
+    "hsyn",
+    "admin"
+  ],
+  "basename": "Ekran Alıntısı.PNG",
+  "name": "1538481743896-Ekran Alıntısı.PNG",
+  "folder": "portfolio/industry",
+  "mate": null,
+  "date": "2018.10.02 12:02:23",
+  "size": 30136,
+  "sizeStr": "29.43 KB"
+}
+{
+  "_id": {
+    "$oid": "5bb35efdb2354e7662891479"
+  },
+  "owners": [
+    "hsyn",
+    "admin"
+  ],
+  "users": [
+    "guest",
+    "hsyn",
+    "admin"
+  ],
+  "basename": "Ekran Alıntısı.PNG",
+  "name": "1538481917798-Ekran Alıntısı.PNG",
+  "folder": "portfolio/industry",
+  "mate": null,
+  "date": "2018.10.02 12:05:17",
+  "size": 9890,
+  "sizeStr": "9.66 KB"
+}
+{
+  "_id": {
+    "$oid": "5bb45f94b2354e766289147a"
+  },
+  "owners": [
+    "hsyn",
+    "admin"
+  ],
+  "users": [
+    "guest",
+    "hsyn",
+    "admin"
+  ],
+  "basename": "logo.jpg",
+  "name": "1538547604677-logo.jpg",
+  "folder": "portfolio/industry",
+  "mate": null,
+  "date": "2018.10.03 06:20:04",
+  "size": 38026,
+  "sizeStr": "37.13 KB"
+}
+{
+  "_id": {
+    "$oid": "5bb46042b2354e766289147b"
+  },
+  "owners": [
+    "hsyn",
+    "admin"
+  ],
+  "users": [
+    "guest",
+    "hsyn",
+    "admin"
+  ],
+  "basename": "Ekran Alıntısı.PNG",
+  "name": "1538547778919-Ekran Alıntısı.PNG",
+  "folder": "portfolio/industry",
+  "mate": null,
+  "date": "2018.10.03 06:22:58",
+  "size": 61683,
+  "sizeStr": "60.24 KB"
+}
+{
+  "_id": {
+    "$oid": "5bb46066b2354e766289147c"
+  },
+  "owners": [
+    "hsyn",
+    "admin"
+  ],
+  "users": [
+    "guest",
+    "hsyn",
+    "admin"
+  ],
+  "basename": "hofmann_leiterplatten_logo.jpg",
+  "name": "1538547814417-hofmann_leiterplatten_logo.jpg",
+  "folder": "portfolio/industry",
+  "mate": null,
+  "date": "2018.10.03 06:23:34",
+  "size": 26542,
+  "sizeStr": "25.92 KB"
+}
+{
+  "_id": {
+    "$oid": "5bb5b724b2354e766289147d"
+  },
+  "owners": [
+    "hsyn",
+    "admin"
+  ],
+  "users": [
+    "guest",
+    "hsyn",
+    "admin"
+  ],
+  "basename": "Ekran Alıntısı.PNG",
+  "name": "1538635556127-Ekran Alıntısı.PNG",
+  "folder": "portfolio/industry",
+  "mate": null,
+  "date": "2018.10.04 06:45:56",
+  "size": 30704,
+  "sizeStr": "29.98 KB"
+}
+{
+  "_id": {
+    "$oid": "5bb71350b2354e766289147e"
+  },
+  "owners": [
+    "hsyn",
+    "admin"
+  ],
+  "users": [
+    "guest",
+    "hsyn",
+    "admin"
+  ],
+  "basename": "Ekran Alıntısı.PNG",
+  "name": "1538724688517-Ekran Alıntısı.PNG",
+  "folder": "portfolio/industry",
+  "mate": null,
+  "date": "2018.10.05 07:31:28",
+  "size": 27947,
+  "sizeStr": "27.29 KB"
+}
+{
+  "_id": {
+    "$oid": "5bb71440b2354e766289147f"
+  },
+  "owners": [
+    "hsyn",
+    "admin"
+  ],
+  "users": [
+    "guest",
+    "hsyn",
+    "admin"
+  ],
+  "basename": "Ekran Alıntısı.PNG",
+  "name": "1538724928447-Ekran Alıntısı.PNG",
+  "folder": "portfolio/industry",
+  "mate": null,
+  "date": "2018.10.05 07:35:28",
+  "size": 27466,
+  "sizeStr": "26.82 KB"
+}
+{
+  "_id": {
+    "$oid": "5bbc67c1b2354e7662891480"
+  },
+  "owners": [
+    "hsyn",
+    "admin"
+  ],
+  "users": [
+    "guest",
+    "hsyn",
+    "admin"
+  ],
+  "basename": "HUBS-logo.svg",
+  "name": "1539073985569-HUBS-logo.svg",
+  "folder": "portfolio/industry",
+  "mate": null,
+  "date": "2018.10.09 08:33:05",
+  "size": 13830,
+  "sizeStr": "13.51 KB"
+}
+{
+  "_id": {
+    "$oid": "5bbc68dbb2354e7662891481"
+  },
+  "owners": [
+    "hsyn",
+    "admin"
+  ],
+  "users": [
+    "guest",
+    "hsyn",
+    "admin"
+  ],
+  "basename": "logo.png",
+  "name": "1539074267784-logo.png",
+  "folder": "portfolio/industry",
+  "mate": null,
+  "date": "2018.10.09 08:37:47",
+  "size": 9588,
+  "sizeStr": "9.36 KB"
+}
+{
+  "_id": {
+    "$oid": "5bbc8c3cb2354e7662891482"
+  },
+  "owners": [
+    "hsyn",
+    "admin"
+  ],
+  "users": [
+    "guest",
+    "hsyn",
+    "admin"
+  ],
+  "basename": "Ekran Alıntısı.PNG",
+  "name": "1539083324977-Ekran Alıntısı.PNG",
+  "folder": "portfolio/industry",
+  "mate": null,
+  "date": "2018.10.09 11:08:44",
+  "size": 41143,
+  "sizeStr": "40.18 KB"
+}
+{
+  "_id": {
+    "$oid": "5bbc8c53b2354e7662891483"
+  },
+  "owners": [
+    "hsyn",
+    "admin"
+  ],
+  "users": [
+    "guest",
+    "hsyn",
+    "admin"
+  ],
+  "basename": "flann-logo11.jpg",
+  "name": "1539083347943-flann-logo11.jpg",
+  "folder": "portfolio/industry",
+  "mate": null,
+  "date": "2018.10.09 11:09:07",
+  "size": 19867,
+  "sizeStr": "19.4 KB"
+}
+{
+  "_id": {
+    "$oid": "5bbc8c8bb2354e7662891484"
+  },
+  "owners": [
+    "hsyn",
+    "admin"
+  ],
+  "users": [
+    "guest",
+    "hsyn",
+    "admin"
+  ],
+  "basename": "Ekran Alıntısı.PNG",
+  "name": "1539083403979-Ekran Alıntısı.PNG",
+  "folder": "portfolio/industry",
+  "mate": null,
+  "date": "2018.10.09 11:10:03",
+  "size": 42985,
+  "sizeStr": "41.98 KB"
+}
+{
+  "_id": {
+    "$oid": "5bbc8c9bb2354e7662891485"
+  },
+  "owners": [
+    "hsyn",
+    "admin"
+  ],
+  "users": [
+    "guest",
+    "hsyn",
+    "admin"
+  ],
+  "basename": "KEYCOM logo_forweb.png",
+  "name": "1539083419823-KEYCOM logo_forweb.png",
+  "folder": "portfolio/industry",
+  "mate": null,
+  "date": "2018.10.09 11:10:19",
+  "size": 396425,
+  "sizeStr": "387.13 KB"
+}
+{
+  "_id": {
+    "$oid": "5bbc8cccb2354e7662891486"
+  },
+  "owners": [
+    "hsyn",
+    "admin"
+  ],
+  "users": [
+    "guest",
+    "hsyn",
+    "admin"
+  ],
+  "basename": "hd-logo.gif",
+  "name": "1539083468995-hd-logo.gif",
+  "folder": "portfolio/industry",
+  "mate": null,
+  "date": "2018.10.09 11:11:08",
+  "size": 1815,
+  "sizeStr": "1.77 KB"
+}
+{
+  "_id": {
+    "$oid": "5bbc8d3cb2354e7662891487"
+  },
+  "owners": [
+    "hsyn",
+    "admin"
+  ],
+  "users": [
+    "guest",
+    "hsyn",
+    "admin"
+  ],
+  "basename": "Ekran Alıntısı.PNG",
+  "name": "1539083580016-Ekran Alıntısı.PNG",
+  "folder": "portfolio/industry",
+  "mate": null,
+  "date": "2018.10.09 11:13:00",
+  "size": 24703,
+  "sizeStr": "24.12 KB"
+}
+{
+  "_id": {
+    "$oid": "5bbc8ddcb2354e7662891488"
+  },
+  "owners": [
+    "hsyn",
+    "admin"
+  ],
+  "users": [
+    "guest",
+    "hsyn",
+    "admin"
+  ],
+  "basename": "plug-and-pull.png",
+  "name": "1539083740876-plug-and-pull.png",
+  "folder": "portfolio/industry",
+  "mate": null,
+  "date": "2018.10.09 11:15:40",
+  "size": 18819,
+  "sizeStr": "18.38 KB"
+}
+{
+  "_id": {
+    "$oid": "5bd76cfbb2354e7662891489"
+  },
+  "owners": [
+    "hsyn",
+    "admin"
+  ],
+  "users": [
+    "guest",
+    "hsyn",
+    "admin"
+  ],
+  "basename": "Ekran Alıntısı.PNG",
+  "name": "1540844795146-Ekran Alıntısı.PNG",
+  "folder": "portfolio/industry",
+  "mate": null,
+  "date": "2018.10.29 20:26:35",
+  "size": 1869,
+  "sizeStr": "1.83 KB"
+}
+{
+  "_id": {
+    "$oid": "5bd76d1db2354e766289148a"
+  },
+  "owners": [
+    "hsyn",
+    "admin"
+  ],
+  "users": [
+    "guest",
+    "hsyn",
+    "admin"
+  ],
+  "basename": "Ekran Alıntısı.PNG",
+  "name": "1540844829580-Ekran Alıntısı.PNG",
+  "folder": "portfolio/industry",
+  "mate": null,
+  "date": "2018.10.29 20:27:09",
+  "size": 5862,
+  "sizeStr": "5.72 KB"
+}
+{
+  "_id": {
+    "$oid": "5bd76d3ab2354e766289148b"
+  },
+  "owners": [
+    "hsyn",
+    "admin"
+  ],
+  "users": [
+    "guest",
+    "hsyn",
+    "admin"
+  ],
+  "basename": "logo@2x.png",
+  "name": "1540844858474-logo@2x.png",
+  "folder": "portfolio/industry",
+  "mate": null,
+  "date": "2018.10.29 20:27:38",
+  "size": 20307,
+  "sizeStr": "19.83 KB"
+}
+{
+  "_id": {
+    "$oid": "5bd76d53b2354e766289148c"
+  },
+  "owners": [
+    "hsyn",
+    "admin"
+  ],
+  "users": [
+    "guest",
+    "hsyn",
+    "admin"
+  ],
+  "basename": "logo.png",
+  "name": "1540844883289-logo.png",
+  "folder": "portfolio/industry",
+  "mate": null,
+  "date": "2018.10.29 20:28:03",
+  "size": 10178,
+  "sizeStr": "9.94 KB"
+}
+{
+  "_id": {
+    "$oid": "5bd998dcb2354e766289148d"
+  },
+  "owners": [
+    "hsyn",
+    "admin"
+  ],
+  "users": [
+    "guest",
+    "hsyn",
+    "admin"
+  ],
+  "basename": "Ekran Alıntısı.PNG",
+  "name": "1540987100777-Ekran Alıntısı.PNG",
+  "folder": "portfolio/industry",
+  "mate": null,
+  "date": "2018.10.31 11:58:20",
+  "size": 49052,
+  "sizeStr": "47.9 KB"
+}
+{
+  "_id": {
+    "$oid": "5bdfe2f477527503d463b0d4"
+  },
+  "owners": [
+    "hsyn",
+    "admin"
+  ],
+  "users": [
+    "guest",
+    "hsyn",
+    "admin"
+  ],
+  "basename": "Pulse-Electronics-Larsen-Antennas (1).png",
+  "name": "1541399284826-Pulse-Electronics-Larsen-Antennas (1).png",
+  "folder": "portfolio/industry",
+  "mate": null,
+  "date": "2018.11.05 06:28:04",
+  "size": 6685,
+  "sizeStr": "6.53 KB"
+}
+{
+  "_id": {
+    "$oid": "5bdfe31f77527503d463b0d5"
+  },
+  "owners": [
+    "hsyn",
+    "admin"
+  ],
+  "users": [
+    "guest",
+    "hsyn",
+    "admin"
+  ],
+  "basename": "Ekran Alıntısı.PNG",
+  "name": "1541399327992-Ekran Alıntısı.PNG",
+  "folder": "portfolio/industry",
+  "mate": null,
+  "date": "2018.11.05 06:28:47",
+  "size": 16008,
+  "sizeStr": "15.63 KB"
+}
+{
+  "_id": {
+    "$oid": "5bdfe37f77527503d463b0d6"
+  },
+  "owners": [
+    "hsyn",
+    "admin"
+  ],
+  "users": [
+    "guest",
+    "hsyn",
+    "admin"
+  ],
+  "basename": "LOGO_TeraProbes_Vector_380x801.png",
+  "name": "1541399423984-LOGO_TeraProbes_Vector_380x801.png",
+  "folder": "portfolio/industry",
+  "mate": null,
+  "date": "2018.11.05 06:30:23",
+  "size": 14088,
+  "sizeStr": "13.76 KB"
+}
+{
+  "_id": {
+    "$oid": "5be4251177527503d463b0d7"
+  },
+  "owners": [
+    "hsyn",
+    "admin"
+  ],
+  "users": [
+    "guest",
+    "hsyn",
+    "admin"
+  ],
+  "basename": "web-logo.png",
+  "name": "1541678353332-web-logo.png",
+  "folder": "portfolio/industry",
+  "mate": null,
+  "date": "2018.11.08 11:59:13",
+  "size": 3180,
+  "sizeStr": "3.11 KB"
+}
+{
+  "_id": {
+    "$oid": "5be4253e77527503d463b0d8"
+  },
+  "owners": [
+    "hsyn",
+    "admin"
+  ],
+  "users": [
+    "guest",
+    "hsyn",
+    "admin"
+  ],
+  "basename": "cif-logo-fr.jpg",
+  "name": "1541678398683-cif-logo-fr.jpg",
+  "folder": "portfolio/industry",
+  "mate": null,
+  "date": "2018.11.08 11:59:58",
+  "size": 25337,
+  "sizeStr": "24.74 KB"
+}
+{
+  "_id": {
+    "$oid": "5be426dd77527503d463b0d9"
+  },
+  "owners": [
+    "hsyn",
+    "admin"
+  ],
+  "users": [
+    "guest",
+    "hsyn",
+    "admin"
+  ],
+  "basename": "Bluetest_logo_v3_250x64.png",
+  "name": "1541678813508-Bluetest_logo_v3_250x64.png",
+  "folder": "portfolio/industry",
+  "mate": null,
+  "date": "2018.11.08 12:06:53",
+  "size": 3778,
+  "sizeStr": "3.69 KB"
+}
+{
+  "_id": {
+    "$oid": "5be536f677527503d463b0da"
+  },
+  "owners": [
+    "hsyn",
+    "admin"
+  ],
+  "users": [
+    "guest",
+    "hsyn",
+    "admin"
+  ],
+  "basename": "lairdtech.svg",
+  "name": "1541748470767-lairdtech.svg",
+  "folder": "portfolio/industry",
+  "mate": null,
+  "date": "2018.11.09 07:27:50",
+  "size": 3318,
+  "sizeStr": "3.24 KB"
+}
+{
+  "_id": {
+    "$oid": "5be536ff77527503d463b0db"
+  },
+  "owners": [
+    "hsyn",
+    "admin"
+  ],
+  "users": [
+    "guest",
+    "hsyn",
+    "admin"
+  ],
+  "basename": "logo.png",
+  "name": "1541748479155-logo.png",
+  "folder": "portfolio/industry",
+  "mate": null,
+  "date": "2018.11.09 07:27:59",
+  "size": 36587,
+  "sizeStr": "35.73 KB"
+}
+{
+  "_id": {
+    "$oid": "5be5377777527503d463b0dc"
+  },
+  "owners": [
+    "hsyn",
+    "admin"
+  ],
+  "users": [
+    "guest",
+    "hsyn",
+    "admin"
+  ],
+  "basename": "Ekran Alıntısı.PNG",
+  "name": "1541748599426-Ekran Alıntısı.PNG",
+  "folder": "portfolio/industry",
+  "mate": null,
+  "date": "2018.11.09 07:29:59",
+  "size": 3718,
+  "sizeStr": "3.63 KB"
+}
+{
+  "_id": {
+    "$oid": "5be539ab77527503d463b0dd"
+  },
+  "owners": [
+    "hsyn",
+    "admin"
+  ],
+  "users": [
+    "guest",
+    "hsyn",
+    "admin"
+  ],
+  "basename": "Ekran Alıntısı.PNG",
+  "name": "1541749163413-Ekran Alıntısı.PNG",
+  "folder": "portfolio/industry",
+  "mate": null,
+  "date": "2018.11.09 07:39:23",
+  "size": 50932,
+  "sizeStr": "49.74 KB"
+}
+{
+  "_id": {
+    "$oid": "5bf93985af89ba5ee49e7256"
+  },
+  "owners": [
+    "hsyn",
+    "admin"
+  ],
+  "users": [
+    "guest",
+    "hsyn",
+    "admin"
+  ],
+  "basename": "ADI_Logo_AWP.png",
+  "name": "1543059845093-ADI_Logo_AWP.png",
+  "folder": "portfolio/industry",
+  "mate": null,
+  "date": "2018.11.24 11:44:05",
+  "size": 3822,
+  "sizeStr": "3.73 KB"
+}
+{
+  "_id": {
+    "$oid": "5bf939deaf89ba5ee49e7257"
+  },
+  "owners": [
+    "hsyn",
+    "admin"
+  ],
+  "users": [
+    "guest",
+    "hsyn",
+    "admin"
+  ],
+  "basename": "Ekran Alıntısı.PNG",
+  "name": "1543059934226-Ekran Alıntısı.PNG",
+  "folder": "portfolio/industry",
+  "mate": null,
+  "date": "2018.11.24 11:45:34",
+  "size": 4223,
+  "sizeStr": "4.12 KB"
+}
+{
+  "_id": {
+    "$oid": "5bf93a22af89ba5ee49e7258"
+  },
+  "owners": [
+    "hsyn",
+    "admin"
+  ],
+  "users": [
+    "guest",
+    "hsyn",
+    "admin"
+  ],
+  "basename": "indir.jpg",
+  "name": "1543060002012-indir.jpg",
+  "folder": "portfolio/industry",
+  "mate": null,
+  "date": "2018.11.24 11:46:42",
+  "size": 2694,
+  "sizeStr": "2.63 KB"
+}
+{
+  "_id": {
+    "$oid": "5bf93a76af89ba5ee49e7259"
+  },
+  "owners": [
+    "hsyn",
+    "admin"
+  ],
+  "users": [
+    "guest",
+    "hsyn",
+    "admin"
+  ],
+  "basename": "images.jpg",
+  "name": "1543060086258-images.jpg",
+  "folder": "portfolio/industry",
+  "mate": null,
+  "date": "2018.11.24 11:48:06",
+  "size": 9342,
+  "sizeStr": "9.12 KB"
+}
+{
+  "_id": {
+    "$oid": "5bf93abbaf89ba5ee49e725a"
+  },
+  "owners": [
+    "hsyn",
+    "admin"
+  ],
+  "users": [
+    "guest",
+    "hsyn",
+    "admin"
+  ],
+  "basename": "ANSYS-HFSS-1.jpg",
+  "name": "1543060155133-ANSYS-HFSS-1.jpg",
+  "folder": "portfolio/industry",
+  "mate": null,
+  "date": "2018.11.24 11:49:15",
+  "size": 7816,
+  "sizeStr": "7.63 KB"
+}
+{
+  "_id": {
+    "$oid": "5bf93ae5af89ba5ee49e725b"
+  },
+  "owners": [
+    "hsyn",
+    "admin"
+  ],
+  "users": [
+    "guest",
+    "hsyn",
+    "admin"
+  ],
+  "basename": "Ekran Alıntısı.PNG",
+  "name": "1543060197112-Ekran Alıntısı.PNG",
+  "folder": "portfolio/industry",
+  "mate": null,
+  "date": "2018.11.24 11:49:57",
+  "size": 1617,
+  "sizeStr": "1.58 KB"
+}
+{
+  "_id": {
+    "$oid": "5bf93b15af89ba5ee49e725c"
+  },
+  "owners": [
+    "hsyn",
+    "admin"
+  ],
+  "users": [
+    "guest",
+    "hsyn",
+    "admin"
+  ],
+  "basename": "empro-3dem-simulation-software.png",
+  "name": "1543060245233-empro-3dem-simulation-software.png",
+  "folder": "portfolio/industry",
+  "mate": null,
+  "date": "2018.11.24 11:50:45",
+  "size": 59370,
+  "sizeStr": "57.98 KB"
+}
+{
+  "_id": {
+    "$oid": "5bf93b3eaf89ba5ee49e725d"
+  },
+  "owners": [
+    "hsyn",
+    "admin"
+  ],
+  "users": [
+    "guest",
+    "hsyn",
+    "admin"
+  ],
+  "basename": "NI-AWR-Design-Environment-V12-Pre-Release-Now-Available.jpg",
+  "name": "1543060286318-NI-AWR-Design-Environment-V12-Pre-Release-Now-Available.jpg",
+  "folder": "portfolio/industry",
+  "mate": null,
+  "date": "2018.11.24 11:51:26",
+  "size": 15785,
+  "sizeStr": "15.42 KB"
+}
+{
+  "_id": {
+    "$oid": "5bf93b63af89ba5ee49e725e"
+  },
+  "owners": [
+    "hsyn",
+    "admin"
+  ],
+  "users": [
+    "guest",
+    "hsyn",
+    "admin"
+  ],
+  "basename": "Ekran Alıntısı.PNG",
+  "name": "1543060323698-Ekran Alıntısı.PNG",
+  "folder": "portfolio/industry",
+  "mate": null,
+  "date": "2018.11.24 11:52:03",
+  "size": 8371,
+  "sizeStr": "8.17 KB"
+}
+{
+  "_id": {
+    "$oid": "5bfc4ec5af89ba5ee49e725f"
+  },
+  "owners": [
+    "hsyn",
+    "admin"
+  ],
+  "users": [
+    "guest",
+    "hsyn",
+    "admin"
+  ],
+  "basename": "logo68.png",
+  "name": "1543261893254-logo68.png",
+  "folder": "portfolio/industry",
+  "mate": null,
+  "date": "2018.11.26 19:51:33",
+  "size": 8389,
+  "sizeStr": "8.19 KB"
+}
+{
+  "_id": {
+    "$oid": "5bfc4f1faf89ba5ee49e7260"
+  },
+  "owners": [
+    "hsyn",
+    "admin"
+  ],
+  "users": [
+    "guest",
+    "hsyn",
+    "admin"
+  ],
+  "basename": "Ekran Alıntısı.PNG",
+  "name": "1543261983314-Ekran Alıntısı.PNG",
+  "folder": "portfolio/industry",
+  "mate": null,
+  "date": "2018.11.26 19:53:03",
+  "size": 4889,
+  "sizeStr": "4.77 KB"
+}
+{
+  "_id": {
+    "$oid": "5bfc4f5caf89ba5ee49e7261"
+  },
+  "owners": [
+    "hsyn",
+    "admin"
+  ],
+  "users": [
+    "guest",
+    "hsyn",
+    "admin"
+  ],
+  "basename": "Ekran Alıntısı.PNG",
+  "name": "1543262044913-Ekran Alıntısı.PNG",
+  "folder": "portfolio/industry",
+  "mate": null,
+  "date": "2018.11.26 19:54:04",
+  "size": 45780,
+  "sizeStr": "44.71 KB"
+}
+{
+  "_id": {
+    "$oid": "5bfc4f8caf89ba5ee49e7262"
+  },
+  "owners": [
+    "hsyn",
+    "admin"
+  ],
+  "users": [
+    "guest",
+    "hsyn",
+    "admin"
+  ],
+  "basename": "Ekran Alıntısı.PNG",
+  "name": "1543262092632-Ekran Alıntısı.PNG",
+  "folder": "portfolio/industry",
+  "mate": null,
+  "date": "2018.11.26 19:54:52",
+  "size": 9741,
+  "sizeStr": "9.51 KB"
+}
+{
+  "_id": {
+    "$oid": "5c0e3908af89ba5ee49e7263"
+  },
+  "owners": [
+    "hsyn",
+    "admin"
+  ],
+  "users": [
+    "guest",
+    "hsyn",
+    "admin"
+  ],
+  "basename": "smiths_logo-left.png",
+  "name": "1544435976955-smiths_logo-left.png",
+  "folder": "portfolio/industry",
+  "mate": null,
+  "date": "2018.12.10 09:59:36",
+  "size": 8839,
+  "sizeStr": "8.63 KB"
+}
+{
+  "_id": {
+    "$oid": "5c13a271748eb003d3100db5"
+  },
+  "owners": [
+    "hsyn",
+    "admin"
+  ],
+  "users": [
+    "guest",
+    "hsyn",
+    "admin"
+  ],
+  "basename": "Ekran Alıntısı.PNG",
+  "name": "1544790641578-Ekran Alıntısı.PNG",
+  "folder": "portfolio/industry",
+  "mate": null,
+  "date": "2018.12.14 12:30:41",
+  "size": 19680,
+  "sizeStr": "19.22 KB"
+}
+{
+  "_id": {
+    "$oid": "5c13a2a5748eb003d3100db6"
+  },
+  "owners": [
+    "hsyn",
+    "admin"
+  ],
+  "users": [
+    "guest",
+    "hsyn",
+    "admin"
+  ],
+  "basename": "logo@2x.png",
+  "name": "1544790693317-logo@2x.png",
+  "folder": "portfolio/industry",
+  "mate": null,
+  "date": "2018.12.14 12:31:33",
+  "size": 42570,
+  "sizeStr": "41.57 KB"
+}
+{
+  "_id": {
+    "$oid": "5c2c5d3ae8dd3118d30ea396"
+  },
+  "owners": [
+    "hsyn",
+    "admin"
+  ],
+  "users": [
+    "guest",
+    "hsyn",
+    "admin"
+  ],
+  "basename": "Ekran Alıntısı.PNG",
+  "name": "1546411322636-Ekran Alıntısı.PNG",
+  "folder": "portfolio/industry",
+  "mate": null,
+  "date": "2019.01.02 06:42:02",
+  "size": 7094,
+  "sizeStr": "6.93 KB"
+}
+{
+  "_id": {
+    "$oid": "5c2c5d87e8dd3118d30ea397"
+  },
+  "owners": [
+    "hsyn",
+    "admin"
+  ],
+  "users": [
+    "guest",
+    "hsyn",
+    "admin"
+  ],
+  "basename": "Ekran Alıntısı.PNG",
+  "name": "1546411399002-Ekran Alıntısı.PNG",
+  "folder": "portfolio/industry",
+  "mate": null,
+  "date": "2019.01.02 06:43:19",
+  "size": 138369,
+  "sizeStr": "135.13 KB"
+}
+{
+  "_id": {
+    "$oid": "5c3c625c6edc733b57dd5699"
+  },
+  "owners": [
+    "hsyn",
+    "admin"
+  ],
+  "users": [
+    "guest",
+    "hsyn",
+    "admin"
+  ],
+  "basename": "Ekran Alıntısı.PNG",
+  "name": "1547461212784-Ekran Alıntısı.PNG",
+  "folder": "portfolio/industry",
+  "mate": null,
+  "date": "2019.01.14 10:20:12",
+  "size": 17631,
+  "sizeStr": "17.22 KB"
+}
+{
+  "_id": {
+    "$oid": "5c3c62c16edc733b57dd569a"
+  },
+  "owners": [
+    "hsyn",
+    "admin"
+  ],
+  "users": [
+    "guest",
+    "hsyn",
+    "admin"
+  ],
+  "basename": "logo (1).png",
+  "name": "1547461313896-logo (1).png",
+  "folder": "portfolio/industry",
+  "mate": null,
+  "date": "2019.01.14 10:21:53",
+  "size": 23166,
+  "sizeStr": "22.62 KB"
+}
+{
+  "_id": {
+    "$oid": "5c3c62dd6edc733b57dd569b"
+  },
+  "owners": [
+    "hsyn",
+    "admin"
+  ],
+  "users": [
+    "guest",
+    "hsyn",
+    "admin"
+  ],
+  "basename": "Radiall-logo.png",
+  "name": "1547461341022-Radiall-logo.png",
+  "folder": "portfolio/industry",
+  "mate": null,
+  "date": "2019.01.14 10:22:21",
+  "size": 3714,
+  "sizeStr": "3.63 KB"
+}
+{
+  "_id": {
+    "$oid": "5c3c630c6edc733b57dd569c"
+  },
+  "owners": [
+    "hsyn",
+    "admin"
+  ],
+  "users": [
+    "guest",
+    "hsyn",
+    "admin"
+  ],
+  "basename": "logo.jpg",
+  "name": "1547461388444-logo.jpg",
+  "folder": "portfolio/industry",
+  "mate": null,
+  "date": "2019.01.14 10:23:08",
+  "size": 8103,
+  "sizeStr": "7.91 KB"
+}
+{
+  "_id": {
+    "$oid": "5c4ffe4c7f961e578de6df8e"
+  },
+  "owners": [
+    "hsyn",
+    "admin"
+  ],
+  "users": [
+    "guest",
+    "hsyn",
+    "admin"
+  ],
+  "basename": "Ekran Alıntısı.PNG",
+  "name": "1548746316503-Ekran Alıntısı.PNG",
+  "folder": "portfolio/industry",
+  "mate": null,
+  "date": "2019.01.29 07:18:36",
+  "size": 6779,
+  "sizeStr": "6.62 KB"
+}
+{
+  "_id": {
+    "$oid": "5c4ffe8c7f961e578de6df8f"
+  },
+  "owners": [
+    "hsyn",
+    "admin"
+  ],
+  "users": [
+    "guest",
+    "hsyn",
+    "admin"
+  ],
+  "basename": "Ekran Alıntısı.PNG",
+  "name": "1548746380950-Ekran Alıntısı.PNG",
+  "folder": "portfolio/industry",
+  "mate": null,
+  "date": "2019.01.29 07:19:40",
+  "size": 14387,
+  "sizeStr": "14.05 KB"
+}
+{
+  "_id": {
+    "$oid": "5c4ffed57f961e578de6df90"
+  },
+  "owners": [
+    "hsyn",
+    "admin"
+  ],
+  "users": [
+    "guest",
+    "hsyn",
+    "admin"
+  ],
+  "basename": "Ekran Alıntısı.PNG",
+  "name": "1548746453010-Ekran Alıntısı.PNG",
+  "folder": "portfolio/industry",
+  "mate": null,
+  "date": "2019.01.29 07:20:53",
+  "size": 27330,
+  "sizeStr": "26.69 KB"
+}
+{
+  "_id": {
+    "$oid": "5c6550612c812a457721374b"
+  },
+  "owners": [
+    "hsyn",
+    "admin"
+  ],
+  "users": [
+    "guest",
+    "hsyn",
+    "admin"
+  ],
+  "basename": "Ekran Alıntısı.PNG",
+  "name": "1550143585776-Ekran Alıntısı.PNG",
+  "folder": "portfolio/industry",
+  "mate": null,
+  "date": "2019.02.14 11:26:25",
+  "size": 11921,
+  "sizeStr": "11.64 KB"
+}
+{
+  "_id": {
+    "$oid": "5c6551a02c812a457721374c"
+  },
+  "owners": [
+    "hsyn",
+    "admin"
+  ],
+  "users": [
+    "guest",
+    "hsyn",
+    "admin"
+  ],
+  "basename": "0100543.png",
+  "name": "1550143904555-0100543.png",
+  "folder": "portfolio/industry",
+  "mate": null,
+  "date": "2019.02.14 11:31:44",
+  "size": 4308,
+  "sizeStr": "4.21 KB"
+}
+{
+  "_id": {
+    "$oid": "5c6551cb2c812a457721374d"
+  },
+  "owners": [
+    "hsyn",
+    "admin"
+  ],
+  "users": [
+    "guest",
+    "hsyn",
+    "admin"
+  ],
+  "basename": "logo-antenna-experts.gif",
+  "name": "1550143947764-logo-antenna-experts.gif",
+  "folder": "portfolio/industry",
+  "mate": null,
+  "date": "2019.02.14 11:32:27",
+  "size": 8374,
+  "sizeStr": "8.18 KB"
+}
+{
+  "_id": {
+    "$oid": "5c6552772c812a457721374e"
+  },
+  "owners": [
+    "hsyn",
+    "admin"
+  ],
+  "users": [
+    "guest",
+    "hsyn",
+    "admin"
+  ],
+  "basename": "Ekran Alıntısı.PNG",
+  "name": "1550144119031-Ekran Alıntısı.PNG",
+  "folder": "portfolio/industry",
+  "mate": null,
+  "date": "2019.02.14 11:35:19",
+  "size": 21327,
+  "sizeStr": "20.83 KB"
+}
+{
+  "_id": {
+    "$oid": "5c6bfe5b2c812a457721374f"
+  },
+  "owners": [
+    "hsyn",
+    "admin"
+  ],
+  "users": [
+    "guest",
+    "hsyn",
+    "admin"
+  ],
+  "basename": "ticra-logo.svg",
+  "name": "1550581339771-ticra-logo.svg",
+  "folder": "portfolio/industry",
+  "mate": null,
+  "date": "2019.02.19 13:02:19",
+  "size": 4416,
+  "sizeStr": "4.31 KB"
+}
+{
+  "_id": {
+    "$oid": "5ca5bb3e1b9c8813a0e5adb2"
+  },
+  "owners": [
+    "hsyn",
+    "admin"
+  ],
+  "users": [
+    "guest",
+    "hsyn",
+    "admin"
+  ],
+  "basename": "logo.png",
+  "name": "1554365246948-logo.png",
+  "folder": "portfolio/industry",
+  "mdate": null,
+  "date": "2019-04-04 08:07:26",
+  "mimetype": "image/png",
+  "size": 2931,
+  "sizeStr": "2.86 KB"
+}
+{
+  "_id": {
+    "$oid": "5ca5bbbf1b9c8813a0e5adb3"
+  },
+  "owners": [
+    "hsyn",
+    "admin"
+  ],
+  "users": [
+    "guest",
+    "hsyn",
+    "admin"
+  ],
+  "basename": "logo.png",
+  "name": "1554365375946-logo.png",
+  "folder": "portfolio/industry",
+  "mdate": null,
+  "date": "2019-04-04 08:09:35",
+  "mimetype": "image/png",
+  "size": 2931,
+  "sizeStr": "2.86 KB"
+}
+{
+  "_id": {
+    "$oid": "5caee2561b9c8813a0e5adb4"
+  },
+  "owners": [
+    "hsyn",
+    "admin"
+  ],
+  "users": [
+    "guest",
+    "hsyn",
+    "admin"
+  ],
+  "basename": "cropped-Antenit-Logo.png",
+  "name": "1554965078427-cropped-Antenit-Logo.png",
+  "folder": "portfolio/industry",
+  "mdate": null,
+  "date": "2019-04-11 06:44:38",
+  "mimetype": "image/png",
+  "size": 8815,
+  "sizeStr": "8.61 KB"
+}
+{
+  "_id": {
+    "$oid": "5caee26c1b9c8813a0e5adb5"
+  },
+  "owners": [
+    "hsyn",
+    "admin"
+  ],
+  "users": [
+    "guest",
+    "hsyn",
+    "admin"
+  ],
+  "basename": "Artboard-1.png",
+  "name": "1554965100309-Artboard-1.png",
+  "folder": "portfolio/industry",
+  "mdate": null,
+  "date": "2019-04-11 06:45:00",
+  "mimetype": "image/png",
+  "size": 255254,
+  "sizeStr": "249.27 KB"
+}
+{
+  "_id": {
+    "$oid": "5caee2b31b9c8813a0e5adb6"
+  },
+  "owners": [
+    "hsyn",
+    "admin"
+  ],
+  "users": [
+    "guest",
+    "hsyn",
+    "admin"
+  ],
+  "basename": "logo_92a7ef8aebacaffb0c6ec3ef41627d8f_2x.png",
+  "name": "1554965171894-logo_92a7ef8aebacaffb0c6ec3ef41627d8f_2x.png",
+  "folder": "portfolio/industry",
+  "mdate": null,
+  "date": "2019-04-11 06:46:11",
+  "mimetype": "image/png",
+  "size": 8220,
+  "sizeStr": "8.03 KB"
+}
+{
+  "_id": {
+    "$oid": "5caee2dc1b9c8813a0e5adb7"
+  },
+  "owners": [
+    "hsyn",
+    "admin"
+  ],
+  "users": [
+    "guest",
+    "hsyn",
+    "admin"
+  ],
+  "basename": "Logo_EMITE.png",
+  "name": "1554965212270-Logo_EMITE.png",
+  "folder": "portfolio/industry",
+  "mdate": null,
+  "date": "2019-04-11 06:46:52",
+  "mimetype": "image/png",
+  "size": 3882,
+  "sizeStr": "3.79 KB"
+}
+{
+  "_id": {
+    "$oid": "5caee30e1b9c8813a0e5adb8"
+  },
+  "owners": [
+    "hsyn",
+    "admin"
+  ],
+  "users": [
+    "guest",
+    "hsyn",
+    "admin"
+  ],
+  "basename": "logo.png",
+  "name": "1554965262122-logo.png",
+  "folder": "portfolio/industry",
+  "mdate": null,
+  "date": "2019-04-11 06:47:42",
+  "mimetype": "image/png",
+  "size": 132637,
+  "sizeStr": "129.53 KB"
+}
+{
+  "_id": {
+    "$oid": "5caee3351b9c8813a0e5adb9"
+  },
+  "owners": [
+    "hsyn",
+    "admin"
+  ],
+  "users": [
+    "guest",
+    "hsyn",
+    "admin"
+  ],
+  "basename": "logo.svg",
+  "name": "1554965301785-logo.svg",
+  "folder": "portfolio/industry",
+  "mdate": null,
+  "date": "2019-04-11 06:48:21",
+  "mimetype": "image/svg+xml",
+  "size": 6331,
+  "sizeStr": "6.18 KB"
+}
+{
+  "_id": {
+    "$oid": "5cc008d242e7d10968e7fa56"
+  },
+  "owners": [
+    "hsyn",
+    "admin"
+  ],
+  "users": [
+    "guest",
+    "hsyn",
+    "admin"
+  ],
+  "basename": "AllWaveLogo.png",
+  "name": "1556089042957-AllWaveLogo.png",
+  "folder": "portfolio/industry",
+  "mdate": null,
+  "date": "2019-04-24 06:57:22",
+  "mimetype": "image/png",
+  "size": 27155,
+  "sizeStr": "26.52 KB"
+}
+{
+  "_id": {
+    "$oid": "5cc008dc42e7d10968e7fa57"
+  },
+  "owners": [
+    "hsyn",
+    "admin"
+  ],
+  "users": [
+    "guest",
+    "hsyn",
+    "admin"
+  ],
+  "basename": "logo.png",
+  "name": "1556089052276-logo.png",
+  "folder": "portfolio/industry",
+  "mdate": null,
+  "date": "2019-04-24 06:57:32",
+  "mimetype": "image/png",
+  "size": 22901,
+  "sizeStr": "22.36 KB"
+}
+{
+  "_id": {
+    "$oid": "5cc008f642e7d10968e7fa58"
+  },
+  "owners": [
+    "hsyn",
+    "admin"
+  ],
+  "users": [
+    "guest",
+    "hsyn",
+    "admin"
+  ],
+  "basename": "jampro-antennas-logo-1.gif",
+  "name": "1556089078421-jampro-antennas-logo-1.gif",
+  "folder": "portfolio/industry",
+  "mdate": null,
+  "date": "2019-04-24 06:57:58",
+  "mimetype": "image/gif",
+  "size": 8906,
+  "sizeStr": "8.7 KB"
+}
+{
+  "_id": {
+    "$oid": "5cc0093242e7d10968e7fa59"
+  },
+  "owners": [
+    "hsyn",
+    "admin"
+  ],
+  "users": [
+    "guest",
+    "hsyn",
+    "admin"
+  ],
+  "basename": "Ekran Alıntısı.PNG",
+  "name": "1556089138806-Ekran Alıntısı.PNG",
+  "folder": "portfolio/industry",
+  "mdate": null,
+  "date": "2019-04-24 06:58:58",
+  "mimetype": "image/png",
+  "size": 7695,
+  "sizeStr": "7.51 KB"
+}
+{
+  "_id": {
+    "$oid": "5cc0096142e7d10968e7fa5a"
+  },
+  "owners": [
+    "hsyn",
+    "admin"
+  ],
+  "users": [
+    "guest",
+    "hsyn",
+    "admin"
+  ],
+  "basename": "Ekran Alıntısı.PNG",
+  "name": "1556089185445-Ekran Alıntısı.PNG",
+  "folder": "portfolio/industry",
+  "mdate": null,
+  "date": "2019-04-24 06:59:45",
+  "mimetype": "image/png",
+  "size": 7057,
+  "sizeStr": "6.89 KB"
+}
+{
+  "_id": {
+    "$oid": "5cc0099042e7d10968e7fa5b"
+  },
+  "owners": [
+    "hsyn",
+    "admin"
+  ],
+  "users": [
+    "guest",
+    "hsyn",
+    "admin"
+  ],
+  "basename": "rftr_logo.svg",
+  "name": "1556089232294-rftr_logo.svg",
+  "folder": "portfolio/industry",
+  "mdate": null,
+  "date": "2019-04-24 07:00:32",
+  "mimetype": "image/svg+xml",
+  "size": 5177,
+  "sizeStr": "5.06 KB"
+}
+{
+  "_id": {
+    "$oid": "5cc009aa42e7d10968e7fa5c"
+  },
+  "owners": [
+    "hsyn",
+    "admin"
+  ],
+  "users": [
+    "guest",
+    "hsyn",
+    "admin"
+  ],
+  "basename": "super-apex-logo.png",
+  "name": "1556089258479-super-apex-logo.png",
+  "folder": "portfolio/industry",
+  "mdate": null,
+  "date": "2019-04-24 07:00:58",
+  "mimetype": "image/png",
+  "size": 5200,
+  "sizeStr": "5.08 KB"
+}
+{
+  "_id": {
+    "$oid": "5cc00a4142e7d10968e7fa5d"
+  },
+  "owners": [
+    "hsyn",
+    "admin"
+  ],
+  "users": [
+    "guest",
+    "hsyn",
+    "admin"
+  ],
+  "basename": "logo (1).png",
+  "name": "1556089409332-logo (1).png",
+  "folder": "portfolio/industry",
+  "mdate": null,
+  "date": "2019-04-24 07:03:29",
+  "mimetype": "image/png",
+  "size": 1981,
+  "sizeStr": "1.93 KB"
+}
+{
+  "_id": {
+    "$oid": "5cc00a5c42e7d10968e7fa5e"
+  },
+  "owners": [
+    "hsyn",
+    "admin"
+  ],
+  "users": [
+    "guest",
+    "hsyn",
+    "admin"
+  ],
+  "basename": "QWEDLogoMagentaBigOK2small.png",
+  "name": "1556089436531-QWEDLogoMagentaBigOK2small.png",
+  "folder": "portfolio/industry",
+  "mdate": null,
+  "date": "2019-04-24 07:03:56",
+  "mimetype": "image/png",
+  "size": 1783,
+  "sizeStr": "1.74 KB"
+}
+{
+  "_id": {
+    "$oid": "5d30154e33a23f041724fe3f"
+  },
+  "owners": [
+    "hsyn",
+    "admin"
+  ],
+  "users": [
+    "guest",
+    "hsyn",
+    "admin"
+  ],
+  "basename": "Ekran Alıntısı.PNG",
+  "name": "1563432270143-Ekran Alıntısı.PNG",
+  "folder": "portfolio/industry",
+  "mdate": null,
+  "date": "2019-07-18 06:44:30",
+  "mimetype": "image/png",
+  "size": 19325,
+  "sizeStr": "18.87 KB"
+}
+{
+  "_id": {
+    "$oid": "5d30158a33a23f041724fe40"
+  },
+  "owners": [
+    "hsyn",
+    "admin"
+  ],
+  "users": [
+    "guest",
+    "hsyn",
+    "admin"
+  ],
+  "basename": "Ekran Alıntısı.PNG",
+  "name": "1563432330884-Ekran Alıntısı.PNG",
+  "folder": "portfolio/industry",
+  "mdate": null,
+  "date": "2019-07-18 06:45:30",
+  "mimetype": "image/png",
+  "size": 79168,
+  "sizeStr": "77.31 KB"
+}
+{
+  "_id": {
+    "$oid": "5d3015df33a23f041724fe41"
+  },
+  "owners": [
+    "hsyn",
+    "admin"
+  ],
+  "users": [
+    "guest",
+    "hsyn",
+    "admin"
+  ],
+  "basename": "Ekran Alıntısı.PNG",
+  "name": "1563432415889-Ekran Alıntısı.PNG",
+  "folder": "portfolio/industry",
+  "mdate": null,
+  "date": "2019-07-18 06:46:55",
+  "mimetype": "image/png",
+  "size": 79168,
+  "sizeStr": "77.31 KB"
+}
+{
+  "_id": {
+    "$oid": "5d30162033a23f041724fe42"
+  },
+  "owners": [
+    "hsyn",
+    "admin"
+  ],
+  "users": [
+    "guest",
+    "hsyn",
+    "admin"
+  ],
+  "basename": "logo.png",
+  "name": "1563432480875-logo.png",
+  "folder": "portfolio/industry",
+  "mdate": null,
+  "date": "2019-07-18 06:48:00",
+  "mimetype": "image/png",
+  "size": 2916,
+  "sizeStr": "2.85 KB"
+}
+{
+  "_id": {
+    "$oid": "5d30168633a23f041724fe43"
+  },
+  "owners": [
+    "hsyn",
+    "admin"
+  ],
+  "users": [
+    "guest",
+    "hsyn",
+    "admin"
+  ],
+  "basename": "m12 connector.png",
+  "name": "1563432582148-m12 connector.png",
+  "folder": "portfolio/industry",
+  "mdate": null,
+  "date": "2019-07-18 06:49:42",
+  "mimetype": "image/png",
+  "size": 31080,
+  "sizeStr": "30.35 KB"
+}
+{
+  "_id": {
+    "$oid": "5d3016f833a23f041724fe44"
+  },
+  "owners": [
+    "hsyn",
+    "admin"
+  ],
+  "users": [
+    "guest",
+    "hsyn",
+    "admin"
+  ],
+  "basename": "aaronia_ag_logo.png",
+  "name": "1563432696663-aaronia_ag_logo.png",
+  "folder": "portfolio/industry",
+  "mdate": null,
+  "date": "2019-07-18 06:51:36",
+  "mimetype": "image/png",
+  "size": 11055,
+  "sizeStr": "10.8 KB"
+}
+{
+  "_id": {
+    "$oid": "5d30173c33a23f041724fe45"
+  },
+  "owners": [
+    "hsyn",
+    "admin"
+  ],
+  "users": [
+    "guest",
+    "hsyn",
+    "admin"
+  ],
+  "basename": "logo_48f95e86cd19214cd72e6498cb3570c4_2x.png",
+  "name": "1563432764307-logo_48f95e86cd19214cd72e6498cb3570c4_2x.png",
+  "folder": "portfolio/industry",
+  "mdate": null,
+  "date": "2019-07-18 06:52:44",
+  "mimetype": "image/png",
+  "size": 11945,
+  "sizeStr": "11.67 KB"
+}
+{
+  "_id": {
+    "$oid": "5d30176933a23f041724fe46"
+  },
+  "owners": [
+    "hsyn",
+    "admin"
+  ],
+  "users": [
+    "guest",
+    "hsyn",
+    "admin"
+  ],
+  "basename": "logo (1).png",
+  "name": "1563432809132-logo (1).png",
+  "folder": "portfolio/industry",
+  "mdate": null,
+  "date": "2019-07-18 06:53:29",
+  "mimetype": "image/png",
+  "size": 5867,
+  "sizeStr": "5.73 KB"
+}
+{
+  "_id": {
+    "$oid": "5d30179133a23f041724fe47"
+  },
+  "owners": [
+    "hsyn",
+    "admin"
+  ],
+  "users": [
+    "guest",
+    "hsyn",
+    "admin"
+  ],
+  "basename": "afc_logo.gif",
+  "name": "1563432849193-afc_logo.gif",
+  "folder": "portfolio/industry",
+  "mdate": null,
+  "date": "2019-07-18 06:54:09",
+  "mimetype": "image/gif",
+  "size": 8283,
+  "sizeStr": "8.09 KB"
+}
+{
+  "_id": {
+    "$oid": "5d30185533a23f041724fe48"
+  },
+  "owners": [
+    "hsyn",
+    "admin"
+  ],
+  "users": [
+    "guest",
+    "hsyn",
+    "admin"
+  ],
+  "basename": "rfMicroLogo.jpg",
+  "name": "1563433045679-rfMicroLogo.jpg",
+  "folder": "portfolio/industry",
+  "mdate": null,
+  "date": "2019-07-18 06:57:25",
+  "mimetype": "image/jpeg",
+  "size": 37380,
+  "sizeStr": "36.5 KB"
+}
