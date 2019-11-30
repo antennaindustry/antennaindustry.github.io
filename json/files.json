@@ -4526,11 +4526,5 @@
       "$oid": "009"
     },
     "name": "empire-logo.png"
-  },
-  {
-    "_id": {
-      "$oid": "010"
-    },
-    "name": "huawei_logo.png"
   }
 ]
