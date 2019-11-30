@@ -14230,5 +14230,71 @@
     "title": "Smitek English - Tailor-made antenna measurement systems",
     "logo": "004",
     "portfolio": "industry"
+  },
+  {
+    "_id": {
+      "$oid": "0005"
+    },
+    "id": 1005,
+    "class": "Industry",
+    "category": "cable-connector",
+    "url": "http://www.hualinkrf.com/index.php?s=/Website/Website/webindex/lan/en.html",    
+    "meta": "",
+    "title": "HUALINK - RF Connector-Adaptor,Cable assembly,Board to Board,SMA,3.5,2.92,SMK,K type,2.4,1.85,V type,1mm,W1 type,Type N,MCX,MMCX,SMP,GPO,SMPM,GPPO,SSMP,5G,mobile test",
+    "logo": "005",
+    "portfolio": "industry"
+  },
+  {
+    "_id": {
+      "$oid": "0006"
+    },
+    "id": 1006,
+    "class": "Industry",
+    "category": "antenna",
+    "url": "https://www.intelliantech.com/?lang=en",    
+    "meta": "",
+    "title": "Intellian - Satellite Communication Antennas",
+    "logo": "006",
+    "portfolio": "industry"
+  },
+  {
+    "_id": {
+      "$oid": "0007"
+    },
+    "id": 1007,
+    "class": "Industry",
+    "category": "antenna, radome",
+    "url": "https://gdmissionsystems.com",    
+    "meta": "",
+    "title": "General Dynamics Mission Systems",
+    "logo": "007",
+    "portfolio": "industry"
+  },
+  {
+    "_id": {
+      "$oid": "0008"
+    },
+    "id": 1008,
+    "class": "Industry",
+    "category": "antenna, measurement",
+    "url": "http://www.imst.com/imst/en/index.php",    
+    "meta": "",
+    "title": "News | Home | IMST GmbH",
+    "logo": "008",
+    "portfolio": "industry"
+  },
+  {
+    "_id": {
+      "$oid": "0009"
+    },
+    "id": 1009,
+    "class": "Industry",
+    "category": "software",
+    "url": "http://www.empire.de/",    
+    "meta": "",
+    "title": "EMPIRE XPU - FDTD Simulator for 3D EM Modeling of Antennas, Filters, Multilayer Components, Packages, Waveguide Elements, RCS, EMC and SAR Calculations",
+    "logo": "009",
+    "portfolio": "industry"
   }
+  
 ]

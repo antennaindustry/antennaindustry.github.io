@@ -4496,5 +4496,35 @@
       "$oid": "004"
     },
     "name": "logo.svg"
+  },
+  {
+    "_id": {
+      "$oid": "005"
+    },
+    "name": "hualinkrf-logo.jpg"
+  },
+  {
+    "_id": {
+      "$oid": "006"
+    },
+    "name": "intellian-logo.png"
+  },
+  {
+    "_id": {
+      "$oid": "007"
+    },
+    "name": "gdms-logo.png"
+  },
+  {
+    "_id": {
+      "$oid": "008"
+    },
+    "name": "imst-logo.png"
+  },
+  {
+    "_id": {
+      "$oid": "009"
+    },
+    "name": "empire-logo.png"
   }
 ]
