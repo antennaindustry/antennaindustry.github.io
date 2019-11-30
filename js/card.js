@@ -25,7 +25,7 @@ ready(function () {
         el_div0.className = "card filter " + companies[i].category.replaceAll(",", "")
 
         // console.log(companies[i].logo)
-        // console.log(json2.find(item => item._id.$oid == companies[i].logo))
+        console.log(json2.find(item => item._id.$oid == companies[i].logo))
         el_div0_a0_img0.setAttribute("src", "img/logos/" + json2.find(item => item._id.$oid == companies[i].logo).name)
         el_div0_a0_img0.setAttribute("alt", companies[i].title)
         el_div0_a0.setAttribute("href", companies[i].url)
