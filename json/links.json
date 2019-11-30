@@ -14295,6 +14295,19 @@
     "title": "EMPIRE XPU - FDTD Simulator for 3D EM Modeling of Antennas, Filters, Multilayer Components, Packages, Waveguide Elements, RCS, EMC and SAR Calculations",
     "logo": "009",
     "portfolio": "industry"
+  },
+  {
+    "_id": {
+      "$oid": "0010"
+    },
+    "id": 1010,
+    "class": "Industry",
+    "category": "antenna",
+    "url": "https://carrier.huawei.com/en/products/antenna",    
+    "meta": "",
+    "title": "Huawei - Antenna",
+    "logo": "010",
+    "portfolio": "industry"
   }
   
 ]
