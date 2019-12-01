@@ -4538,5 +4538,47 @@
       "$oid": "011"
     },
     "name": "preperm-logo.png"
+  },
+  {
+    "_id": {
+      "$oid": "012"
+    },
+    "name": "alcan-logo.PNG"
+  },
+  {
+    "_id": {
+      "$oid": "013"
+    },
+    "name": "teledyne.jpg"
+  },
+  {
+    "_id": {
+      "$oid": "014"
+    },
+    "name": "krytar.PNG"
+  },
+  {
+    "_id": {
+      "$oid": "015"
+    },
+    "name": "norden.PNG"
+  },
+  {
+    "_id": {
+      "$oid": "016"
+    },
+    "name": "optenni.png"
+  },
+  {
+    "_id": {
+      "$oid": "017"
+    },
+    "name": "heavyside.png"
+  },
+  {
+    "_id": {
+      "$oid": "018"
+    },
+    "name": "virtualem.PNG"
   }
 ]

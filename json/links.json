@@ -7209,7 +7209,7 @@
     },
     "id": 1.537737073323e+12,
     "class": "Industry",
-    "category": "measurement, antenna, rf, microwave",
+    "category": "measurement, antenna, rf, microwave, mm-wave",
     "url": "https://www.rohde-schwarz.com",
     "period": "90",
     "lastvisit": "2019-04-10",
@@ -14321,6 +14321,96 @@
     "title": "Dielectric Materials with Ultra-low Losses Even at mmWaves | PREPERM®",
     "logo": "011",
     "portfolio": "industry"
-  }
-  
+  },
+  {
+    "_id": {
+      "$oid": "0012"
+    },
+    "id": 1012,
+    "class": "Industry",
+    "category": "antenna",
+    "url": "https://www.alcansystems.com/",    
+    "meta": "",
+    "title": "Home - ALCAN Systems",
+    "logo": "012",
+    "portfolio": "industry"
+  },
+  {
+    "_id": {
+      "$oid": "0013"
+    },
+    "id": 1013,
+    "class": "Industry",
+    "category": "rf",
+    "url": "https://www.teledynecoax.com/",    
+    "meta": "",
+    "title": "Everywhereyoulook™​​ Teledyne Coax provides RF & Microwave switching solutions for SATCOM, military & space applications, test & measurement equipment, and ATE systems. ",
+    "logo": "013",
+    "portfolio": "industry"
+  },
+  {
+    "_id": {
+      "$oid": "0014"
+    },
+    "id": 1014,
+    "class": "Industry",
+    "category": "microwave",
+    "url": "https://krytar.com/",    
+    "meta": "",
+    "title": "KRYTAR - Broadband Microwave Components & Equipment",
+    "logo": "014",
+    "portfolio": "industry"
+  },
+  {
+    "_id": {
+      "$oid": "0015"
+    },
+    "id": 1015,
+    "class": "Industry",
+    "category": "microwave, mm-wave",
+    "url": "http://www.nordengroup.com/",    
+    "meta": "",
+    "title": "Norden Millimeter – Meeting your RF Requirements today, tomorrow, and into the future.",
+    "logo": "015",
+    "portfolio": "industry"
+  },
+  {
+    "_id": {
+      "$oid": "0016"
+    },
+    "id": 1016,
+    "class": "Industry",
+    "category": "software",
+    "url": "https://www.optenni.com/",    
+    "meta": "",
+    "title": "Matching Circuit Design - Optenni Lab",
+    "logo": "016",
+    "portfolio": "industry"
+  },
+  {
+    "_id": {
+      "$oid": "0017"
+    },
+    "id": 1017,
+    "class": "Industry",
+    "category": "software",
+    "url": "https://heavysidecorp.com/",    
+    "meta": "",
+    "title": "Heavyside Corporation – Specialists in EM Simulation",
+    "logo": "017",
+    "portfolio": "industry"
+  },
+  {
+    "_id": {
+      "$oid": "0018"
+    },
+    "id": 1018,
+    "class": "Industry",
+    "category": "software",
+    "url": "http://virtualem.com/",    
+    "meta": "",
+    "title": "Virtual EM | Inc.",
+    "logo": "018",
+    "portfolio": "industry"
+  }  
 ]
