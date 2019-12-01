@@ -14308,6 +14308,19 @@
     "title": "Huawei - Antenna",
     "logo": "010",
     "portfolio": "industry"
+  },
+  {
+    "_id": {
+      "$oid": "0011"
+    },
+    "id": 1011,
+    "class": "Industry",
+    "category": "radome",
+    "url": "https://www.preperm.com/",    
+    "meta": "",
+    "title": "Dielectric Materials with Ultra-low Losses Even at mmWaves | PREPERM®",
+    "logo": "011",
+    "portfolio": "industry"
   }
   
 ]

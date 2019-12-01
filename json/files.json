@@ -4532,5 +4532,11 @@
       "$oid": "010"
     },
     "name": "huawei_logo.png"
+  },
+  {
+    "_id": {
+      "$oid": "011"
+    },
+    "name": "preperm-logo.png"
   }
 ]
