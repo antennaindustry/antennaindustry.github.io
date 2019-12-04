@@ -26,7 +26,12 @@ ready(function () {
         //   console.log(companies[i].logo)
         //   return item._id.$oid == companies[i].logo
         // })
-        el_div0_a0_img0.setAttribute("src", "img/logos/" + companies[i].logo)
+        if(companies[i].logo.includes("http")){
+          el_div0_a0_img0.setAttribute("src", companies[i].logo)
+        }
+        else{
+          el_div0_a0_img0.setAttribute("src", "img/logos/" + companies[i].logo)
+        }
         el_div0_a0_img0.setAttribute("alt", companies[i].title)
         el_div0_a0.setAttribute("href", companies[i].url)
         el_div0_a0.setAttribute("target", "_blank")
