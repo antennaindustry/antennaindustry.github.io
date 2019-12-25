@@ -1013,5 +1013,13 @@
     "logo": "https://static.wixstatic.com/media/64c028_b2d2d867d35147889f87c3131fcc8ff0~mv2_d_13482_3667_s_2.png/v1/fill/w_417,h_113,al_c,q_80,usm_0.66_1.00_0.01/64c028_b2d2d867d35147889f87c3131fcc8ff0~mv2_d_13482_3667_s_2.webp",
     "google": 2,
     "cpr": 2.4
+  },
+  {
+    "category": "rf",
+    "url": "https://www.novotronik.com/en/",
+    "title": "Novotronik: Cutting-edge high-frequency technology",
+    "logo": "https://www.novotronik.com/typo3conf/ext/theme_bootstrap4_novotronik/Resources/Public/Images/logo-footer.svg",
+    "google": 2,
+    "cpr": 1.8
   }
 ]
