@@ -1021,5 +1021,38 @@
     "logo": "https://www.novotronik.com/typo3conf/ext/theme_bootstrap4_novotronik/Resources/Public/Images/logo-footer.svg",
     "google": 2,
     "cpr": 1.8
+  },
+  {
+    "category": "rf",
+    "url": "https://www.knowlescapacitors.com/",
+    "title": "Specialty Components | Knowles Precision Devices",
+    "logo": "https://www.knowlescapacitors.com/KnowlesCapacitors/media/Home/knowlesPDWhite250w.png",
+    "log0_background": "#3ea6e1",
+    "google": 3.0,
+    "cpr": 3.6
+  },
+  {
+    "category": "radome",
+    "url": "https://www2.l3t.com/essco/",
+    "title": "Radomes - L3 ESSCO",
+    "logo": "https://www2.l3t.com/redesign/img/newco/logo.png",
+    "google": 5.0,
+    "cpr": 5.7
+  },
+  {
+    "category": "microwave, waveguide",
+    "url": "http://www.flexiguide.com/home.htm",
+    "title": "WAVEGUIDES Flexible Waveguide manufacturers custom waveguide suppliers FLEXIGUIDE LIMITED UK",
+    "logo": "http://www.flexiguide.com/images/template/logo_page.gif",
+    "google": 2.0,
+    "cpr": 2.3
+  },
+  {
+    "category": "microwave, waveguide",
+    "url": "https://ferriteinc.com/",
+    "title": "Industrial Microwave Systems | Components & Integrated Assemblies",
+    "logo": "https://ferriteinc.com/wp-content/uploads/2016/04/FMTnew-white.png",
+    "google": 3.0,
+    "cpr": 2.9
   }
 ]
