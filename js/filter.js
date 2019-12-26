@@ -5,6 +5,7 @@ let categories = [
   { id: "microwave", name: "Microwave" },
   { id: "mm-wave", name: "MM-Wave" },
   { id: "measurement", name: "Test & Measurement" },
+  { id: "waveguide", name: "Waveguide"  },
   { id: "cable-connector", name: "Cable & Connector" },
   { id: "pcb", name: "PCB" },
   { id: "absorber", name: "Absorber" },
