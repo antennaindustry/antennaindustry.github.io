@@ -32,6 +32,9 @@ ready(function () {
         else{
           el_div0_a0_img0.setAttribute("src", "img/logos/" + companies[i].logo)
         }
+        if(companies[i].logo_background){
+          el_div0_a0_img0.style.backgroundColor = companies[i].logo_background
+        }
         el_div0_a0_img0.setAttribute("alt", companies[i].title)
         el_div0_a0.setAttribute("href", companies[i].url)
         el_div0_a0.setAttribute("target", "_blank")

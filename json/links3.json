@@ -1086,5 +1086,14 @@
     "logo": "https://www.stevenagecircuits.co.uk/_/img/logo.svg",
     "google": 2.0,
     "cpr": 2.6
+  },
+  {
+    "category": "microwave, mm-wave, measurement",
+    "url": "https://www.spaceklabs.com/",
+    "title": "Spacek Labs: Millimeter Wave Components, Sub-Systems, and Custom Solutions",
+    "logo": "https://d2f6h2rm95zg9t.cloudfront.net/46889259/spacek-labs-logo_636603499549522943.png",
+    "logo_background": "#314555",
+    "google": 2.0,
+    "cpr": 2.5
   }
 ]
