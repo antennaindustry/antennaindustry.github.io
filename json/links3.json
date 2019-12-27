@@ -1062,5 +1062,13 @@
     "logo": "http://www.waveline-inc.com/images/waveline.gif",
     "google": 1.0,
     "cpr": 1.3
+  },
+  {
+    "category": "radome",
+    "url": "http://unitech-aerospace.com/",
+    "title": "Home | Unitech Aerospace",
+    "logo": "http://unitech-aerospace.com/sites/all/themes/aerocomposites/logo.png",
+    "google": 3.0,
+    "cpr": 3.1
   }
 ]
