@@ -1095,5 +1095,13 @@
     "logo_background": "#314555",
     "google": 2.0,
     "cpr": 2.5
+  },
+  {
+    "category": "microwave, waveguide",
+    "url": "https://www.sectormicrowave.com/",
+    "title": "Sector Microwave Industries",
+    "logo": "http://www.spantech.es/images/firm/SMIalogo.jpg",
+    "google": 2.0,
+    "cpr": 2.3
   }
 ]
