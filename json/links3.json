@@ -1070,5 +1070,21 @@
     "logo": "http://unitech-aerospace.com/sites/all/themes/aerocomposites/logo.png",
     "google": 3.0,
     "cpr": 3.1
+  },
+  {
+    "category": "antenna",
+    "url": "https://www.tallysman.com/",
+    "title": "Homepage | Tallysman",
+    "logo": "https://www.tallysman.com/app/uploads/2019/09/Tallysman-Logo-Web_Bleed-1.png",
+    "google": 3.0,
+    "cpr": 3.6
+  },
+  {
+    "category": "pcb",
+    "url": "https://www.stevenagecircuits.co.uk/",
+    "title": "Homepage | Stevenage Circuits",
+    "logo": "https://www.stevenagecircuits.co.uk/_/img/logo.svg",
+    "google": 2.0,
+    "cpr": 2.6
   }
 ]
