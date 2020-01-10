@@ -1103,5 +1103,17 @@
     "logo": "http://www.spantech.es/images/firm/SMIalogo.jpg",
     "google": 2.0,
     "cpr": 2.3
+  },
+  {
+    "category": "measurement",
+    "url": "http://www.wave-scientific.com/",
+    "title": "Wave Scientific | Electromagnetic and Radio Frequency measurement specialists",
+    "logo": "http://www.wave-scientific.com/wp-content/uploads/2014/06/wslogo-web11.png"
+  },
+  {
+    "category": "rf, microwave, antenna",
+    "url": "https://www.fh-microwave.com/",
+    "title": "FH MICROWAVE",
+    "logo": "https://www.fh-microwave.com/s/misc/logo.png?t=1578061748"
   }
 ]
