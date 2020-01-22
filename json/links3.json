@@ -1027,7 +1027,7 @@
     "url": "https://www.knowlescapacitors.com/",
     "title": "Specialty Components | Knowles Precision Devices",
     "logo": "https://www.knowlescapacitors.com/KnowlesCapacitors/media/Home/knowlesPDWhite250w.png",
-    "log0_background": "#3ea6e1",
+    "logo_background": "#3ea6e1",
     "google": 3.0,
     "cpr": 3.6
   },
@@ -1121,5 +1121,12 @@
     "url": "http://www.rohoconnector.com/",
     "title": "Roho Communication Technology (Shenzhen)Co.,Ltd",
     "logo": "http://www.rohoconnector.com/pic/logo/logo.gif"
+  },
+  {
+    "category": "lightning, waveguide, rf, microwave",
+    "url": "https://www.etlsystems.com/",
+    "title": "Designers and manufacturers of RF distribution equipment | ETL Systems",
+    "logo": "https://www.etlsystems.com/themes/custom/etl/assets/public/images/logo.svg",
+    "logo_background": "#134655"
   }
 ]
