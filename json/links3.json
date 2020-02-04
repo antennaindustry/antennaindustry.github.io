@@ -1134,5 +1134,11 @@
     "url": "http://umcc111.com/index.html",
     "title": "Universal Microwave Components Corporation",
     "logo": "http://umcc111.com/UMCC-Logo.gif"
+  },
+  {
+    "category": "rf",
+    "url": "https://www.mms-rf.com/",
+    "title": "Midwest Microwave Solutions - High Performance RF Tuners & Digitizers",
+    "logo": "https://www.mms-rf.com/Themes/MidwestMicrowaveSolutions/Content/mms-logo.png"
   }
 ]
