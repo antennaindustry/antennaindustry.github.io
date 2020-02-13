@@ -561,12 +561,6 @@
     "logo": "1541748599426-Ekran Alıntısı.PNG"
   },
   {
-    "category": "absorber, shielding",
-    "url": "https://www.solianiemc.com/en/",
-    "title": "Shielding products, shielding gaskets, conductive adhesives and sealants, shielded Rooms",
-    "logo": "1541748479155-logo.png"
-  },
-  {
     "category": "cable-connector, lightning",
     "url": "http://www.timesmicrowave.com/",
     "title": "Welcome to Times Microwave",
@@ -1152,5 +1146,11 @@
     "url": "https://www.polyphaser.com/",
     "title": "Lightning Protection For Industrial Applications",
     "logo": "https://www.polyphaser.com/Content/images/thumbs/0100584.png"
+  },
+  {
+    "category": "measurement, absorber",
+    "url": "https://www.solianiemc.com/en/",
+    "title": "Shielding products, shielding gaskets, conductive adhesives and sealants, shielded Rooms",
+    "logo": "https://www.solianiemc.com/wp-content/themes/iimage-boiler/assets/images/logo.png"
   }
 ]
