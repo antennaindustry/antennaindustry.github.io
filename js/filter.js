@@ -10,7 +10,7 @@ let categories = [
   { id: "pcb", name: "PCB" },
   { id: "absorber", name: "Absorber" },
   { id: "radome", name: "Radome" },
-  { id: "software", name: "Software" }
+  { id: "software", name: "Software" },
   { id: "lightning", name: "Lightning Protection" }
 ]
 
