@@ -1164,5 +1164,12 @@
     "url": "https://www.linkmicrotek.com/",
     "title": "Lead Supplier of Specialist Microwave Components | Link Microtek",
     "logo": "https://www.linkmicrotek.com/images/module_images/link_m_logo.png"
+  },
+  {
+    "category": "pcb",
+    "url": "https://www.raypcb.com/",
+    "title": "Printed Circuit Board Manufacturing & PCB Assembly - RayMing",
+    "logo": "https://raypcb.com/wp-content/uploads/2018/03/cb2b6b079b644ad.png",
+    "logo_background": "#313131"
   }
 ]
