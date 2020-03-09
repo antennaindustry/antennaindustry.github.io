@@ -11,7 +11,7 @@ let categories = [
   { id: "absorber", name: "Absorber" },
   { id: "radome", name: "Radome" },
   { id: "software", name: "Software" },
-  { id: "lightning", name: "Lightning & Surge" }
+  { id: "lightning", name: "Surge Protection" }
 ]
 
 ready(function() {
