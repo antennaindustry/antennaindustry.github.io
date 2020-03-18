@@ -1178,5 +1178,11 @@
     "title": "Array Solutions",
     "logo": "https://www.arraysolutions.com/image/data/logo.png",
     "logo_background": "#102e56"
+  },
+  {
+    "category": "software",
+    "url": "http://www.wavenology.com/",
+    "title": "Wave Computation Technologies (WCT) | Hybrid Multiscale Wave Simulator",
+    "logo": "http://www.wavenology.com/wp-content/themes/wave_template/images/logo-wave.jpg",
   }
 ]
