@@ -1184,5 +1184,11 @@
     "url": "http://www.wavenology.com/",
     "title": "Wave Computation Technologies (WCT) | Hybrid Multiscale Wave Simulator",
     "logo": "http://www.wavenology.com/wp-content/themes/wave_template/images/logo-wave.jpg"
+  },
+  {
+    "category": "absorber",
+    "url": "http://www.emc-emi.com/",
+    "title": "EMC SOLUTION-PIONEER EMC LTD",
+    "logo": "http://www.emc-emi.com/image/data/logo.png"
   }
 ]
