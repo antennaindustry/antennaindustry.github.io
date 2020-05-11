@@ -1190,5 +1190,11 @@
     "url": "http://www.emc-emi.com/",
     "title": "EMC SOLUTION-PIONEER EMC LTD",
     "logo": "http://www.emc-emi.com/image/data/logo.png"
+  },
+  {
+    "category": "microwave",
+    "url": "https://microwave-dynamics.com/",
+    "title": "Home | Microwave Dynamics",
+    "logo": "https://microwave-dynamics.com/wp-content/uploads/2016/05/MD-Logo.png"
   }
 ]
