@@ -1208,5 +1208,24 @@
     "url": "https://agc-nelco.com/",
     "title": "Home - AGC Nelco",
     "logo": "https://agc-nelco.com/wp-content/uploads/2019/04/AGC_Group-Brand-Logo_for-web-200px-h-new.jpg"
+  },
+  {
+    "category": "mm-wave, antenna, rf",
+    "url": "https://www.arralis.com/",
+    "title": "Arralis Technologies - Arralis",
+    "logo": "https://www.arralis.com/svg/arralis-green.svg",
+    "logo_background": "#212529"
+  },
+  {
+    "category": "antenna",
+    "url": "http://www.ft-rf.com/front/bin/home.phtml",
+    "title": "FT-RF , Antenna , Design , Manufacture",
+    "logo": "http://www.ft-rf.com/ezfiles/ft-rf/img/pictures/FT-RF%20antenna%20Inc-5-300x63.jpg"
+  },
+  {
+    "category": "antenna, mast, hf, microwave",
+    "url": "https://www.smc-comms.com/",
+    "title": "SMC Ltd - Telescopic Masts & Communication Solutions | South Midlands Communications",
+    "logo": "https://www.smc-comms.com/wp-content/uploads/2016/04/logo-adviceetc.png"
   }
 ]
