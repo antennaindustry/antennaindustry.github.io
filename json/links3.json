@@ -1312,10 +1312,16 @@
     "title": "Tabor Electronics | High-end, World leading, Signal Source Company",
     "logo": "https://www.taborelec.com/Pictures/logo.png"
   },
-   {
+  {
     "category": "rf",
     "url": "https://akoustis.com/",
     "title": "Akoustis Technologies | BAW Filters",
     "logo": "https://i.ibb.co/1nKxJZN/Ekran-Al-nt-s.png"
+  },
+   {
+    "category": "rf, microwave, antenna, waveguide, measurement",
+    "url": "https://caes.com/",
+    "title": "Leading Solutions for World's Critical Missions | Cobham AES",
+    "logo": "https://i.ibb.co/p3tvmGr/Ekran-Al-nt-s.png"
   }
 ]
