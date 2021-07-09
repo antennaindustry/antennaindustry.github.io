@@ -1335,5 +1335,11 @@
     "url": "https://www.erzia.com/",
     "title": "Erzia | Engineering solutions that take you further",
     "logo": "https://www.erzia.com/sites/all/themes/erzia2014/logo.png"
+  },
+  {
+    "category": "antenna",
+    "url": "https://horn.ft-rf.com.tw/",
+    "title": "Design , RF , EMC , OTA , EMI , Military , Microwave , Antenna Manufacturer , OEM , ODM",
+    "logo": "https://horn.ft-rf.com.tw/uploads/logo-2.png"
   }
 ]
